@@ -1,19 +1,19 @@
 <div align="center">
 
-# Certificates
+# Сертификаты
 
-[![Русский](https://img.shields.io/badge/README_Language-Русский-blue)](https://github.com/TheAndreyZakharov/Certificates/blob/main/README_RU.md)
-[![English](https://img.shields.io/badge/README_Language-English-brightgreen)](https://github.com/TheAndreyZakharov/Certificates/blob/main/README.md)
+[![Русский](https://img.shields.io/badge/README_Language-Русский-brightgreen)](https://github.com/TheAndreyZakharov/Certificates/blob/main/README_RU.md)
+[![English](https://img.shields.io/badge/README_Language-English-blue)](https://github.com/TheAndreyZakharov/Certificates/blob/main/README.md)
 
 </div>
 
-This repository contains my certificates earned through courses, educational programs, professional training, and independent study.
+В этом репозитории собраны мои сертификаты, полученные за прохождение курсов, образовательных программ, профессионального обучения и самостоятельного изучения.
 
-The certificates are grouped by the platforms and organizations that issued them. Click an image to open the original file.
+Сертификаты сгруппированы по платформам и организациям, которые их выдали. Нажмите на изображение, чтобы открыть оригинальный файл.
 
 <div align="center">
 
-## Total certificates
+## Всего сертификатов
 
 # 180
 
@@ -21,7 +21,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 ---
 
-## Platforms and organizations
+## Платформы и организации
 
 - [Acumen Academy](#acumen-academy) — 1
 - [Atlassian University](#atlassian-university) — 5
@@ -67,7 +67,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 1**
+**Сертификатов: 1**
 
 </div>
 
@@ -87,7 +87,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -95,7 +95,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 5**
+**Сертификатов: 5**
 
 </div>
 
@@ -133,7 +133,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -141,7 +141,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 3**
+**Сертификатов: 3**
 
 </div>
 
@@ -169,7 +169,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -177,7 +177,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 3**
+**Сертификатов: 3**
 
 </div>
 
@@ -205,7 +205,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -213,7 +213,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 4**
+**Сертификатов: 4**
 
 </div>
 
@@ -247,7 +247,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -255,7 +255,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 2**
+**Сертификатов: 2**
 
 </div>
 
@@ -279,7 +279,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -287,7 +287,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 1**
+**Сертификатов: 1**
 
 </div>
 
@@ -307,7 +307,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -315,7 +315,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 1**
+**Сертификатов: 1**
 
 </div>
 
@@ -329,18 +329,18 @@ The certificates are grouped by the platforms and organizations that issued them
 <tr>
 <td colspan="3" align="center" valign="top">
 <strong>Digital Skills Artificial Intelligence</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/FutureLearn/Digital%20Skills%20Artificial%20Intelligence_1.webp"><img src="certificates/FutureLearn/Digital%20Skills%20Artificial%20Intelligence_1.webp" alt="Digital Skills Artificial Intelligence — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/FutureLearn/Digital%20Skills%20Artificial%20Intelligence_1.webp"><img src="certificates/FutureLearn/Digital%20Skills%20Artificial%20Intelligence_1.webp" alt="Digital Skills Artificial Intelligence — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/FutureLearn/Digital%20Skills%20Artificial%20Intelligence_2.webp"><img src="certificates/FutureLearn/Digital%20Skills%20Artificial%20Intelligence_2.webp" alt="Digital Skills Artificial Intelligence — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/FutureLearn/Digital%20Skills%20Artificial%20Intelligence_2.webp"><img src="certificates/FutureLearn/Digital%20Skills%20Artificial%20Intelligence_2.webp" alt="Digital Skills Artificial Intelligence — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -348,7 +348,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 10**
+**Сертификатов: 10**
 
 </div>
 
@@ -410,7 +410,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -418,7 +418,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 1**
+**Сертификатов: 1**
 
 </div>
 
@@ -438,7 +438,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -446,7 +446,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 8**
+**Сертификатов: 8**
 
 </div>
 
@@ -498,7 +498,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -506,7 +506,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 4**
+**Сертификатов: 4**
 
 </div>
 
@@ -540,7 +540,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -548,7 +548,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 3**
+**Сертификатов: 3**
 
 </div>
 
@@ -576,7 +576,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -584,7 +584,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 4**
+**Сертификатов: 4**
 
 </div>
 
@@ -618,7 +618,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -626,7 +626,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 6**
+**Сертификатов: 6**
 
 </div>
 
@@ -668,7 +668,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -676,7 +676,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 1**
+**Сертификатов: 1**
 
 </div>
 
@@ -696,7 +696,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -704,7 +704,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 1**
+**Сертификатов: 1**
 
 </div>
 
@@ -718,18 +718,18 @@ The certificates are grouped by the platforms and organizations that issued them
 <tr>
 <td colspan="3" align="center" valign="top">
 <strong>2023 Fundamentals of Frontend Development</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Innopolis%20University/2023%20Fundamentals%20of%20Frontend%20Development.webp"><img src="certificates/Innopolis%20University/2023%20Fundamentals%20of%20Frontend%20Development.webp" alt="2023 Fundamentals of Frontend Development — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Innopolis%20University/2023%20Fundamentals%20of%20Frontend%20Development.webp"><img src="certificates/Innopolis%20University/2023%20Fundamentals%20of%20Frontend%20Development.webp" alt="2023 Fundamentals of Frontend Development — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Innopolis%20University/2023%20Fundamentals%20of%20Frontend%20Development_2.webp"><img src="certificates/Innopolis%20University/2023%20Fundamentals%20of%20Frontend%20Development_2.webp" alt="2023 Fundamentals of Frontend Development — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Innopolis%20University/2023%20Fundamentals%20of%20Frontend%20Development_2.webp"><img src="certificates/Innopolis%20University/2023%20Fundamentals%20of%20Frontend%20Development_2.webp" alt="2023 Fundamentals of Frontend Development — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -737,7 +737,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 8**
+**Сертификатов: 8**
 
 </div>
 
@@ -789,7 +789,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -797,7 +797,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 1**
+**Сертификатов: 1**
 
 </div>
 
@@ -817,7 +817,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -825,7 +825,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 4**
+**Сертификатов: 4**
 
 </div>
 
@@ -859,7 +859,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -867,7 +867,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 6**
+**Сертификатов: 6**
 
 </div>
 
@@ -909,7 +909,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -917,7 +917,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 7**
+**Сертификатов: 7**
 
 </div>
 
@@ -965,7 +965,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -973,7 +973,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 2**
+**Сертификатов: 2**
 
 </div>
 
@@ -997,7 +997,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -1005,7 +1005,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 5**
+**Сертификатов: 5**
 
 </div>
 
@@ -1043,7 +1043,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -1051,7 +1051,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 7**
+**Сертификатов: 7**
 
 </div>
 
@@ -1099,7 +1099,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -1107,7 +1107,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 29**
+**Сертификатов: 29**
 
 </div>
 
@@ -1121,288 +1121,288 @@ The certificates are grouped by the platforms and organizations that issued them
 <tr>
 <td colspan="1" align="center" valign="top">
 <strong>COMM001 Principles of Human Communication</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/COMM001%20Principles%20of%20Human%20Communication_1.webp"><img src="certificates/Saylor%20Academy/COMM001%20Principles%20of%20Human%20Communication_1.webp" alt="COMM001 Principles of Human Communication — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/COMM001%20Principles%20of%20Human%20Communication_1.webp"><img src="certificates/Saylor%20Academy/COMM001%20Principles%20of%20Human%20Communication_1.webp" alt="COMM001 Principles of Human Communication — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/COMM001%20Principles%20of%20Human%20Communication_2.webp"><img src="certificates/Saylor%20Academy/COMM001%20Principles%20of%20Human%20Communication_2.webp" alt="COMM001 Principles of Human Communication — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/COMM001%20Principles%20of%20Human%20Communication_2.webp"><img src="certificates/Saylor%20Academy/COMM001%20Principles%20of%20Human%20Communication_2.webp" alt="COMM001 Principles of Human Communication — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>CS207 Fundamentals of Machine Learning</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/CS207%20Fundamentals%20of%20Machine%20Learning_1.webp"><img src="certificates/Saylor%20Academy/CS207%20Fundamentals%20of%20Machine%20Learning_1.webp" alt="CS207 Fundamentals of Machine Learning — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/CS207%20Fundamentals%20of%20Machine%20Learning_1.webp"><img src="certificates/Saylor%20Academy/CS207%20Fundamentals%20of%20Machine%20Learning_1.webp" alt="CS207 Fundamentals of Machine Learning — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/CS207%20Fundamentals%20of%20Machine%20Learning_2.webp"><img src="certificates/Saylor%20Academy/CS207%20Fundamentals%20of%20Machine%20Learning_2.webp" alt="CS207 Fundamentals of Machine Learning — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/CS207%20Fundamentals%20of%20Machine%20Learning_2.webp"><img src="certificates/Saylor%20Academy/CS207%20Fundamentals%20of%20Machine%20Learning_2.webp" alt="CS207 Fundamentals of Machine Learning — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>CS250 Python for Data Science</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/CS250%20Python%20for%20Data%20Science_1.webp"><img src="certificates/Saylor%20Academy/CS250%20Python%20for%20Data%20Science_1.webp" alt="CS250 Python for Data Science — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/CS250%20Python%20for%20Data%20Science_1.webp"><img src="certificates/Saylor%20Academy/CS250%20Python%20for%20Data%20Science_1.webp" alt="CS250 Python for Data Science — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/CS250%20Python%20for%20Data%20Science_2.webp"><img src="certificates/Saylor%20Academy/CS250%20Python%20for%20Data%20Science_2.webp" alt="CS250 Python for Data Science — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/CS250%20Python%20for%20Data%20Science_2.webp"><img src="certificates/Saylor%20Academy/CS250%20Python%20for%20Data%20Science_2.webp" alt="CS250 Python for Data Science — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 </tr>
 <tr>
 <td colspan="1" align="center" valign="top">
 <strong>CS302 Software Engineering</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/CS302%20Software%20Engineering_1.webp"><img src="certificates/Saylor%20Academy/CS302%20Software%20Engineering_1.webp" alt="CS302 Software Engineering — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/CS302%20Software%20Engineering_1.webp"><img src="certificates/Saylor%20Academy/CS302%20Software%20Engineering_1.webp" alt="CS302 Software Engineering — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/CS302%20Software%20Engineering_2.webp"><img src="certificates/Saylor%20Academy/CS302%20Software%20Engineering_2.webp" alt="CS302 Software Engineering — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/CS302%20Software%20Engineering_2.webp"><img src="certificates/Saylor%20Academy/CS302%20Software%20Engineering_2.webp" alt="CS302 Software Engineering — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>CS402 Computer Communications and Networks</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/CS402%20Computer%20Communications%20and%20Networks_1.webp"><img src="certificates/Saylor%20Academy/CS402%20Computer%20Communications%20and%20Networks_1.webp" alt="CS402 Computer Communications and Networks — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/CS402%20Computer%20Communications%20and%20Networks_1.webp"><img src="certificates/Saylor%20Academy/CS402%20Computer%20Communications%20and%20Networks_1.webp" alt="CS402 Computer Communications and Networks — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/CS402%20Computer%20Communications%20and%20Networks_2.webp"><img src="certificates/Saylor%20Academy/CS402%20Computer%20Communications%20and%20Networks_2.webp" alt="CS402 Computer Communications and Networks — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/CS402%20Computer%20Communications%20and%20Networks_2.webp"><img src="certificates/Saylor%20Academy/CS402%20Computer%20Communications%20and%20Networks_2.webp" alt="CS402 Computer Communications and Networks — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>CS403 Introduction to Modern Database Systems</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/CS403%20Introduction%20to%20Modern%20Database%20Systems_1.webp"><img src="certificates/Saylor%20Academy/CS403%20Introduction%20to%20Modern%20Database%20Systems_1.webp" alt="CS403 Introduction to Modern Database Systems — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/CS403%20Introduction%20to%20Modern%20Database%20Systems_1.webp"><img src="certificates/Saylor%20Academy/CS403%20Introduction%20to%20Modern%20Database%20Systems_1.webp" alt="CS403 Introduction to Modern Database Systems — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/CS403%20Introduction%20to%20Modern%20Database%20Systems_2.webp"><img src="certificates/Saylor%20Academy/CS403%20Introduction%20to%20Modern%20Database%20Systems_2.webp" alt="CS403 Introduction to Modern Database Systems — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/CS403%20Introduction%20to%20Modern%20Database%20Systems_2.webp"><img src="certificates/Saylor%20Academy/CS403%20Introduction%20to%20Modern%20Database%20Systems_2.webp" alt="CS403 Introduction to Modern Database Systems — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 </tr>
 <tr>
 <td colspan="1" align="center" valign="top">
 <strong>CS406 Information Security</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/CS406%20Information%20Security_1.webp"><img src="certificates/Saylor%20Academy/CS406%20Information%20Security_1.webp" alt="CS406 Information Security — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/CS406%20Information%20Security_1.webp"><img src="certificates/Saylor%20Academy/CS406%20Information%20Security_1.webp" alt="CS406 Information Security — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/CS406%20Information%20Security_2.webp"><img src="certificates/Saylor%20Academy/CS406%20Information%20Security_2.webp" alt="CS406 Information Security — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/CS406%20Information%20Security_2.webp"><img src="certificates/Saylor%20Academy/CS406%20Information%20Security_2.webp" alt="CS406 Information Security — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>ESL001 Elementary English as a Second Language</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/ESL001%20Elementary%20English%20as%20a%20Second%20Language_1.webp"><img src="certificates/Saylor%20Academy/ESL001%20Elementary%20English%20as%20a%20Second%20Language_1.webp" alt="ESL001 Elementary English as a Second Language — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/ESL001%20Elementary%20English%20as%20a%20Second%20Language_1.webp"><img src="certificates/Saylor%20Academy/ESL001%20Elementary%20English%20as%20a%20Second%20Language_1.webp" alt="ESL001 Elementary English as a Second Language — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/ESL001%20Elementary%20English%20as%20a%20Second%20Language_2.webp"><img src="certificates/Saylor%20Academy/ESL001%20Elementary%20English%20as%20a%20Second%20Language_2.webp" alt="ESL001 Elementary English as a Second Language — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/ESL001%20Elementary%20English%20as%20a%20Second%20Language_2.webp"><img src="certificates/Saylor%20Academy/ESL001%20Elementary%20English%20as%20a%20Second%20Language_2.webp" alt="ESL001 Elementary English as a Second Language — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>ESL002 Intermediate English as a Second Language</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/ESL002%20Intermediate%20English%20as%20a%20Second%20Language_1.webp"><img src="certificates/Saylor%20Academy/ESL002%20Intermediate%20English%20as%20a%20Second%20Language_1.webp" alt="ESL002 Intermediate English as a Second Language — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/ESL002%20Intermediate%20English%20as%20a%20Second%20Language_1.webp"><img src="certificates/Saylor%20Academy/ESL002%20Intermediate%20English%20as%20a%20Second%20Language_1.webp" alt="ESL002 Intermediate English as a Second Language — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/ESL002%20Intermediate%20English%20as%20a%20Second%20Language_2.webp"><img src="certificates/Saylor%20Academy/ESL002%20Intermediate%20English%20as%20a%20Second%20Language_2.webp" alt="ESL002 Intermediate English as a Second Language — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/ESL002%20Intermediate%20English%20as%20a%20Second%20Language_2.webp"><img src="certificates/Saylor%20Academy/ESL002%20Intermediate%20English%20as%20a%20Second%20Language_2.webp" alt="ESL002 Intermediate English as a Second Language — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 </tr>
 <tr>
 <td colspan="1" align="center" valign="top">
 <strong>ESL003 Upper-Intermediate English as a Second Language</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/ESL003%20Upper-Intermediate%20English%20as%20a%20Second%20Language_1.webp"><img src="certificates/Saylor%20Academy/ESL003%20Upper-Intermediate%20English%20as%20a%20Second%20Language_1.webp" alt="ESL003 Upper-Intermediate English as a Second Language — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/ESL003%20Upper-Intermediate%20English%20as%20a%20Second%20Language_1.webp"><img src="certificates/Saylor%20Academy/ESL003%20Upper-Intermediate%20English%20as%20a%20Second%20Language_1.webp" alt="ESL003 Upper-Intermediate English as a Second Language — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/ESL003%20Upper-Intermediate%20English%20as%20a%20Second%20Language_2.webp"><img src="certificates/Saylor%20Academy/ESL003%20Upper-Intermediate%20English%20as%20a%20Second%20Language_2.webp" alt="ESL003 Upper-Intermediate English as a Second Language — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/ESL003%20Upper-Intermediate%20English%20as%20a%20Second%20Language_2.webp"><img src="certificates/Saylor%20Academy/ESL003%20Upper-Intermediate%20English%20as%20a%20Second%20Language_2.webp" alt="ESL003 Upper-Intermediate English as a Second Language — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>ESL004 Advanced English as a Second Language</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/ESL004%20Advanced%20English%20as%20a%20Second%20Language_1.webp"><img src="certificates/Saylor%20Academy/ESL004%20Advanced%20English%20as%20a%20Second%20Language_1.webp" alt="ESL004 Advanced English as a Second Language — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/ESL004%20Advanced%20English%20as%20a%20Second%20Language_1.webp"><img src="certificates/Saylor%20Academy/ESL004%20Advanced%20English%20as%20a%20Second%20Language_1.webp" alt="ESL004 Advanced English as a Second Language — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/ESL004%20Advanced%20English%20as%20a%20Second%20Language_2.webp"><img src="certificates/Saylor%20Academy/ESL004%20Advanced%20English%20as%20a%20Second%20Language_2.webp" alt="ESL004 Advanced English as a Second Language — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/ESL004%20Advanced%20English%20as%20a%20Second%20Language_2.webp"><img src="certificates/Saylor%20Academy/ESL004%20Advanced%20English%20as%20a%20Second%20Language_2.webp" alt="ESL004 Advanced English as a Second Language — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>ESL005 Business-Proficient English as a Second Language</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/ESL005%20Business-Proficient%20English%20as%20a%20Second%20Language_1.webp"><img src="certificates/Saylor%20Academy/ESL005%20Business-Proficient%20English%20as%20a%20Second%20Language_1.webp" alt="ESL005 Business-Proficient English as a Second Language — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/ESL005%20Business-Proficient%20English%20as%20a%20Second%20Language_1.webp"><img src="certificates/Saylor%20Academy/ESL005%20Business-Proficient%20English%20as%20a%20Second%20Language_1.webp" alt="ESL005 Business-Proficient English as a Second Language — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/ESL005%20Business-Proficient%20English%20as%20a%20Second%20Language_2.webp"><img src="certificates/Saylor%20Academy/ESL005%20Business-Proficient%20English%20as%20a%20Second%20Language_2.webp" alt="ESL005 Business-Proficient English as a Second Language — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/ESL005%20Business-Proficient%20English%20as%20a%20Second%20Language_2.webp"><img src="certificates/Saylor%20Academy/ESL005%20Business-Proficient%20English%20as%20a%20Second%20Language_2.webp" alt="ESL005 Business-Proficient English as a Second Language — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 </tr>
 <tr>
 <td colspan="1" align="center" valign="top">
 <strong>MA121 Introduction to Statistics</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/MA121%20Introduction%20to%20Statistics_1.webp"><img src="certificates/Saylor%20Academy/MA121%20Introduction%20to%20Statistics_1.webp" alt="MA121 Introduction to Statistics — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/MA121%20Introduction%20to%20Statistics_1.webp"><img src="certificates/Saylor%20Academy/MA121%20Introduction%20to%20Statistics_1.webp" alt="MA121 Introduction to Statistics — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/MA121%20Introduction%20to%20Statistics_2.webp"><img src="certificates/Saylor%20Academy/MA121%20Introduction%20to%20Statistics_2.webp" alt="MA121 Introduction to Statistics — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/MA121%20Introduction%20to%20Statistics_2.webp"><img src="certificates/Saylor%20Academy/MA121%20Introduction%20to%20Statistics_2.webp" alt="MA121 Introduction to Statistics — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>PRDV005 Time and Stress Management</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV005%20Time%20and%20Stress%20Management_1.webp"><img src="certificates/Saylor%20Academy/PRDV005%20Time%20and%20Stress%20Management_1.webp" alt="PRDV005 Time and Stress Management — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/PRDV005%20Time%20and%20Stress%20Management_1.webp"><img src="certificates/Saylor%20Academy/PRDV005%20Time%20and%20Stress%20Management_1.webp" alt="PRDV005 Time and Stress Management — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV005%20Time%20and%20Stress%20Management_2.webp"><img src="certificates/Saylor%20Academy/PRDV005%20Time%20and%20Stress%20Management_2.webp" alt="PRDV005 Time and Stress Management — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/PRDV005%20Time%20and%20Stress%20Management_2.webp"><img src="certificates/Saylor%20Academy/PRDV005%20Time%20and%20Stress%20Management_2.webp" alt="PRDV005 Time and Stress Management — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>PRDV104 Professional Etiquette</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV104%20Professional%20Etiquette_1.webp"><img src="certificates/Saylor%20Academy/PRDV104%20Professional%20Etiquette_1.webp" alt="PRDV104 Professional Etiquette — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/PRDV104%20Professional%20Etiquette_1.webp"><img src="certificates/Saylor%20Academy/PRDV104%20Professional%20Etiquette_1.webp" alt="PRDV104 Professional Etiquette — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV104%20Professional%20Etiquette_2.webp"><img src="certificates/Saylor%20Academy/PRDV104%20Professional%20Etiquette_2.webp" alt="PRDV104 Professional Etiquette — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/PRDV104%20Professional%20Etiquette_2.webp"><img src="certificates/Saylor%20Academy/PRDV104%20Professional%20Etiquette_2.webp" alt="PRDV104 Professional Etiquette — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 </tr>
 <tr>
 <td colspan="1" align="center" valign="top">
 <strong>PRDV200 Communicating with Data</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV200%20Communicating%20with%20Data_1.webp"><img src="certificates/Saylor%20Academy/PRDV200%20Communicating%20with%20Data_1.webp" alt="PRDV200 Communicating with Data — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/PRDV200%20Communicating%20with%20Data_1.webp"><img src="certificates/Saylor%20Academy/PRDV200%20Communicating%20with%20Data_1.webp" alt="PRDV200 Communicating with Data — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV200%20Communicating%20with%20Data_2.webp"><img src="certificates/Saylor%20Academy/PRDV200%20Communicating%20with%20Data_2.webp" alt="PRDV200 Communicating with Data — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/PRDV200%20Communicating%20with%20Data_2.webp"><img src="certificates/Saylor%20Academy/PRDV200%20Communicating%20with%20Data_2.webp" alt="PRDV200 Communicating with Data — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>PRDV214 Organizational Communication</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV214%20Organizational%20Communication_1.webp"><img src="certificates/Saylor%20Academy/PRDV214%20Organizational%20Communication_1.webp" alt="PRDV214 Organizational Communication — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/PRDV214%20Organizational%20Communication_1.webp"><img src="certificates/Saylor%20Academy/PRDV214%20Organizational%20Communication_1.webp" alt="PRDV214 Organizational Communication — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV214%20Organizational%20Communication_2.webp"><img src="certificates/Saylor%20Academy/PRDV214%20Organizational%20Communication_2.webp" alt="PRDV214 Organizational Communication — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/PRDV214%20Organizational%20Communication_2.webp"><img src="certificates/Saylor%20Academy/PRDV214%20Organizational%20Communication_2.webp" alt="PRDV214 Organizational Communication — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>PRDV224 Leadership and Teams</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV224%20Leadership%20and%20Teams_1.webp"><img src="certificates/Saylor%20Academy/PRDV224%20Leadership%20and%20Teams_1.webp" alt="PRDV224 Leadership and Teams — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/PRDV224%20Leadership%20and%20Teams_1.webp"><img src="certificates/Saylor%20Academy/PRDV224%20Leadership%20and%20Teams_1.webp" alt="PRDV224 Leadership and Teams — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV224%20Leadership%20and%20Teams_2.webp"><img src="certificates/Saylor%20Academy/PRDV224%20Leadership%20and%20Teams_2.webp" alt="PRDV224 Leadership and Teams — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/PRDV224%20Leadership%20and%20Teams_2.webp"><img src="certificates/Saylor%20Academy/PRDV224%20Leadership%20and%20Teams_2.webp" alt="PRDV224 Leadership and Teams — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 </tr>
 <tr>
 <td colspan="1" align="center" valign="top">
 <strong>PRDV225 Managing Employees</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV225%20Managing%20Employees_1.webp"><img src="certificates/Saylor%20Academy/PRDV225%20Managing%20Employees_1.webp" alt="PRDV225 Managing Employees — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/PRDV225%20Managing%20Employees_1.webp"><img src="certificates/Saylor%20Academy/PRDV225%20Managing%20Employees_1.webp" alt="PRDV225 Managing Employees — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV225%20Managing%20Employees_2.webp"><img src="certificates/Saylor%20Academy/PRDV225%20Managing%20Employees_2.webp" alt="PRDV225 Managing Employees — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/PRDV225%20Managing%20Employees_2.webp"><img src="certificates/Saylor%20Academy/PRDV225%20Managing%20Employees_2.webp" alt="PRDV225 Managing Employees — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>PRDV226 Introduction to Human Resource Management</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV226%20Introduction%20to%20Human%20Resource%20Management_1.webp"><img src="certificates/Saylor%20Academy/PRDV226%20Introduction%20to%20Human%20Resource%20Management_1.webp" alt="PRDV226 Introduction to Human Resource Management — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/PRDV226%20Introduction%20to%20Human%20Resource%20Management_1.webp"><img src="certificates/Saylor%20Academy/PRDV226%20Introduction%20to%20Human%20Resource%20Management_1.webp" alt="PRDV226 Introduction to Human Resource Management — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV226%20Introduction%20to%20Human%20Resource%20Management_2.webp"><img src="certificates/Saylor%20Academy/PRDV226%20Introduction%20to%20Human%20Resource%20Management_2.webp" alt="PRDV226 Introduction to Human Resource Management — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/PRDV226%20Introduction%20to%20Human%20Resource%20Management_2.webp"><img src="certificates/Saylor%20Academy/PRDV226%20Introduction%20to%20Human%20Resource%20Management_2.webp" alt="PRDV226 Introduction to Human Resource Management — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>PRDV227 Introduction to Business Planning and Strategy</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV227%20Introduction%20to%20Business%20Planning%20and%20Strategy_1.webp"><img src="certificates/Saylor%20Academy/PRDV227%20Introduction%20to%20Business%20Planning%20and%20Strategy_1.webp" alt="PRDV227 Introduction to Business Planning and Strategy — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/PRDV227%20Introduction%20to%20Business%20Planning%20and%20Strategy_1.webp"><img src="certificates/Saylor%20Academy/PRDV227%20Introduction%20to%20Business%20Planning%20and%20Strategy_1.webp" alt="PRDV227 Introduction to Business Planning and Strategy — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV227%20Introduction%20to%20Business%20Planning%20and%20Strategy_2.webp"><img src="certificates/Saylor%20Academy/PRDV227%20Introduction%20to%20Business%20Planning%20and%20Strategy_2.webp" alt="PRDV227 Introduction to Business Planning and Strategy — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/PRDV227%20Introduction%20to%20Business%20Planning%20and%20Strategy_2.webp"><img src="certificates/Saylor%20Academy/PRDV227%20Introduction%20to%20Business%20Planning%20and%20Strategy_2.webp" alt="PRDV227 Introduction to Business Planning and Strategy — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 </tr>
 <tr>
 <td colspan="1" align="center" valign="top">
 <strong>PRDV228 Decision-Making</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV228%20Decision-Making_1.webp"><img src="certificates/Saylor%20Academy/PRDV228%20Decision-Making_1.webp" alt="PRDV228 Decision-Making — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/PRDV228%20Decision-Making_1.webp"><img src="certificates/Saylor%20Academy/PRDV228%20Decision-Making_1.webp" alt="PRDV228 Decision-Making — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV228%20Decision-Making_2.webp"><img src="certificates/Saylor%20Academy/PRDV228%20Decision-Making_2.webp" alt="PRDV228 Decision-Making — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/PRDV228%20Decision-Making_2.webp"><img src="certificates/Saylor%20Academy/PRDV228%20Decision-Making_2.webp" alt="PRDV228 Decision-Making — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>PRDV229 Organization Structure, Change, and the Future of Management</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV229%20Organization%20Structure%2C%20Change%2C%20and%20the%20Future%20of%20Management_1.webp"><img src="certificates/Saylor%20Academy/PRDV229%20Organization%20Structure%2C%20Change%2C%20and%20the%20Future%20of%20Management_1.webp" alt="PRDV229 Organization Structure, Change, and the Future of Management — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/PRDV229%20Organization%20Structure%2C%20Change%2C%20and%20the%20Future%20of%20Management_1.webp"><img src="certificates/Saylor%20Academy/PRDV229%20Organization%20Structure%2C%20Change%2C%20and%20the%20Future%20of%20Management_1.webp" alt="PRDV229 Organization Structure, Change, and the Future of Management — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV229%20Organization%20Structure%2C%20Change%2C%20and%20the%20Future%20of%20Management_2.webp"><img src="certificates/Saylor%20Academy/PRDV229%20Organization%20Structure%2C%20Change%2C%20and%20the%20Future%20of%20Management_2.webp" alt="PRDV229 Organization Structure, Change, and the Future of Management — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/PRDV229%20Organization%20Structure%2C%20Change%2C%20and%20the%20Future%20of%20Management_2.webp"><img src="certificates/Saylor%20Academy/PRDV229%20Organization%20Structure%2C%20Change%2C%20and%20the%20Future%20of%20Management_2.webp" alt="PRDV229 Organization Structure, Change, and the Future of Management — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>PRDV231 Elements of Ethical Leadership</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV231%20Elements%20of%20Ethical%20Leadership_1.webp"><img src="certificates/Saylor%20Academy/PRDV231%20Elements%20of%20Ethical%20Leadership_1.webp" alt="PRDV231 Elements of Ethical Leadership — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/PRDV231%20Elements%20of%20Ethical%20Leadership_1.webp"><img src="certificates/Saylor%20Academy/PRDV231%20Elements%20of%20Ethical%20Leadership_1.webp" alt="PRDV231 Elements of Ethical Leadership — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV231%20Elements%20of%20Ethical%20Leadership_2.webp"><img src="certificates/Saylor%20Academy/PRDV231%20Elements%20of%20Ethical%20Leadership_2.webp" alt="PRDV231 Elements of Ethical Leadership — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/PRDV231%20Elements%20of%20Ethical%20Leadership_2.webp"><img src="certificates/Saylor%20Academy/PRDV231%20Elements%20of%20Ethical%20Leadership_2.webp" alt="PRDV231 Elements of Ethical Leadership — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 </tr>
 <tr>
 <td colspan="1" align="center" valign="top">
 <strong>PRDV401 Introduction to JavaScript I</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV401%20Introduction%20to%20JavaScript%20I_1.webp"><img src="certificates/Saylor%20Academy/PRDV401%20Introduction%20to%20JavaScript%20I_1.webp" alt="PRDV401 Introduction to JavaScript I — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/PRDV401%20Introduction%20to%20JavaScript%20I_1.webp"><img src="certificates/Saylor%20Academy/PRDV401%20Introduction%20to%20JavaScript%20I_1.webp" alt="PRDV401 Introduction to JavaScript I — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV401%20Introduction%20to%20JavaScript%20I_2.webp"><img src="certificates/Saylor%20Academy/PRDV401%20Introduction%20to%20JavaScript%20I_2.webp" alt="PRDV401 Introduction to JavaScript I — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/PRDV401%20Introduction%20to%20JavaScript%20I_2.webp"><img src="certificates/Saylor%20Academy/PRDV401%20Introduction%20to%20JavaScript%20I_2.webp" alt="PRDV401 Introduction to JavaScript I — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>PRDV402 Introduction to JavaScript II</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV402%20Introduction%20to%20JavaScript%20II_1.webp"><img src="certificates/Saylor%20Academy/PRDV402%20Introduction%20to%20JavaScript%20II_1.webp" alt="PRDV402 Introduction to JavaScript II — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/PRDV402%20Introduction%20to%20JavaScript%20II_1.webp"><img src="certificates/Saylor%20Academy/PRDV402%20Introduction%20to%20JavaScript%20II_1.webp" alt="PRDV402 Introduction to JavaScript II — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV402%20Introduction%20to%20JavaScript%20II_2.webp"><img src="certificates/Saylor%20Academy/PRDV402%20Introduction%20to%20JavaScript%20II_2.webp" alt="PRDV402 Introduction to JavaScript II — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/PRDV402%20Introduction%20to%20JavaScript%20II_2.webp"><img src="certificates/Saylor%20Academy/PRDV402%20Introduction%20to%20JavaScript%20II_2.webp" alt="PRDV402 Introduction to JavaScript II — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>PRDV410 Introduction to Java and Object-Oriented Programming</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV410%20Introduction%20to%20Java%20and%20Object-Oriented%20Programming_1.webp"><img src="certificates/Saylor%20Academy/PRDV410%20Introduction%20to%20Java%20and%20Object-Oriented%20Programming_1.webp" alt="PRDV410 Introduction to Java and Object-Oriented Programming — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/PRDV410%20Introduction%20to%20Java%20and%20Object-Oriented%20Programming_1.webp"><img src="certificates/Saylor%20Academy/PRDV410%20Introduction%20to%20Java%20and%20Object-Oriented%20Programming_1.webp" alt="PRDV410 Introduction to Java and Object-Oriented Programming — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV410%20Introduction%20to%20Java%20and%20Object-Oriented%20Programming_2.webp"><img src="certificates/Saylor%20Academy/PRDV410%20Introduction%20to%20Java%20and%20Object-Oriented%20Programming_2.webp" alt="PRDV410 Introduction to Java and Object-Oriented Programming — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/PRDV410%20Introduction%20to%20Java%20and%20Object-Oriented%20Programming_2.webp"><img src="certificates/Saylor%20Academy/PRDV410%20Introduction%20to%20Java%20and%20Object-Oriented%20Programming_2.webp" alt="PRDV410 Introduction to Java and Object-Oriented Programming — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center" valign="top">
 <strong>PRDV420 Introduction to R Programming</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV420%20Introduction%20to%20R%20Programming_1.webp"><img src="certificates/Saylor%20Academy/PRDV420%20Introduction%20to%20R%20Programming_1.webp" alt="PRDV420 Introduction to R Programming — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/PRDV420%20Introduction%20to%20R%20Programming_1.webp"><img src="certificates/Saylor%20Academy/PRDV420%20Introduction%20to%20R%20Programming_1.webp" alt="PRDV420 Introduction to R Programming — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV420%20Introduction%20to%20R%20Programming_2.webp"><img src="certificates/Saylor%20Academy/PRDV420%20Introduction%20to%20R%20Programming_2.webp" alt="PRDV420 Introduction to R Programming — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/PRDV420%20Introduction%20to%20R%20Programming_2.webp"><img src="certificates/Saylor%20Academy/PRDV420%20Introduction%20to%20R%20Programming_2.webp" alt="PRDV420 Introduction to R Programming — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>PRDV430 Al for Business Applications</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV430%20Al%20for%20Business%20Applications_1.webp"><img src="certificates/Saylor%20Academy/PRDV430%20Al%20for%20Business%20Applications_1.webp" alt="PRDV430 Al for Business Applications — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/Saylor%20Academy/PRDV430%20Al%20for%20Business%20Applications_1.webp"><img src="certificates/Saylor%20Academy/PRDV430%20Al%20for%20Business%20Applications_1.webp" alt="PRDV430 Al for Business Applications — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV430%20Al%20for%20Business%20Applications_2.webp"><img src="certificates/Saylor%20Academy/PRDV430%20Al%20for%20Business%20Applications_2.webp" alt="PRDV430 Al for Business Applications — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/Saylor%20Academy/PRDV430%20Al%20for%20Business%20Applications_2.webp"><img src="certificates/Saylor%20Academy/PRDV430%20Al%20for%20Business%20Applications_2.webp" alt="PRDV430 Al for Business Applications — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -1410,7 +1410,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 3**
+**Сертификатов: 3**
 
 </div>
 
@@ -1438,7 +1438,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -1446,7 +1446,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 3**
+**Сертификатов: 3**
 
 </div>
 
@@ -1474,7 +1474,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -1482,7 +1482,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 4**
+**Сертификатов: 4**
 
 </div>
 
@@ -1516,7 +1516,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -1524,7 +1524,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 4**
+**Сертификатов: 4**
 
 </div>
 
@@ -1558,7 +1558,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -1566,7 +1566,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 7**
+**Сертификатов: 7**
 
 </div>
 
@@ -1580,76 +1580,76 @@ The certificates are grouped by the platforms and organizations that issued them
 <tr>
 <td colspan="1" align="center" valign="top">
 <strong>Computer Architecture</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/Computer%20Architecture_1.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/Computer%20Architecture_1.webp" alt="Computer Architecture — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/Computer%20Architecture_1.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/Computer%20Architecture_1.webp" alt="Computer Architecture — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/Computer%20Architecture_2.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/Computer%20Architecture_2.webp" alt="Computer Architecture — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/Computer%20Architecture_2.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/Computer%20Architecture_2.webp" alt="Computer Architecture — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>Information Systems and Technologies in Economics and Management</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/Information%20Systems%20and%20Technologies%20in%20Economics%20and%20Management_1.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/Information%20Systems%20and%20Technologies%20in%20Economics%20and%20Management_1.webp" alt="Information Systems and Technologies in Economics and Management — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/Information%20Systems%20and%20Technologies%20in%20Economics%20and%20Management_1.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/Information%20Systems%20and%20Technologies%20in%20Economics%20and%20Management_1.webp" alt="Information Systems and Technologies in Economics and Management — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/Information%20Systems%20and%20Technologies%20in%20Economics%20and%20Management_2.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/Information%20Systems%20and%20Technologies%20in%20Economics%20and%20Management_2.webp" alt="Information Systems and Technologies in Economics and Management — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/Information%20Systems%20and%20Technologies%20in%20Economics%20and%20Management_2.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/Information%20Systems%20and%20Technologies%20in%20Economics%20and%20Management_2.webp" alt="Information Systems and Technologies in Economics and Management — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>IT Project Management - Theory, Tasks and Solutions</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/IT%20Project%20Management%20-%20Theory%2C%20Tasks%20and%20Solutions_1.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/IT%20Project%20Management%20-%20Theory%2C%20Tasks%20and%20Solutions_1.webp" alt="IT Project Management - Theory, Tasks and Solutions — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/IT%20Project%20Management%20-%20Theory%2C%20Tasks%20and%20Solutions_1.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/IT%20Project%20Management%20-%20Theory%2C%20Tasks%20and%20Solutions_1.webp" alt="IT Project Management - Theory, Tasks and Solutions — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/IT%20Project%20Management%20-%20Theory%2C%20Tasks%20and%20Solutions_2.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/IT%20Project%20Management%20-%20Theory%2C%20Tasks%20and%20Solutions_2.webp" alt="IT Project Management - Theory, Tasks and Solutions — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/IT%20Project%20Management%20-%20Theory%2C%20Tasks%20and%20Solutions_2.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/IT%20Project%20Management%20-%20Theory%2C%20Tasks%20and%20Solutions_2.webp" alt="IT Project Management - Theory, Tasks and Solutions — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 </tr>
 <tr>
 <td colspan="1" align="center" valign="top">
 <strong>Models and Software for Multiprocessor Systems</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/Models%20and%20Software%20for%20Multiprocessor%20Systems_1.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/Models%20and%20Software%20for%20Multiprocessor%20Systems_1.webp" alt="Models and Software for Multiprocessor Systems — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/Models%20and%20Software%20for%20Multiprocessor%20Systems_1.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/Models%20and%20Software%20for%20Multiprocessor%20Systems_1.webp" alt="Models and Software for Multiprocessor Systems — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/Models%20and%20Software%20for%20Multiprocessor%20Systems_2.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/Models%20and%20Software%20for%20Multiprocessor%20Systems_2.webp" alt="Models and Software for Multiprocessor Systems — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/Models%20and%20Software%20for%20Multiprocessor%20Systems_2.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/Models%20and%20Software%20for%20Multiprocessor%20Systems_2.webp" alt="Models and Software for Multiprocessor Systems — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>Multi-Core Processors</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/Multi-Core%20Processors_1.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/Multi-Core%20Processors_1.webp" alt="Multi-Core Processors — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/Multi-Core%20Processors_1.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/Multi-Core%20Processors_1.webp" alt="Multi-Core Processors — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/Multi-Core%20Processors_2.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/Multi-Core%20Processors_2.webp" alt="Multi-Core Processors — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/Multi-Core%20Processors_2.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/Multi-Core%20Processors_2.webp" alt="Multi-Core Processors — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>Parallel Programming for Mulricore Processors</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/Parallel%20Programming%20for%20Mulricore%20Processors_1.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/Parallel%20Programming%20for%20Mulricore%20Processors_1.webp" alt="Parallel Programming for Mulricore Processors — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/Parallel%20Programming%20for%20Mulricore%20Processors_1.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/Parallel%20Programming%20for%20Mulricore%20Processors_1.webp" alt="Parallel Programming for Mulricore Processors — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/Parallel%20Programming%20for%20Mulricore%20Processors_2.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/Parallel%20Programming%20for%20Mulricore%20Processors_2.webp" alt="Parallel Programming for Mulricore Processors — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/Parallel%20Programming%20for%20Mulricore%20Processors_2.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/Parallel%20Programming%20for%20Mulricore%20Processors_2.webp" alt="Parallel Programming for Mulricore Processors — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 </tr>
 <tr>
 <td colspan="3" align="center" valign="top">
 <strong>Workshop on Process Management Using Cloud Software</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/Workshop%20on%20Process%20Management%20Using%20Cloud%20Software_1.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/Workshop%20on%20Process%20Management%20Using%20Cloud%20Software_1.webp" alt="Workshop on Process Management Using Cloud Software — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/Workshop%20on%20Process%20Management%20Using%20Cloud%20Software_1.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/Workshop%20on%20Process%20Management%20Using%20Cloud%20Software_1.webp" alt="Workshop on Process Management Using Cloud Software — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/Workshop%20on%20Process%20Management%20Using%20Cloud%20Software_2.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/Workshop%20on%20Process%20Management%20Using%20Cloud%20Software_2.webp" alt="Workshop on Process Management Using Cloud Software — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/The%20National%20Open%20University%20%22INTUIT%22/Workshop%20on%20Process%20Management%20Using%20Cloud%20Software_2.webp"><img src="certificates/The%20National%20Open%20University%20%22INTUIT%22/Workshop%20on%20Process%20Management%20Using%20Cloud%20Software_2.webp" alt="Workshop on Process Management Using Cloud Software — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -1657,7 +1657,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 9**
+**Сертификатов: 9**
 
 </div>
 
@@ -1671,97 +1671,97 @@ The certificates are grouped by the platforms and organizations that issued them
 <tr>
 <td colspan="1" align="center" valign="top">
 <strong>Digital thinking tools for better decision making</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Digital%20thinking%20tools%20for%20better%20decision%20making_1.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Digital%20thinking%20tools%20for%20better%20decision%20making_1.webp" alt="Digital thinking tools for better decision making — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Digital%20thinking%20tools%20for%20better%20decision%20making_1.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Digital%20thinking%20tools%20for%20better%20decision%20making_1.webp" alt="Digital thinking tools for better decision making — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Digital%20thinking%20tools%20for%20better%20decision%20making_2.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Digital%20thinking%20tools%20for%20better%20decision%20making_2.webp" alt="Digital thinking tools for better decision making — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Digital%20thinking%20tools%20for%20better%20decision%20making_2.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Digital%20thinking%20tools%20for%20better%20decision%20making_2.webp" alt="Digital thinking tools for better decision making — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>Effective communication in the workplace</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Effective%20communication%20in%20the%20workplace_1.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Effective%20communication%20in%20the%20workplace_1.webp" alt="Effective communication in the workplace — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Effective%20communication%20in%20the%20workplace_1.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Effective%20communication%20in%20the%20workplace_1.webp" alt="Effective communication in the workplace — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Effective%20communication%20in%20the%20workplace_2.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Effective%20communication%20in%20the%20workplace_2.webp" alt="Effective communication in the workplace — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Effective%20communication%20in%20the%20workplace_2.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Effective%20communication%20in%20the%20workplace_2.webp" alt="Effective communication in the workplace — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>English skills for learning</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/The%20Open%20University%20-%20Open%20Learn/English%20skills%20for%20learning_1.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/English%20skills%20for%20learning_1.webp" alt="English skills for learning — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/The%20Open%20University%20-%20Open%20Learn/English%20skills%20for%20learning_1.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/English%20skills%20for%20learning_1.webp" alt="English skills for learning — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/The%20Open%20University%20-%20Open%20Learn/English%20skills%20for%20learning_2.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/English%20skills%20for%20learning_2.webp" alt="English skills for learning — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/The%20Open%20University%20-%20Open%20Learn/English%20skills%20for%20learning_2.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/English%20skills%20for%20learning_2.webp" alt="English skills for learning — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 </tr>
 <tr>
 <td colspan="1" align="center" valign="top">
 <strong>Everyday English 1</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Everyday%20English%201_1.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Everyday%20English%201_1.webp" alt="Everyday English 1 — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Everyday%20English%201_1.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Everyday%20English%201_1.webp" alt="Everyday English 1 — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Everyday%20English%201_2.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Everyday%20English%201_2.webp" alt="Everyday English 1 — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Everyday%20English%201_2.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Everyday%20English%201_2.webp" alt="Everyday English 1 — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>Everyday English 2</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Everyday%20English%202_1.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Everyday%20English%202_1.webp" alt="Everyday English 2 — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Everyday%20English%202_1.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Everyday%20English%202_1.webp" alt="Everyday English 2 — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Everyday%20English%202_2.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Everyday%20English%202_2.webp" alt="Everyday English 2 — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Everyday%20English%202_2.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Everyday%20English%202_2.webp" alt="Everyday English 2 — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>Leadership and followership</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Leadership%20and%20followership_1.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Leadership%20and%20followership_1.webp" alt="Leadership and followership — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Leadership%20and%20followership_1.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Leadership%20and%20followership_1.webp" alt="Leadership and followership — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Leadership%20and%20followership_2.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Leadership%20and%20followership_2.webp" alt="Leadership and followership — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Leadership%20and%20followership_2.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Leadership%20and%20followership_2.webp" alt="Leadership and followership — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 </tr>
 <tr>
 <td colspan="1" align="center" valign="top">
 <strong>Risk management</strong><br><br>
-<sub><strong>Total pages: 3</strong></sub><br><br>
-<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Risk%20management_1.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Risk%20management_1.webp" alt="Risk management — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 3</strong></sub><br><br>
+<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Risk%20management_1.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Risk%20management_1.webp" alt="Risk management — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Risk%20management_2.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Risk%20management_2.webp" alt="Risk management — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Risk%20management_2.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Risk%20management_2.webp" alt="Risk management — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 <br><br>
-<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Risk%20management_3.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Risk%20management_3.webp" alt="Risk management — Page 3" width="250"></a>
-<br><sub>Page 3</sub>
+<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Risk%20management_3.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Risk%20management_3.webp" alt="Risk management — Страница 3" width="250"></a>
+<br><sub>Страница 3</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>Succeed in the workplace</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Succeed%20in%20the%20workplace_1.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Succeed%20in%20the%20workplace_1.webp" alt="Succeed in the workplace — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Succeed%20in%20the%20workplace_1.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Succeed%20in%20the%20workplace_1.webp" alt="Succeed in the workplace — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Succeed%20in%20the%20workplace_2.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Succeed%20in%20the%20workplace_2.webp" alt="Succeed in the workplace — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Succeed%20in%20the%20workplace_2.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Succeed%20in%20the%20workplace_2.webp" alt="Succeed in the workplace — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>Succeed with learning</strong><br><br>
-<sub><strong>Total pages: 2</strong></sub><br><br>
-<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Succeed%20with%20learning_1.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Succeed%20with%20learning_1.webp" alt="Succeed with learning — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 2</strong></sub><br><br>
+<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Succeed%20with%20learning_1.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Succeed%20with%20learning_1.webp" alt="Succeed with learning — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Succeed%20with%20learning_2.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Succeed%20with%20learning_2.webp" alt="Succeed with learning — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/The%20Open%20University%20-%20Open%20Learn/Succeed%20with%20learning_2.webp"><img src="certificates/The%20Open%20University%20-%20Open%20Learn/Succeed%20with%20learning_2.webp" alt="Succeed with learning — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -1769,7 +1769,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 2**
+**Сертификатов: 2**
 
 </div>
 
@@ -1783,45 +1783,45 @@ The certificates are grouped by the platforms and organizations that issued them
 <tr>
 <td colspan="2" align="center" valign="top">
 <strong>English for Business and Entrepreneurship MOOC</strong><br><br>
-<sub><strong>Total pages: 5</strong></sub><br><br>
-<a href="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Business%20and%20Entrepreneurship%20MOOC_1.webp"><img src="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Business%20and%20Entrepreneurship%20MOOC_1.webp" alt="English for Business and Entrepreneurship MOOC — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 5</strong></sub><br><br>
+<a href="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Business%20and%20Entrepreneurship%20MOOC_1.webp"><img src="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Business%20and%20Entrepreneurship%20MOOC_1.webp" alt="English for Business and Entrepreneurship MOOC — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Business%20and%20Entrepreneurship%20MOOC_2.webp"><img src="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Business%20and%20Entrepreneurship%20MOOC_2.webp" alt="English for Business and Entrepreneurship MOOC — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Business%20and%20Entrepreneurship%20MOOC_2.webp"><img src="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Business%20and%20Entrepreneurship%20MOOC_2.webp" alt="English for Business and Entrepreneurship MOOC — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 <br><br>
-<a href="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Business%20and%20Entrepreneurship%20MOOC_3.webp"><img src="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Business%20and%20Entrepreneurship%20MOOC_3.webp" alt="English for Business and Entrepreneurship MOOC — Page 3" width="250"></a>
-<br><sub>Page 3</sub>
+<a href="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Business%20and%20Entrepreneurship%20MOOC_3.webp"><img src="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Business%20and%20Entrepreneurship%20MOOC_3.webp" alt="English for Business and Entrepreneurship MOOC — Страница 3" width="250"></a>
+<br><sub>Страница 3</sub>
 <br><br>
-<a href="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Business%20and%20Entrepreneurship%20MOOC_4.webp"><img src="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Business%20and%20Entrepreneurship%20MOOC_4.webp" alt="English for Business and Entrepreneurship MOOC — Page 4" width="250"></a>
-<br><sub>Page 4</sub>
+<a href="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Business%20and%20Entrepreneurship%20MOOC_4.webp"><img src="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Business%20and%20Entrepreneurship%20MOOC_4.webp" alt="English for Business and Entrepreneurship MOOC — Страница 4" width="250"></a>
+<br><sub>Страница 4</sub>
 <br><br>
-<a href="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Business%20and%20Entrepreneurship%20MOOC_5.webp"><img src="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Business%20and%20Entrepreneurship%20MOOC_5.webp" alt="English for Business and Entrepreneurship MOOC — Page 5" width="250"></a>
-<br><sub>Page 5</sub>
+<a href="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Business%20and%20Entrepreneurship%20MOOC_5.webp"><img src="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Business%20and%20Entrepreneurship%20MOOC_5.webp" alt="English for Business and Entrepreneurship MOOC — Страница 5" width="250"></a>
+<br><sub>Страница 5</sub>
 </td>
 <td colspan="1" align="center" valign="top">
 <strong>English for Career Development MOOC</strong><br><br>
-<sub><strong>Total pages: 5</strong></sub><br><br>
-<a href="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Career%20Development%20MOOC_1.webp"><img src="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Career%20Development%20MOOC_1.webp" alt="English for Career Development MOOC — Page 1" width="250"></a>
-<br><sub>Page 1</sub>
+<sub><strong>Всего страниц: 5</strong></sub><br><br>
+<a href="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Career%20Development%20MOOC_1.webp"><img src="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Career%20Development%20MOOC_1.webp" alt="English for Career Development MOOC — Страница 1" width="250"></a>
+<br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Career%20Development%20MOOC_2.webp"><img src="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Career%20Development%20MOOC_2.webp" alt="English for Career Development MOOC — Page 2" width="250"></a>
-<br><sub>Page 2</sub>
+<a href="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Career%20Development%20MOOC_2.webp"><img src="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Career%20Development%20MOOC_2.webp" alt="English for Career Development MOOC — Страница 2" width="250"></a>
+<br><sub>Страница 2</sub>
 <br><br>
-<a href="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Career%20Development%20MOOC_3.webp"><img src="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Career%20Development%20MOOC_3.webp" alt="English for Career Development MOOC — Page 3" width="250"></a>
-<br><sub>Page 3</sub>
+<a href="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Career%20Development%20MOOC_3.webp"><img src="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Career%20Development%20MOOC_3.webp" alt="English for Career Development MOOC — Страница 3" width="250"></a>
+<br><sub>Страница 3</sub>
 <br><br>
-<a href="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Career%20Development%20MOOC_4.webp"><img src="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Career%20Development%20MOOC_4.webp" alt="English for Career Development MOOC — Page 4" width="250"></a>
-<br><sub>Page 4</sub>
+<a href="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Career%20Development%20MOOC_4.webp"><img src="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Career%20Development%20MOOC_4.webp" alt="English for Career Development MOOC — Страница 4" width="250"></a>
+<br><sub>Страница 4</sub>
 <br><br>
-<a href="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Career%20Development%20MOOC_5.webp"><img src="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Career%20Development%20MOOC_5.webp" alt="English for Career Development MOOC — Page 5" width="250"></a>
-<br><sub>Page 5</sub>
+<a href="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Career%20Development%20MOOC_5.webp"><img src="certificates/U.S.%20Dept.%20of%20State%20-%20OPEN%20MOOC/English%20for%20Career%20Development%20MOOC_5.webp" alt="English for Career Development MOOC — Страница 5" width="250"></a>
+<br><sub>Страница 5</sub>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -1829,7 +1829,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 10**
+**Сертификатов: 10**
 
 </div>
 
@@ -1891,7 +1891,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -1899,7 +1899,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 2**
+**Сертификатов: 2**
 
 </div>
 
@@ -1923,7 +1923,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -1931,7 +1931,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 5**
+**Сертификатов: 5**
 
 </div>
 
@@ -1969,7 +1969,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
@@ -1977,7 +1977,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 4**
+**Сертификатов: 4**
 
 </div>
 
@@ -2011,7 +2011,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tbody>
 </table>
 
-<p align="right"><a href="#certificates">↑ Back to top</a></p>
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
 
 ---
 
