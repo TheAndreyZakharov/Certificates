@@ -15,20 +15,10 @@ use walkdir::WalkDir;
 // ============================================================
 
 /// Максимальное количество сертификатов в одной строке таблицы.
-///
-/// 1 — одна колонка, ширина каждого изображения 800 px.
-/// 2 — две колонки, ширина каждого изображения 400 px.
-/// 3 — три колонки, ширина каждого изображения 250 px.
-///
-/// Выбранная ширина применяется ко всем изображениям,
-/// включая платформы, где находится только один сертификат.
 const MAX_COLUMNS: usize = 3;
 
-/// Предполагаемая максимальная ширина содержимого README на GitHub.
-const README_WIDTH: usize = 800;
-
-/// Безопасная ширина изображения при трёх колонках.
-const THREE_COLUMN_IMAGE_WIDTH: usize = 250;
+/// Фиксированная ширина одной колонки сертификата.
+const CERTIFICATE_COLUMN_WIDTH: usize = 250;
 
 /// Папка с сертификатами.
 const CERTIFICATES_DIRECTORY: &str = "certificates";
@@ -38,17 +28,10 @@ const README_EN_PATH: &str = "README.md";
 const README_RU_PATH: &str = "README_RU.md";
 
 /// Ссылка на репозиторий.
-const REPOSITORY_URL: &str =
-    "https://github.com/TheAndreyZakharov/Certificates";
+const REPOSITORY_URL: &str = "https://github.com/TheAndreyZakharov/Certificates";
 
 /// Поддерживаемые форматы изображений.
-const SUPPORTED_EXTENSIONS: &[&str] = &[
-    "webp",
-    "png",
-    "jpg",
-    "jpeg",
-    "avif",
-];
+const SUPPORTED_EXTENSIONS: &[&str] = &["webp", "png", "jpg", "jpeg", "avif"];
 
 // ============================================================
 // МОДЕЛИ ДАННЫХ
@@ -201,17 +184,9 @@ fn main() -> Result<()> {
         );
     }
 
-    let english_readme = generate_readme(
-        &platforms,
-        total_certificates,
-        Language::English,
-    );
+    let english_readme = generate_readme(&platforms, total_certificates, Language::English);
 
-    let russian_readme = generate_readme(
-        &platforms,
-        total_certificates,
-        Language::Russian,
-    );
+    let russian_readme = generate_readme(&platforms, total_certificates, Language::Russian);
 
     fs::write(README_EN_PATH, english_readme)
         .with_context(|| format!("Не удалось записать {README_EN_PATH}"))?;
@@ -234,9 +209,8 @@ fn main() -> Result<()> {
 // ============================================================
 
 fn scan_certificates(root: &Path) -> Result<Vec<Platform>> {
-    let page_suffix_regex =
-        Regex::new(r"^(?P<title>.+)_(?P<page>[0-9]+)$")
-            .context("Не удалось создать регулярное выражение")?;
+    let page_suffix_regex = Regex::new(r"^(?P<title>.+)_(?P<page>[0-9]+)$")
+        .context("Не удалось создать регулярное выражение")?;
 
     /*
         Сначала создаём все платформы,
@@ -247,9 +221,7 @@ fn scan_certificates(root: &Path) -> Result<Vec<Platform>> {
         └── Coursera/
         Все три попадут в README.
     */
-    let mut platforms_map: BTreeMap<String, Platform> =
-        collect_platforms(root)?;
-
+    let mut platforms_map: BTreeMap<String, Platform> = collect_platforms(root)?;
 
     /*
         Временная структура:
@@ -257,53 +229,40 @@ fn scan_certificates(root: &Path) -> Result<Vec<Platform>> {
             Сертификат
                 Страницы
     */
-    let mut grouped:
-        BTreeMap<String, BTreeMap<String, Vec<CertificatePage>>>
-        = BTreeMap::new();
-
+    let mut grouped: BTreeMap<String, BTreeMap<String, Vec<CertificatePage>>> = BTreeMap::new();
 
     for entry in WalkDir::new(root)
         .min_depth(2)
         .into_iter()
         .filter_entry(|entry| !is_hidden(entry.path()))
     {
-        let entry =
-            entry.context("Ошибка при чтении папки сертификатов")?;
-
+        let entry = entry.context("Ошибка при чтении папки сертификатов")?;
 
         if !entry.file_type().is_file() {
             continue;
         }
 
-
         let path = entry.path();
-
 
         if !is_supported_image(path) {
             continue;
         }
 
-
         let relative_path = path
             .strip_prefix(root)
             .context("Ошибка получения относительного пути")?;
 
-
-        let components =
-            relative_path.components().collect::<Vec<_>>();
-
+        let components = relative_path.components().collect::<Vec<_>>();
 
         if components.len() < 2 {
             continue;
         }
-
 
         let platform_name = components[0]
             .as_os_str()
             .to_string_lossy()
             .trim()
             .to_string();
-
 
         let file_stem = path
             .file_stem()
@@ -312,97 +271,60 @@ fn scan_certificates(root: &Path) -> Result<Vec<Platform>> {
             .trim()
             .to_string();
 
-
         let (certificate_title, page_number) =
-            parse_certificate_name(
-                &file_stem,
-                &page_suffix_regex,
-            )?;
-
+            parse_certificate_name(&file_stem, &page_suffix_regex)?;
 
         grouped
             .entry(platform_name)
             .or_default()
             .entry(certificate_title)
             .or_default()
-            .push(
-                CertificatePage {
-                    path: path.to_path_buf(),
-                    page_number,
-                }
-            );
+            .push(CertificatePage {
+                path: path.to_path_buf(),
+                page_number,
+            });
     }
-
 
     /*
         Добавляем найденные сертификаты
         в уже существующие платформы.
     */
     for (platform_name, certificates) in grouped {
+        let platform = platforms_map
+            .entry(platform_name.clone())
+            .or_insert(Platform {
+                name: platform_name.clone(),
+                certificates: Vec::new(),
+            });
 
-        let platform =
-            platforms_map
-                .entry(platform_name.clone())
-                .or_insert(
-                    Platform {
-                        name: platform_name.clone(),
-                        certificates: Vec::new(),
-                    }
-                );
-
-
-        for (certificate_name, mut pages)
-            in certificates
-        {
+        for (certificate_name, mut pages) in certificates {
             pages.sort_by(compare_certificate_pages);
 
-
-            platform.certificates.push(
-                Certificate {
-                    title: certificate_name,
-                    pages,
-                }
-            );
+            platform.certificates.push(Certificate {
+                title: certificate_name,
+                pages,
+            });
         }
 
-
-        platform.certificates.sort_by(
-            compare_certificates
-        );
+        platform.certificates.sort_by(compare_certificates);
     }
 
-
-    let mut platforms =
-        platforms_map
-            .into_values()
-            .collect::<Vec<_>>();
-
+    let mut platforms = platforms_map.into_values().collect::<Vec<_>>();
 
     platforms.sort_by(compare_platforms);
-
 
     Ok(platforms)
 }
 
 fn collect_platforms(root: &Path) -> Result<BTreeMap<String, Platform>> {
-
     let mut platforms = BTreeMap::new();
 
-
-    for entry in fs::read_dir(root)
-        .with_context(|| {
-            format!(
-                "Не удалось прочитать {}",
-                root.display()
-            )
-        })?
+    for entry in
+        fs::read_dir(root).with_context(|| format!("Не удалось прочитать {}", root.display()))?
     {
-
         let entry = entry?;
 
-
         let path = entry.path();
-
 
         /*
             Берём только папки:
@@ -417,7 +339,6 @@ fn collect_platforms(root: &Path) -> Result<BTreeMap<String, Platform>> {
             continue;
         }
 
-
         let name = path
             .file_name()
             .unwrap()
@@ -425,16 +346,14 @@ fn collect_platforms(root: &Path) -> Result<BTreeMap<String, Platform>> {
             .trim()
             .to_string();
 
-
         platforms.insert(
             name.clone(),
             Platform {
                 name,
                 certificates: Vec::new(),
-            }
+            },
         );
     }
-
 
     Ok(platforms)
 }
@@ -456,11 +375,7 @@ fn parse_certificate_name(
             .context("Не удалось определить номер страницы")?
             .as_str()
             .parse::<u32>()
-            .with_context(|| {
-                format!(
-                    "Некорректный номер страницы в имени файла: {file_stem}"
-                )
-            })?;
+            .with_context(|| format!("Некорректный номер страницы в имени файла: {file_stem}"))?;
 
         return Ok((title, Some(page_number)));
     }
@@ -468,38 +383,26 @@ fn parse_certificate_name(
     Ok((file_stem.trim().to_string(), None))
 }
 
-fn compare_certificate_pages(
-    left: &CertificatePage,
-    right: &CertificatePage,
-) -> Ordering {
+fn compare_certificate_pages(left: &CertificatePage, right: &CertificatePage) -> Ordering {
     match (left.page_number, right.page_number) {
-        (Some(left_number), Some(right_number)) => {
-            left_number.cmp(&right_number)
-        }
+        (Some(left_number), Some(right_number)) => left_number.cmp(&right_number),
 
         (None, Some(_)) => Ordering::Less,
 
         (Some(_), None) => Ordering::Greater,
 
-        (None, None) => natural_path_key(&left.path)
-            .cmp(&natural_path_key(&right.path)),
+        (None, None) => natural_path_key(&left.path).cmp(&natural_path_key(&right.path)),
     }
 }
 
-fn compare_certificates(
-    left: &Certificate,
-    right: &Certificate,
-) -> Ordering {
+fn compare_certificates(left: &Certificate, right: &Certificate) -> Ordering {
     left.title
         .to_lowercase()
         .cmp(&right.title.to_lowercase())
         .then_with(|| left.title.cmp(&right.title))
 }
 
-fn compare_platforms(
-    left: &Platform,
-    right: &Platform,
-) -> Ordering {
+fn compare_platforms(left: &Platform, right: &Platform) -> Ordering {
     left.name
         .to_lowercase()
         .cmp(&right.name.to_lowercase())
@@ -519,21 +422,12 @@ fn generate_readme(
 
     output.push_str(&generate_header(language));
 
-    output.push_str(&generate_introduction(
-        language,
-        total_certificates,
-    ));
+    output.push_str(&generate_introduction(language, total_certificates));
 
-    output.push_str(&generate_contents(
-        platforms,
-        language,
-    ));
+    output.push_str(&generate_contents(platforms, language));
 
     for platform in platforms {
-        output.push_str(&generate_platform_section(
-            platform,
-            language,
-        ));
+        output.push_str(&generate_platform_section(platform, language));
     }
 
     output
@@ -571,10 +465,7 @@ fn generate_header(language: Language) -> String {
 // ВВЕДЕНИЕ И ОБЩЕЕ КОЛИЧЕСТВО
 // ============================================================
 
-fn generate_introduction(
-    language: Language,
-    total_certificates: usize,
-) -> String {
+fn generate_introduction(language: Language, total_certificates: usize) -> String {
     format!(
         r#"{introduction}
 
@@ -601,16 +492,10 @@ fn generate_introduction(
 // ОГЛАВЛЕНИЕ
 // ============================================================
 
-fn generate_contents(
-    platforms: &[Platform],
-    language: Language,
-) -> String {
+fn generate_contents(platforms: &[Platform], language: Language) -> String {
     let mut output = String::new();
 
-    output.push_str(&format!(
-        "## {}\n\n",
-        language.contents_label(),
-    ));
+    output.push_str(&format!("## {}\n\n", language.contents_label(),));
 
     for platform in platforms {
         output.push_str(&format!(
@@ -630,10 +515,7 @@ fn generate_contents(
 // СЕКЦИЯ ПЛАТФОРМЫ
 // ============================================================
 
-fn generate_platform_section(
-    platform: &Platform,
-    language: Language,
-) -> String {
+fn generate_platform_section(platform: &Platform, language: Language) -> String {
     let mut output = String::new();
 
     output.push_str(&format!(
@@ -651,16 +533,7 @@ fn generate_platform_section(
 
     output.push_str("</div>\n\n");
 
-    /*
-        Для каждой платформы создаётся одна таблица.
-
-        Все сертификаты этой платформы располагаются
-        внутри одной таблицы по MAX_COLUMNS ячеек в строке.
-    */
-    output.push_str(&generate_platform_table(
-        platform,
-        language,
-    ));
+    output.push_str(&generate_platform_table(platform, language));
 
     output.push_str(&format!(
         "<p align=\"right\"><a href=\"{}\">↑ {}</a></p>\n\n",
@@ -674,127 +547,101 @@ fn generate_platform_section(
 }
 
 // ============================================================
-// ЕДИНАЯ ТАБЛИЦА ПЛАТФОРМЫ
+// ЦЕНТРИРОВАННЫЕ ТАБЛИЦЫ ПЛАТФОРМЫ
 // ============================================================
 
-fn generate_platform_table(
-    platform: &Platform,
-    language: Language,
-) -> String {
+fn generate_platform_table(platform: &Platform, language: Language) -> String {
     let mut output = String::new();
 
-    /*
-        Ширина рассчитывается только по MAX_COLUMNS.
-
-        Она не зависит от количества сертификатов
-        в платформе или последней строке.
-    */
     let image_width = configured_image_width();
 
     /*
-        Внутри таблицы нет пустых строк.
+        Каждая строка сертификатов — отдельная таблица.
 
-        Это важно, потому что GitHub может завершить обработку
-        HTML-блока на пустой строке и показать HTML-теги текстом.
+        Так строки с одним или двумя сертификатами имеют ширину
+        ровно по содержимому и центрируются целиком, а длинные
+        названия не растягивают соседние изображения.
     */
-    output.push_str("<table>\n");
-    output.push_str("<thead>\n");
-    output.push_str("<tr>\n");
-
-    output.push_str(&format!(
-        "<th colspan=\"{}\" align=\"center\">{}</th>\n",
-        MAX_COLUMNS,
-        encode_text(&platform.name),
-    ));
-
-    output.push_str("</tr>\n");
-    output.push_str("</thead>\n");
-    output.push_str("<tbody>\n");
-
     for row in platform.certificates.chunks(MAX_COLUMNS) {
-        output.push_str("<tr>\n");
-
-        let colspans = calculate_row_colspans(row.len());
-
-        for (certificate, colspan) in
-            row.iter().zip(colspans.iter())
-        {
-            output.push_str(&format!(
-                "<td colspan=\"{}\" align=\"center\" valign=\"top\">\n",
-                colspan,
-            ));
-
-            output.push_str(&generate_certificate_cell(
-                certificate,
-                image_width,
-                language,
-            ));
-
-            output.push_str("</td>\n");
-        }
-
-        output.push_str("</tr>\n");
+        output.push_str(&generate_certificate_row_table(row, image_width, language));
     }
-
-    output.push_str("</tbody>\n");
-    output.push_str("</table>\n\n");
 
     output
 }
 
-// ============================================================
-// COLSPAN ДЛЯ ПОСЛЕДНЕЙ СТРОКИ
-// ============================================================
-
-fn calculate_row_colspans(
-    certificates_in_row: usize,
-) -> Vec<usize> {
-    if certificates_in_row == 0 {
-        return Vec::new();
-    }
-
-    let base_colspan =
-        MAX_COLUMNS / certificates_in_row;
-
-    let remainder =
-        MAX_COLUMNS % certificates_in_row;
-
-    /*
-        При MAX_COLUMNS = 3:
-
-        три сертификата:
-        [1, 1, 1]
-
-        два сертификата:
-        [2, 1]
-
-        один сертификат:
-        [3]
-
-        Пустые ячейки не создаются.
-    */
-    (0..certificates_in_row)
-        .map(|index| {
-            base_colspan + usize::from(index < remainder)
-        })
-        .collect()
-}
-
-// ============================================================
-// ЯЧЕЙКА СЕРТИФИКАТА
-// ============================================================
-
-fn generate_certificate_cell(
-    certificate: &Certificate,
+fn generate_certificate_row_table(
+    certificates: &[Certificate],
     image_width: usize,
     language: Language,
 ) -> String {
     let mut output = String::new();
 
+    if certificates.is_empty() {
+        return output;
+    }
+
+    let table_width = certificates.len() * CERTIFICATE_COLUMN_WIDTH;
+
     output.push_str(&format!(
-        "<strong>{}</strong><br><br>\n",
+        "<table align=\"center\" width=\"{table_width}\">\n",
+    ));
+    output.push_str("<tbody>\n");
+
+    output.push_str("<tr>\n");
+    for certificate in certificates {
+        output.push_str(&generate_certificate_title_cell(certificate));
+    }
+    output.push_str("</tr>\n");
+
+    output.push_str("<tr>\n");
+    for certificate in certificates {
+        output.push_str(&format!(
+            "<td width=\"{width}\" align=\"center\" valign=\"top\" style=\"width: {width}px; min-width: {width}px; max-width: {width}px;\">\n",
+            width = CERTIFICATE_COLUMN_WIDTH,
+        ));
+
+        output.push_str(&generate_certificate_images(
+            certificate,
+            image_width,
+            language,
+        ));
+
+        output.push_str("</td>\n");
+    }
+    output.push_str("</tr>\n");
+
+    output.push_str("</tbody>\n");
+    output.push_str("</table>\n\n");
+    output
+}
+
+// ============================================================
+// ЯЧЕЙКИ СЕРТИФИКАТА
+// ============================================================
+
+fn generate_certificate_title_cell(certificate: &Certificate) -> String {
+    let mut output = String::new();
+
+    output.push_str(&format!(
+        "<td width=\"{width}\" align=\"center\" valign=\"top\" style=\"width: {width}px; min-width: {width}px; max-width: {width}px; overflow-wrap: anywhere; word-break: break-word;\">\n",
+        width = CERTIFICATE_COLUMN_WIDTH,
+    ));
+
+    output.push_str(&format!(
+        "<strong>{}</strong>\n",
         encode_text(&certificate.title),
     ));
+
+    output.push_str("</td>\n");
+    output
+}
+
+fn generate_certificate_images(
+    certificate: &Certificate,
+    image_width: usize,
+    language: Language,
+) -> String {
+    let mut output = String::new();
 
     /*
         Для многостраничного сертификата сверху выводится:
@@ -810,15 +657,10 @@ fn generate_certificate_cell(
         ));
     }
 
-    for (index, page) in
-        certificate.pages.iter().enumerate()
-    {
-        let encoded_path =
-            encode_repository_path(&page.path);
+    for (index, page) in certificate.pages.iter().enumerate() {
+        let encoded_path = encode_repository_path(&page.path);
 
-        let displayed_page_number = page
-            .page_number
-            .unwrap_or((index + 1) as u32);
+        let displayed_page_number = page.page_number.unwrap_or((index + 1) as u32);
 
         let alt_text = if certificate.pages.len() > 1 {
             format!(
@@ -861,35 +703,11 @@ fn generate_certificate_cell(
 }
 
 // ============================================================
-// ОДИНАКОВАЯ ШИРИНА ВСЕХ ИЗОБРАЖЕНИЙ
+// ОДИНАКОВАЯ ШИРИНА ВСЕХ КОЛОНОК И ИЗОБРАЖЕНИЙ
 // ============================================================
 
 fn configured_image_width() -> usize {
-    match MAX_COLUMNS {
-        /*
-            Одна колонка:
-            все картинки имеют ширину 800 px.
-        */
-        1 => README_WIDTH,
-
-        /*
-            Две колонки:
-            все картинки имеют ширину 400 px.
-        */
-        2 => README_WIDTH / 2,
-
-        /*
-            Три колонки:
-            все картинки имеют ширину 250 px.
-        */
-        3 => THREE_COLUMN_IMAGE_WIDTH,
-
-        /*
-            Четыре и более колонок:
-            ширина делится на количество колонок.
-        */
-        columns => README_WIDTH / columns,
-    }
+    CERTIFICATE_COLUMN_WIDTH
 }
 
 // ============================================================
@@ -899,8 +717,7 @@ fn configured_image_width() -> usize {
 fn encode_repository_path(path: &Path) -> String {
     path.components()
         .map(|component| {
-            let component_text =
-                component.as_os_str().to_string_lossy();
+            let component_text = component.as_os_str().to_string_lossy();
 
             encode(&component_text).into_owned()
         })
@@ -916,10 +733,7 @@ fn escape_markdown_text(value: &str) -> String {
 }
 
 fn escape_markdown_heading(value: &str) -> String {
-    value
-        .replace('\n', " ")
-        .trim()
-        .to_string()
+    value.replace('\n', " ").trim().to_string()
 }
 
 fn github_heading_anchor(value: &str) -> String {
@@ -963,14 +777,8 @@ fn validate_configuration() -> Result<()> {
         bail!("MAX_COLUMNS должен быть больше нуля.");
     }
 
-    if README_WIDTH == 0 {
-        bail!("README_WIDTH должен быть больше нуля.");
-    }
-
     if configured_image_width() == 0 {
-        bail!(
-            "Рассчитанная ширина изображения должна быть больше нуля."
-        );
+        bail!("Рассчитанная ширина изображения должна быть больше нуля.");
     }
 
     if REPOSITORY_URL.trim().is_empty() {
@@ -985,12 +793,9 @@ fn is_supported_image(path: &Path) -> bool {
         return false;
     };
 
-    let extension =
-        extension.to_string_lossy().to_lowercase();
+    let extension = extension.to_string_lossy().to_lowercase();
 
-    SUPPORTED_EXTENSIONS.contains(
-        &extension.as_str(),
-    )
+    SUPPORTED_EXTENSIONS.contains(&extension.as_str())
 }
 
 fn is_hidden(path: &Path) -> bool {
