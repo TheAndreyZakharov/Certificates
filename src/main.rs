@@ -112,6 +112,13 @@ impl Language {
         }
     }
 
+    fn total_platforms_label(self) -> &'static str {
+        match self {
+            Language::English => "Total platforms",
+            Language::Russian => "Всего платформ",
+        }
+    }
+
     fn contents_label(self) -> &'static str {
         match self {
             Language::English => "Platforms and organizations",
@@ -184,9 +191,21 @@ fn main() -> Result<()> {
         );
     }
 
-    let english_readme = generate_readme(&platforms, total_certificates, Language::English);
+    let total_platforms = platforms.len();
 
-    let russian_readme = generate_readme(&platforms, total_certificates, Language::Russian);
+    let english_readme = generate_readme(
+        &platforms,
+        total_certificates,
+        total_platforms,
+        Language::English,
+    );
+
+    let russian_readme = generate_readme(
+        &platforms,
+        total_certificates,
+        total_platforms,
+        Language::Russian,
+    );
 
     fs::write(README_EN_PATH, english_readme)
         .with_context(|| format!("Не удалось записать {README_EN_PATH}"))?;
@@ -195,7 +214,7 @@ fn main() -> Result<()> {
         .with_context(|| format!("Не удалось записать {README_RU_PATH}"))?;
 
     println!("README-файлы успешно созданы.");
-    println!("Платформ: {}", platforms.len());
+    println!("Платформ: {total_platforms}");
     println!("Сертификатов: {total_certificates}");
     println!("Файлов изображений: {total_image_files}");
     println!("Создан: {README_EN_PATH}");
@@ -416,13 +435,18 @@ fn compare_platforms(left: &Platform, right: &Platform) -> Ordering {
 fn generate_readme(
     platforms: &[Platform],
     total_certificates: usize,
+    total_platforms: usize,
     language: Language,
 ) -> String {
     let mut output = String::new();
 
     output.push_str(&generate_header(language));
 
-    output.push_str(&generate_introduction(language, total_certificates));
+    output.push_str(&generate_introduction(
+        language,
+        total_certificates,
+        total_platforms,
+    ));
 
     output.push_str(&generate_contents(platforms, language));
 
@@ -465,7 +489,11 @@ fn generate_header(language: Language) -> String {
 // ВВЕДЕНИЕ И ОБЩЕЕ КОЛИЧЕСТВО
 // ============================================================
 
-fn generate_introduction(language: Language, total_certificates: usize) -> String {
+fn generate_introduction(
+    language: Language,
+    total_certificates: usize,
+    total_platforms: usize,
+) -> String {
     format!(
         r#"{introduction}
 
@@ -473,9 +501,9 @@ fn generate_introduction(language: Language, total_certificates: usize) -> Strin
 
 <div align="center">
 
-## {total_label}
+# {total_label} - {total_certificates}
 
-# {total_certificates}
+# {platforms_label} - {total_platforms}
 
 </div>
 
@@ -485,6 +513,7 @@ fn generate_introduction(language: Language, total_certificates: usize) -> Strin
         introduction = language.introduction(),
         explanation = language.explanation(),
         total_label = language.total_certificates_label(),
+        platforms_label = language.total_platforms_label(),
     )
 }
 
