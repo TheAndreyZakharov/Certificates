@@ -13,9 +13,9 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-# Total certificates - 223
+# Total certificates - 224
 
-# Total platforms - 59
+# Total platforms - 60
 
 </div>
 
@@ -62,6 +62,7 @@ The certificates are grouped by the platforms and organizations that issued them
 - [Netology](#netology) — 4
 - [Organization for Security and Co-operation in Europe (OSCE) E-Learning](#organization-for-security-and-co-operation-in-europe-osce-e-learning) — 1
 - [Project Management Institute (PMI)](#project-management-institute-pmi) — 7
+- [Purdue University](#purdue-university) — 1
 - [Qt Academy](#qt-academy) — 1
 - [Russia — Land of Opportunity](#russia-land-of-opportunity) — 2
 - [Saint Petersburg State University of Aerospace Instrumentation (SUAI)](#saint-petersburg-state-university-of-aerospace-instrumentation-suai) — 5
@@ -1868,6 +1869,33 @@ The certificates are grouped by the platforms and organizations that issued them
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <a href="certificates/Project%20Management%20Institute%20%28PMI%29/Talking%20to%20AI%20%E2%80%94%20Prompt%20Engineering%20for%20Project%20Managers.webp"><img src="certificates/Project%20Management%20Institute%20%28PMI%29/Talking%20to%20AI%20%E2%80%94%20Prompt%20Engineering%20for%20Project%20Managers.webp" alt="Talking to AI — Prompt Engineering for Project Managers" width="250"></a>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p align="right"><a href="#certificates">↑ Back to top</a></p>
+
+---
+
+## Purdue University
+
+<div align="center">
+
+**Certificates: 1**
+
+</div>
+
+<table align="center" width="250">
+<tbody>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Rat Tickling Certification Course</strong>
+</td>
+</tr>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Purdue%20University/Rat%20Tickling%20Certification%20Course.webp"><img src="certificates/Purdue%20University/Rat%20Tickling%20Certification%20Course.webp" alt="Rat Tickling Certification Course" width="250"></a>
 </td>
 </tr>
 </tbody>
