@@ -730,12 +730,12 @@ The certificates are grouped by the platforms and organizations that issued them
 <tbody>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
-<strong>Fundamentals of Digital Marketing</strong>
+<strong>Fundamentals of digital marketing</strong>
 </td>
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Google%20Digital%20Garage/Fundamentals%20of%20Digital%20Marketing.webp"><img src="certificates/Google%20Digital%20Garage/Fundamentals%20of%20Digital%20Marketing.webp" alt="Fundamentals of Digital Marketing" width="250"></a>
+<a href="certificates/Google%20Digital%20Garage/Fundamentals%20of%20digital%20marketing.webp"><img src="certificates/Google%20Digital%20Garage/Fundamentals%20of%20digital%20marketing.webp" alt="Fundamentals of digital marketing" width="250"></a>
 </td>
 </tr>
 </tbody>
