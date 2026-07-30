@@ -13,7 +13,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-# Total certificates - 225
+# Total certificates - 227
 
 # Total platforms - 61
 
@@ -66,7 +66,7 @@ The certificates are grouped by the platforms and organizations that issued them
 - [Purdue University](#purdue-university) — 1
 - [Qt Academy](#qt-academy) — 1
 - [Russia — Land of Opportunity](#russia-land-of-opportunity) — 2
-- [Saint Petersburg State University of Aerospace Instrumentation (SUAI)](#saint-petersburg-state-university-of-aerospace-instrumentation-suai) — 5
+- [Saint Petersburg State University of Aerospace Instrumentation (SUAI)](#saint-petersburg-state-university-of-aerospace-instrumentation-suai) — 7
 - [Saylor Academy](#saylor-academy) — 29
 - [Semrush Academy](#semrush-academy) — 3
 - [SimpliLearn](#simplilearn) — 3
@@ -1997,7 +1997,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-**Certificates: 5**
+**Certificates: 7**
 
 </div>
 
@@ -2005,45 +2005,66 @@ The certificates are grouped by the platforms and organizations that issued them
 <tbody>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
-<strong>Economic Olympiad — First Degree Diploma</strong>
+<strong>Bachelor's Degree Diploma in "Software Engineering" (Program Code 09.03.04), with Profile "Software Systems Design" (Profile Code 02), 2025</strong>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
-<strong>Humanities Olympiad — Third Degree Diploma</strong>
+<strong>Professional Retraining Diploma in "Fundamentals of Frontend Development" with Qualification of "Web and Multimedia Applications Developer", 2024</strong>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
-<strong>Law Olympiad — First Degree Diploma</strong>
+<strong>SUAI Economic Olympiad 2025 — First Degree Diploma</strong>
 </td>
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/Economic%20Olympiad%20%E2%80%94%20First%20Degree%20Diploma.webp"><img src="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/Economic%20Olympiad%20%E2%80%94%20First%20Degree%20Diploma.webp" alt="Economic Olympiad — First Degree Diploma" width="250"></a>
+<a href="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/Bachelor%27s%20Degree%20Diploma%20in%20%22Software%20Engineering%22%20%28Program%20Code%2009.03.04%29%2C%20with%20Profile%20%22Software%20Systems%20Design%22%20%28Profile%20Code%2002%29%2C%202025.webp"><img src="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/Bachelor%27s%20Degree%20Diploma%20in%20%22Software%20Engineering%22%20%28Program%20Code%2009.03.04%29%2C%20with%20Profile%20%22Software%20Systems%20Design%22%20%28Profile%20Code%2002%29%2C%202025.webp" alt="Bachelor's Degree Diploma in "Software Engineering" (Program Code 09.03.04), with Profile "Software Systems Design" (Profile Code 02), 2025" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/Humanities%20Olympiad%20%E2%80%94%20Third%20Degree%20Diploma.webp"><img src="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/Humanities%20Olympiad%20%E2%80%94%20Third%20Degree%20Diploma.webp" alt="Humanities Olympiad — Third Degree Diploma" width="250"></a>
+<a href="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/Professional%20Retraining%20Diploma%20in%20%22Fundamentals%20of%20Frontend%20Development%22%20with%20Qualification%20of%20%22Web%20and%20Multimedia%20Applications%20Developer%22%2C%202024.webp"><img src="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/Professional%20Retraining%20Diploma%20in%20%22Fundamentals%20of%20Frontend%20Development%22%20with%20Qualification%20of%20%22Web%20and%20Multimedia%20Applications%20Developer%22%2C%202024.webp" alt="Professional Retraining Diploma in "Fundamentals of Frontend Development" with Qualification of "Web and Multimedia Applications Developer", 2024" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/Law%20Olympiad%20%E2%80%94%20First%20Degree%20Diploma.webp"><img src="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/Law%20Olympiad%20%E2%80%94%20First%20Degree%20Diploma.webp" alt="Law Olympiad — First Degree Diploma" width="250"></a>
+<a href="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Economic%20Olympiad%202025%20%E2%80%94%20First%20Degree%20Diploma.webp"><img src="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Economic%20Olympiad%202025%20%E2%80%94%20First%20Degree%20Diploma.webp" alt="SUAI Economic Olympiad 2025 — First Degree Diploma" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table align="center" width="500">
+<table align="center" width="750">
 <tbody>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
-<strong>Technical Olympiad — First Degree Diploma</strong>
+<strong>SUAI Humanities Olympiad 2025 — Third Degree Diploma</strong>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
-<strong>Technical Olympiad — Second Degree Diploma</strong>
+<strong>SUAI Law Olympiad 2025 — First Degree Diploma</strong>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>SUAI Technical Olympiad 2025 — First Degree Diploma</strong>
 </td>
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/Technical%20Olympiad%20%E2%80%94%20First%20Degree%20Diploma.webp"><img src="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/Technical%20Olympiad%20%E2%80%94%20First%20Degree%20Diploma.webp" alt="Technical Olympiad — First Degree Diploma" width="250"></a>
+<a href="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Humanities%20Olympiad%202025%20%E2%80%94%20Third%20Degree%20Diploma.webp"><img src="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Humanities%20Olympiad%202025%20%E2%80%94%20Third%20Degree%20Diploma.webp" alt="SUAI Humanities Olympiad 2025 — Third Degree Diploma" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/Technical%20Olympiad%20%E2%80%94%20Second%20Degree%20Diploma.webp"><img src="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/Technical%20Olympiad%20%E2%80%94%20Second%20Degree%20Diploma.webp" alt="Technical Olympiad — Second Degree Diploma" width="250"></a>
+<a href="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Law%20Olympiad%202025%20%E2%80%94%20First%20Degree%20Diploma.webp"><img src="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Law%20Olympiad%202025%20%E2%80%94%20First%20Degree%20Diploma.webp" alt="SUAI Law Olympiad 2025 — First Degree Diploma" width="250"></a>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Technical%20Olympiad%202025%20%E2%80%94%20First%20Degree%20Diploma.webp"><img src="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Technical%20Olympiad%202025%20%E2%80%94%20First%20Degree%20Diploma.webp" alt="SUAI Technical Olympiad 2025 — First Degree Diploma" width="250"></a>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table align="center" width="250">
+<tbody>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>SUAI Technical Olympiad — Second Degree Diploma</strong>
+</td>
+</tr>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Technical%20Olympiad%20%E2%80%94%20Second%20Degree%20Diploma.webp"><img src="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Technical%20Olympiad%20%E2%80%94%20Second%20Degree%20Diploma.webp" alt="SUAI Technical Olympiad — Second Degree Diploma" width="250"></a>
 </td>
 </tr>
 </tbody>
