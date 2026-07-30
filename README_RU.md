@@ -13,9 +13,9 @@
 
 <div align="center">
 
-# Всего сертификатов - 224
+# Всего сертификатов - 225
 
-# Всего платформ - 60
+# Всего платформ - 61
 
 </div>
 
@@ -56,6 +56,7 @@
 - [Knowledge Academy](#knowledge-academy) — 1
 - [Lectorium](#lectorium) — 1
 - [Ministry of Construction University — Scientific Research Institute of Building Physics (NIISF) of the Russian Academy of Architecture and Construction Sciences (RAASN)](#ministry-of-construction-university-scientific-research-institute-of-building-physics-niisf-of-the-russian-academy-of-architecture-and-construction-sciences-raasn) — 1
+- [MongoDB University](#mongodb-university) — 1
 - [National Aeronautics and Space Administration (NASA) — Applied Remote Sensing Training (ARSET)](#national-aeronautics-and-space-administration-nasa-applied-remote-sensing-training-arset) — 1
 - [National Open University (INTUIT)](#national-open-university-intuit) — 7
 - [Neo4j GraphAcademy](#neo4j-graphacademy) — 2
@@ -1531,6 +1532,33 @@
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <a href="certificates/Ministry%20of%20Construction%20University%20%E2%80%94%20Scientific%20Research%20Institute%20of%20Building%20Physics%20%28NIISF%29%20of%20the%20Russian%20Academy%20of%20Architecture%20and%20Construction%20Sciences%20%28RAASN%29/Artificial%20Intelligence%20%E2%80%94%20A%20Personal%20Assistant%20in%20Construction.webp"><img src="certificates/Ministry%20of%20Construction%20University%20%E2%80%94%20Scientific%20Research%20Institute%20of%20Building%20Physics%20%28NIISF%29%20of%20the%20Russian%20Academy%20of%20Architecture%20and%20Construction%20Sciences%20%28RAASN%29/Artificial%20Intelligence%20%E2%80%94%20A%20Personal%20Assistant%20in%20Construction.webp" alt="Artificial Intelligence — A Personal Assistant in Construction" width="250"></a>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+
+---
+
+## MongoDB University
+
+<div align="center">
+
+**Сертификатов: 1**
+
+</div>
+
+<table align="center" width="250">
+<tbody>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>MongoDB Indexing Design Fundamentals</strong>
+</td>
+</tr>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/MongoDB%20University/MongoDB%20Indexing%20Design%20Fundamentals.webp"><img src="certificates/MongoDB%20University/MongoDB%20Indexing%20Design%20Fundamentals.webp" alt="MongoDB Indexing Design Fundamentals" width="250"></a>
 </td>
 </tr>
 </tbody>
