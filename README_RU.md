@@ -13,9 +13,9 @@
 
 <div align="center">
 
-# Всего сертификатов - 227
+# Всего сертификатов - 228
 
-# Всего платформ - 61
+# Всего платформ - 62
 
 </div>
 
@@ -40,6 +40,7 @@
 - [Google Digital Garage](#google-digital-garage) — 1
 - [Google SkillShop](#google-skillshop) — 8
 - [HackerRank](#hackerrank) — 4
+- [Harvard University](#harvard-university) — 1
 - [Hasso Plattner Institute for Digital Engineering (HPI) — openHPI](#hasso-plattner-institute-for-digital-engineering-hpi-openhpi) — 6
 - [Hewlett-Packard (HP) LIFE](#hewlett-packard-hp-life) — 3
 - [HubSpot Academy](#hubspot-academy) — 4
@@ -878,6 +879,33 @@
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <a href="certificates/HackerRank/SQL%20%28Advanced%29.webp"><img src="certificates/HackerRank/SQL%20%28Advanced%29.webp" alt="SQL (Advanced)" width="250"></a>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+
+---
+
+## Harvard University
+
+<div align="center">
+
+**Сертификатов: 1**
+
+</div>
+
+<table align="center" width="250">
+<tbody>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>CS50 Certificate - CS50x Introduction to Computer Science</strong>
+</td>
+</tr>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Harvard%20University/CS50%20Certificate%20-%20CS50x%20Introduction%20to%20Computer%20Science.webp"><img src="certificates/Harvard%20University/CS50%20Certificate%20-%20CS50x%20Introduction%20to%20Computer%20Science.webp" alt="CS50 Certificate - CS50x Introduction to Computer Science" width="250"></a>
 </td>
 </tr>
 </tbody>
