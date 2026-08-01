@@ -13,9 +13,9 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-# Total certificates - 228
+# Total certificates - 239
 
-# Total platforms - 62
+# Total platforms - 64
 
 </div>
 
@@ -26,6 +26,7 @@ The certificates are grouped by the platforms and organizations that issued them
 - [Academy Europe Open University](#academy-europe-open-university) — 3
 - [Acumen Academy](#acumen-academy) — 1
 - [Atlassian University](#atlassian-university) — 5
+- [Bashkir State Pedagogical University named after M. Akmulla (BSPU) — Institute of Continuing Professional Education "Vector of Development"](#bashkir-state-pedagogical-university-named-after-m-akmulla-bspu-institute-of-continuing-professional-education-vector-of-development) — 8
 - [Cisco Networking Academy](#cisco-networking-academy) — 3
 - [Complexity Explorer — Santa Fe Institute](#complexity-explorer-santa-fe-institute) — 4
 - [cPanel University](#cpanel-university) — 3
@@ -60,6 +61,7 @@ The certificates are grouped by the platforms and organizations that issued them
 - [MongoDB University](#mongodb-university) — 1
 - [National Aeronautics and Space Administration (NASA) — Applied Remote Sensing Training (ARSET)](#national-aeronautics-and-space-administration-nasa-applied-remote-sensing-training-arset) — 1
 - [National Open University (INTUIT)](#national-open-university-intuit) — 7
+- [National Research University Higher School of Economics (HSE University)](#national-research-university-higher-school-of-economics-hse-university) — 3
 - [Neo4j GraphAcademy](#neo4j-graphacademy) — 2
 - [Netology](#netology) — 4
 - [Organization for Security and Co-operation in Europe (OSCE) E-Learning](#organization-for-security-and-co-operation-in-europe-osce-e-learning) — 1
@@ -205,6 +207,93 @@ The certificates are grouped by the platforms and organizations that issued them
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <a href="certificates/Atlassian%20University/Writing%20Complex%20JQL%20Queries%20in%20Jira%20Software.webp"><img src="certificates/Atlassian%20University/Writing%20Complex%20JQL%20Queries%20in%20Jira%20Software.webp" alt="Writing Complex JQL Queries in Jira Software" width="250"></a>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p align="right"><a href="#certificates">↑ Back to top</a></p>
+
+---
+
+## Bashkir State Pedagogical University named after M. Akmulla (BSPU) — Institute of Continuing Professional Education "Vector of Development"
+
+<div align="center">
+
+**Certificates: 8**
+
+</div>
+
+<table align="center" width="750">
+<tbody>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Career Navigator - Profession of the Future</strong>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Communicative Leader</strong>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Computer Science and Programming - Theory, Practice, and Teaching Methodology in School Education (Advanced Level)</strong>
+</td>
+</tr>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Career%20Navigator%20-%20Profession%20of%20the%20Future.webp"><img src="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Career%20Navigator%20-%20Profession%20of%20the%20Future.webp" alt="Career Navigator - Profession of the Future" width="250"></a>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Communicative%20Leader.webp"><img src="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Communicative%20Leader.webp" alt="Communicative Leader" width="250"></a>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Computer%20Science%20and%20Programming%20-%20Theory%2C%20Practice%2C%20and%20Teaching%20Methodology%20in%20School%20Education%20%28Advanced%20Level%29.webp"><img src="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Computer%20Science%20and%20Programming%20-%20Theory%2C%20Practice%2C%20and%20Teaching%20Methodology%20in%20School%20Education%20%28Advanced%20Level%29.webp" alt="Computer Science and Programming - Theory, Practice, and Teaching Methodology in School Education (Advanced Level)" width="250"></a>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table align="center" width="750">
+<tbody>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Designing a Comfortable and Safe Educational Environment</strong>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Fundamentals of Graphic Design</strong>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Fundamentals of Web Development</strong>
+</td>
+</tr>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Designing%20a%20Comfortable%20and%20Safe%20Educational%20Environment.webp"><img src="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Designing%20a%20Comfortable%20and%20Safe%20Educational%20Environment.webp" alt="Designing a Comfortable and Safe Educational Environment" width="250"></a>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Fundamentals%20of%20Graphic%20Design.webp"><img src="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Fundamentals%20of%20Graphic%20Design.webp" alt="Fundamentals of Graphic Design" width="250"></a>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Fundamentals%20of%20Web%20Development.webp"><img src="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Fundamentals%20of%20Web%20Development.webp" alt="Fundamentals of Web Development" width="250"></a>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table align="center" width="500">
+<tbody>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Genetics for Everyone - Making the Complex Simple</strong>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Teaching Methodology of Pedagogical Disciplines in Higher Education</strong>
+</td>
+</tr>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Genetics%20for%20Everyone%20-%20Making%20the%20Complex%20Simple.webp"><img src="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Genetics%20for%20Everyone%20-%20Making%20the%20Complex%20Simple.webp" alt="Genetics for Everyone - Making the Complex Simple" width="250"></a>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Teaching%20Methodology%20of%20Pedagogical%20Disciplines%20in%20Higher%20Education.webp"><img src="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Teaching%20Methodology%20of%20Pedagogical%20Disciplines%20in%20Higher%20Education.webp" alt="Teaching Methodology of Pedagogical Disciplines in Higher Education" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -1730,6 +1819,45 @@ The certificates are grouped by the platforms and organizations that issued them
 <br><br>
 <a href="certificates/National%20Open%20University%20%28INTUIT%29/Workshop%20on%20Process%20Management%20Using%20Cloud%20Software_2.webp"><img src="certificates/National%20Open%20University%20%28INTUIT%29/Workshop%20on%20Process%20Management%20Using%20Cloud%20Software_2.webp" alt="Workshop on Process Management Using Cloud Software — Page 2" width="250"></a>
 <br><sub>Page 2</sub>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p align="right"><a href="#certificates">↑ Back to top</a></p>
+
+---
+
+## National Research University Higher School of Economics (HSE University)
+
+<div align="center">
+
+**Certificates: 3**
+
+</div>
+
+<table align="center" width="750">
+<tbody>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Socially Responsible Leadership</strong>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Studying Without Stress - How to Maintain Motivation and Energy Throughout the Academic Year</strong>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>The Art of Caring - How to Support Someone in a Difficult Situation</strong>
+</td>
+</tr>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29/Socially%20Responsible%20Leadership.webp"><img src="certificates/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29/Socially%20Responsible%20Leadership.webp" alt="Socially Responsible Leadership" width="250"></a>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29/Studying%20Without%20Stress%20-%20How%20to%20Maintain%20Motivation%20and%20Energy%20Throughout%20the%20Academic%20Year.webp"><img src="certificates/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29/Studying%20Without%20Stress%20-%20How%20to%20Maintain%20Motivation%20and%20Energy%20Throughout%20the%20Academic%20Year.webp" alt="Studying Without Stress - How to Maintain Motivation and Energy Throughout the Academic Year" width="250"></a>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29/The%20Art%20of%20Caring%20-%20How%20to%20Support%20Someone%20in%20a%20Difficult%20Situation.webp"><img src="certificates/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29/The%20Art%20of%20Caring%20-%20How%20to%20Support%20Someone%20in%20a%20Difficult%20Situation.webp" alt="The Art of Caring - How to Support Someone in a Difficult Situation" width="250"></a>
 </td>
 </tr>
 </tbody>
