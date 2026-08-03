@@ -13,9 +13,9 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-# Total certificates - 239
+# Total certificates - 257
 
-# Total platforms - 64
+# Total platforms - 65
 
 </div>
 
@@ -61,10 +61,11 @@ The certificates are grouped by the platforms and organizations that issued them
 - [MongoDB University](#mongodb-university) — 1
 - [National Aeronautics and Space Administration (NASA) — Applied Remote Sensing Training (ARSET)](#national-aeronautics-and-space-administration-nasa-applied-remote-sensing-training-arset) — 1
 - [National Open University (INTUIT)](#national-open-university-intuit) — 7
-- [National Research University Higher School of Economics (HSE University)](#national-research-university-higher-school-of-economics-hse-university) — 3
+- [National Research University Higher School of Economics (HSE University) — Osnova Educational Project](#national-research-university-higher-school-of-economics-hse-university-osnova-educational-project) — 3
 - [Neo4j GraphAcademy](#neo4j-graphacademy) — 2
 - [Netology](#netology) — 4
 - [Organization for Security and Co-operation in Europe (OSCE) E-Learning](#organization-for-security-and-co-operation-in-europe-osce-e-learning) — 1
+- [Peoples' Friendship University of Russia named after Patrice Lumumba (RUDN University) — Further Education](#peoples-friendship-university-of-russia-named-after-patrice-lumumba-rudn-university-further-education) — 18
 - [Project Management Institute (PMI)](#project-management-institute-pmi) — 7
 - [Purdue University](#purdue-university) — 1
 - [Qt Academy](#qt-academy) — 1
@@ -1828,7 +1829,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 ---
 
-## National Research University Higher School of Economics (HSE University)
+## National Research University Higher School of Economics (HSE University) — Osnova Educational Project
 
 <div align="center">
 
@@ -1851,13 +1852,13 @@ The certificates are grouped by the platforms and organizations that issued them
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29/Socially%20Responsible%20Leadership.webp"><img src="certificates/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29/Socially%20Responsible%20Leadership.webp" alt="Socially Responsible Leadership" width="250"></a>
+<a href="certificates/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29%20%E2%80%94%20Osnova%20Educational%20Project/Socially%20Responsible%20Leadership.webp"><img src="certificates/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29%20%E2%80%94%20Osnova%20Educational%20Project/Socially%20Responsible%20Leadership.webp" alt="Socially Responsible Leadership" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29/Studying%20Without%20Stress%20-%20How%20to%20Maintain%20Motivation%20and%20Energy%20Throughout%20the%20Academic%20Year.webp"><img src="certificates/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29/Studying%20Without%20Stress%20-%20How%20to%20Maintain%20Motivation%20and%20Energy%20Throughout%20the%20Academic%20Year.webp" alt="Studying Without Stress - How to Maintain Motivation and Energy Throughout the Academic Year" width="250"></a>
+<a href="certificates/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29%20%E2%80%94%20Osnova%20Educational%20Project/Studying%20Without%20Stress%20-%20How%20to%20Maintain%20Motivation%20and%20Energy%20Throughout%20the%20Academic%20Year.webp"><img src="certificates/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29%20%E2%80%94%20Osnova%20Educational%20Project/Studying%20Without%20Stress%20-%20How%20to%20Maintain%20Motivation%20and%20Energy%20Throughout%20the%20Academic%20Year.webp" alt="Studying Without Stress - How to Maintain Motivation and Energy Throughout the Academic Year" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29/The%20Art%20of%20Caring%20-%20How%20to%20Support%20Someone%20in%20a%20Difficult%20Situation.webp"><img src="certificates/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29/The%20Art%20of%20Caring%20-%20How%20to%20Support%20Someone%20in%20a%20Difficult%20Situation.webp" alt="The Art of Caring - How to Support Someone in a Difficult Situation" width="250"></a>
+<a href="certificates/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29%20%E2%80%94%20Osnova%20Educational%20Project/The%20Art%20of%20Caring%20-%20How%20to%20Support%20Someone%20in%20a%20Difficult%20Situation.webp"><img src="certificates/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29%20%E2%80%94%20Osnova%20Educational%20Project/The%20Art%20of%20Caring%20-%20How%20to%20Support%20Someone%20in%20a%20Difficult%20Situation.webp" alt="The Art of Caring - How to Support Someone in a Difficult Situation" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -1972,6 +1973,180 @@ The certificates are grouped by the platforms and organizations that issued them
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <a href="certificates/Organization%20for%20Security%20and%20Co-operation%20in%20Europe%20%28OSCE%29%20E-Learning/Protection%20of%20Critical%20Energy%20Infrastructure%20%E2%80%94%20From%20Risk%20Analysis%20to%20Risk%20Management.webp"><img src="certificates/Organization%20for%20Security%20and%20Co-operation%20in%20Europe%20%28OSCE%29%20E-Learning/Protection%20of%20Critical%20Energy%20Infrastructure%20%E2%80%94%20From%20Risk%20Analysis%20to%20Risk%20Management.webp" alt="Protection of Critical Energy Infrastructure — From Risk Analysis to Risk Management" width="250"></a>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p align="right"><a href="#certificates">↑ Back to top</a></p>
+
+---
+
+## Peoples' Friendship University of Russia named after Patrice Lumumba (RUDN University) — Further Education
+
+<div align="center">
+
+**Certificates: 18**
+
+</div>
+
+<table align="center" width="750">
+<tbody>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Business Communication</strong>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Digital Pedagogy</strong>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Effective Engagement with the Blogosphere and Opinion Leaders</strong>
+</td>
+</tr>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Business%20Communication.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Business%20Communication.webp" alt="Business Communication" width="250"></a>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Digital%20Pedagogy.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Digital%20Pedagogy.webp" alt="Digital Pedagogy" width="250"></a>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Effective%20Engagement%20with%20the%20Blogosphere%20and%20Opinion%20Leaders.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Effective%20Engagement%20with%20the%20Blogosphere%20and%20Opinion%20Leaders.webp" alt="Effective Engagement with the Blogosphere and Opinion Leaders" width="250"></a>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table align="center" width="750">
+<tbody>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Financial Literacy</strong>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Fundamentals of Computer Science - Complex Concepts Made Simple</strong>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Fundamentals of Electricity and Magnetism</strong>
+</td>
+</tr>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Financial%20Literacy.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Financial%20Literacy.webp" alt="Financial Literacy" width="250"></a>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Fundamentals%20of%20Computer%20Science%20-%20Complex%20Concepts%20Made%20Simple.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Fundamentals%20of%20Computer%20Science%20-%20Complex%20Concepts%20Made%20Simple.webp" alt="Fundamentals of Computer Science - Complex Concepts Made Simple" width="250"></a>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Fundamentals%20of%20Electricity%20and%20Magnetism.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Fundamentals%20of%20Electricity%20and%20Magnetism.webp" alt="Fundamentals of Electricity and Magnetism" width="250"></a>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table align="center" width="750">
+<tbody>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>History of Russia's International Relations</strong>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>How Medicines Are Made - Strategies for Chemical Synthesis</strong>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Instrumental Methods of Pharmacopoeial Analysis</strong>
+</td>
+</tr>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/History%20of%20Russia%27s%20International%20Relations.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/History%20of%20Russia%27s%20International%20Relations.webp" alt="History of Russia's International Relations" width="250"></a>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/How%20Medicines%20Are%20Made%20-%20Strategies%20for%20Chemical%20Synthesis.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/How%20Medicines%20Are%20Made%20-%20Strategies%20for%20Chemical%20Synthesis.webp" alt="How Medicines Are Made - Strategies for Chemical Synthesis" width="250"></a>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Instrumental%20Methods%20of%20Pharmacopoeial%20Analysis.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Instrumental%20Methods%20of%20Pharmacopoeial%20Analysis.webp" alt="Instrumental Methods of Pharmacopoeial Analysis" width="250"></a>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table align="center" width="750">
+<tbody>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Online Promotion</strong>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Public Speaking Techniques</strong>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Russia in Global Politics</strong>
+</td>
+</tr>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Online%20Promotion.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Online%20Promotion.webp" alt="Online Promotion" width="250"></a>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Public%20Speaking%20Techniques.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Public%20Speaking%20Techniques.webp" alt="Public Speaking Techniques" width="250"></a>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Russia%20in%20Global%20Politics.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Russia%20in%20Global%20Politics.webp" alt="Russia in Global Politics" width="250"></a>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table align="center" width="750">
+<tbody>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Russia on the World Map</strong>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Russian History through the Lives of Outstanding Russians</strong>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>School of Stress Management</strong>
+</td>
+</tr>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Russia%20on%20the%20World%20Map.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Russia%20on%20the%20World%20Map.webp" alt="Russia on the World Map" width="250"></a>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Russian%20History%20through%20the%20Lives%20of%20Outstanding%20Russians.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Russian%20History%20through%20the%20Lives%20of%20Outstanding%20Russians.webp" alt="Russian History through the Lives of Outstanding Russians" width="250"></a>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/School%20of%20Stress%20Management.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/School%20of%20Stress%20Management.webp" alt="School of Stress Management" width="250"></a>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table align="center" width="750">
+<tbody>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Solving Trigonometry Problems of Varying Difficulty</strong>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Translation Theory</strong>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Treasures of Russian Culture in a Multilingual World</strong>
+</td>
+</tr>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Solving%20Trigonometry%20Problems%20of%20Varying%20Difficulty.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Solving%20Trigonometry%20Problems%20of%20Varying%20Difficulty.webp" alt="Solving Trigonometry Problems of Varying Difficulty" width="250"></a>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Translation%20Theory.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Translation%20Theory.webp" alt="Translation Theory" width="250"></a>
+</td>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Treasures%20of%20Russian%20Culture%20in%20a%20Multilingual%20World.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Treasures%20of%20Russian%20Culture%20in%20a%20Multilingual%20World.webp" alt="Treasures of Russian Culture in a Multilingual World" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -2744,10 +2919,10 @@ The certificates are grouped by the platforms and organizations that issued them
 <strong>Algorithms: Theory and Practice — Data Structures</strong>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
-<strong>Business English (Peoples’ Friendship University of Russia - RUDN University)</strong>
+<strong>Business English (Peoples' Friendship University of Russia named after Patrice Lumumba - RUDN University)</strong>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
-<strong>Extreme Combinatorics by A. M. Raygorodskii (Moscow Institute of Physics and Technology - MIPT)</strong>
+<strong>Extreme Combinatorics by A. M. Raygorodskii Moscow Institute of Physics and Technology (National Research University; MIPT)</strong>
 </td>
 </tr>
 <tr>
@@ -2755,10 +2930,10 @@ The certificates are grouped by the platforms and organizations that issued them
 <a href="certificates/Stepik/Algorithms%3A%20Theory%20and%20Practice%20%E2%80%94%20Data%20Structures.webp"><img src="certificates/Stepik/Algorithms%3A%20Theory%20and%20Practice%20%E2%80%94%20Data%20Structures.webp" alt="Algorithms: Theory and Practice — Data Structures" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Stepik/Business%20English%20%28Peoples%E2%80%99%20Friendship%20University%20of%20Russia%20-%20RUDN%20University%29.webp"><img src="certificates/Stepik/Business%20English%20%28Peoples%E2%80%99%20Friendship%20University%20of%20Russia%20-%20RUDN%20University%29.webp" alt="Business English (Peoples’ Friendship University of Russia - RUDN University)" width="250"></a>
+<a href="certificates/Stepik/Business%20English%20%28Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20-%20RUDN%20University%29.webp"><img src="certificates/Stepik/Business%20English%20%28Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20-%20RUDN%20University%29.webp" alt="Business English (Peoples' Friendship University of Russia named after Patrice Lumumba - RUDN University)" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Stepik/Extreme%20Combinatorics%20by%20A.%20M.%20Raygorodskii%20%28Moscow%20Institute%20of%20Physics%20and%20Technology%20-%20MIPT%29.webp"><img src="certificates/Stepik/Extreme%20Combinatorics%20by%20A.%20M.%20Raygorodskii%20%28Moscow%20Institute%20of%20Physics%20and%20Technology%20-%20MIPT%29.webp" alt="Extreme Combinatorics by A. M. Raygorodskii (Moscow Institute of Physics and Technology - MIPT)" width="250"></a>
+<a href="certificates/Stepik/Extreme%20Combinatorics%20by%20A.%20M.%20Raygorodskii%20Moscow%20Institute%20of%20Physics%20and%20Technology%20%28National%20Research%20University%3B%20MIPT%29.webp"><img src="certificates/Stepik/Extreme%20Combinatorics%20by%20A.%20M.%20Raygorodskii%20Moscow%20Institute%20of%20Physics%20and%20Technology%20%28National%20Research%20University%3B%20MIPT%29.webp" alt="Extreme Combinatorics by A. M. Raygorodskii Moscow Institute of Physics and Technology (National Research University; MIPT)" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -2768,12 +2943,12 @@ The certificates are grouped by the platforms and organizations that issued them
 <tbody>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
-<strong>Mathematical Teletraffic Theory (Peoples’ Friendship University of Russia - RUDN University)</strong>
+<strong>Mathematical Teletraffic Theory (Peoples' Friendship University of Russia named after Patrice Lumumba - RUDN University)</strong>
 </td>
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Stepik/Mathematical%20Teletraffic%20Theory%20%28Peoples%E2%80%99%20Friendship%20University%20of%20Russia%20-%20RUDN%20University%29.webp"><img src="certificates/Stepik/Mathematical%20Teletraffic%20Theory%20%28Peoples%E2%80%99%20Friendship%20University%20of%20Russia%20-%20RUDN%20University%29.webp" alt="Mathematical Teletraffic Theory (Peoples’ Friendship University of Russia - RUDN University)" width="250"></a>
+<a href="certificates/Stepik/Mathematical%20Teletraffic%20Theory%20%28Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20-%20RUDN%20University%29.webp"><img src="certificates/Stepik/Mathematical%20Teletraffic%20Theory%20%28Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20-%20RUDN%20University%29.webp" alt="Mathematical Teletraffic Theory (Peoples' Friendship University of Russia named after Patrice Lumumba - RUDN University)" width="250"></a>
 </td>
 </tr>
 </tbody>
