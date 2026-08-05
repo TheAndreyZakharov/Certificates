@@ -13,9 +13,9 @@ The certificates are grouped by the platforms and organizations that issued them
 
 <div align="center">
 
-# Total certificates - 257
+# Total certificates - 258
 
-# Total platforms - 65
+# Total platforms - 66
 
 </div>
 
@@ -83,10 +83,11 @@ The certificates are grouped by the platforms and organizations that issued them
 - [United Nations Children's Fund (UNICEF) Agora](#united-nations-childrens-fund-unicef-agora) — 1
 - [United Nations Educational, Scientific and Cultural Organization (UNESCO) Open Learning](#united-nations-educational-scientific-and-cultural-organization-unesco-open-learning) — 3
 - [United States Department of State — Online Professional English Network (OPEN) Massive Open Online Courses (MOOCs)](#united-states-department-of-state-online-professional-english-network-open-massive-open-online-courses-moocs) — 2
-- [University of Illinois Chicago](#university-of-illinois-chicago) — 1
+- [University of Helsinki (UH) — Houston Inc.](#university-of-helsinki-uh-houston-inc) — 1
+- [University of Illinois Chicago (UIC)](#university-of-illinois-chicago-uic) — 1
 - [VMEdu](#vmedu) — 10
 - [Voice of America (VOA)](#voice-of-america-voa) — 2
-- [Wild Chicken University](#wild-chicken-university) — 5
+- [Wild Chicken University (WCU)](#wild-chicken-university-wcu) — 5
 - [Wolfram U](#wolfram-u) — 4
 
 ---
@@ -3433,7 +3434,34 @@ The certificates are grouped by the platforms and organizations that issued them
 
 ---
 
-## University of Illinois Chicago
+## University of Helsinki (UH) — Houston Inc.
+
+<div align="center">
+
+**Certificates: 1**
+
+</div>
+
+<table align="center" width="250">
+<tbody>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Full Stack Open</strong>
+</td>
+</tr>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="certificates/University%20of%20Helsinki%20%28UH%29%20%E2%80%94%20Houston%20Inc./Full%20Stack%20Open.webp"><img src="certificates/University%20of%20Helsinki%20%28UH%29%20%E2%80%94%20Houston%20Inc./Full%20Stack%20Open.webp" alt="Full Stack Open" width="250"></a>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p align="right"><a href="#certificates">↑ Back to top</a></p>
+
+---
+
+## University of Illinois Chicago (UIC)
 
 <div align="center">
 
@@ -3450,7 +3478,7 @@ The certificates are grouped by the platforms and organizations that issued them
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/University%20of%20Illinois%20Chicago/Leadership%20%E2%80%94%20No-Blame%20Problem%20Solving%20at%20the%20University%20of%20Illinois%20Chicago%20%28UIC%29.webp"><img src="certificates/University%20of%20Illinois%20Chicago/Leadership%20%E2%80%94%20No-Blame%20Problem%20Solving%20at%20the%20University%20of%20Illinois%20Chicago%20%28UIC%29.webp" alt="Leadership — No-Blame Problem Solving at the University of Illinois Chicago (UIC)" width="250"></a>
+<a href="certificates/University%20of%20Illinois%20Chicago%20%28UIC%29/Leadership%20%E2%80%94%20No-Blame%20Problem%20Solving%20at%20the%20University%20of%20Illinois%20Chicago%20%28UIC%29.webp"><img src="certificates/University%20of%20Illinois%20Chicago%20%28UIC%29/Leadership%20%E2%80%94%20No-Blame%20Problem%20Solving%20at%20the%20University%20of%20Illinois%20Chicago%20%28UIC%29.webp" alt="Leadership — No-Blame Problem Solving at the University of Illinois Chicago (UIC)" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -3601,7 +3629,7 @@ The certificates are grouped by the platforms and organizations that issued them
 
 ---
 
-## Wild Chicken University
+## Wild Chicken University (WCU)
 
 <div align="center">
 
@@ -3624,13 +3652,13 @@ The certificates are grouped by the platforms and organizations that issued them
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Wild%20Chicken%20University/WCU%20Admission%20Decision.webp"><img src="certificates/Wild%20Chicken%20University/WCU%20Admission%20Decision.webp" alt="WCU Admission Decision" width="250"></a>
+<a href="certificates/Wild%20Chicken%20University%20%28WCU%29/WCU%20Admission%20Decision.webp"><img src="certificates/Wild%20Chicken%20University%20%28WCU%29/WCU%20Admission%20Decision.webp" alt="WCU Admission Decision" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Wild%20Chicken%20University/WCU%20Diploma%20-%20Doctor%20of%20Management.webp"><img src="certificates/Wild%20Chicken%20University/WCU%20Diploma%20-%20Doctor%20of%20Management.webp" alt="WCU Diploma - Doctor of Management" width="250"></a>
+<a href="certificates/Wild%20Chicken%20University%20%28WCU%29/WCU%20Diploma%20-%20Doctor%20of%20Management.webp"><img src="certificates/Wild%20Chicken%20University%20%28WCU%29/WCU%20Diploma%20-%20Doctor%20of%20Management.webp" alt="WCU Diploma - Doctor of Management" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Wild%20Chicken%20University/WCU%20Diploma%20-%20Master.webp"><img src="certificates/Wild%20Chicken%20University/WCU%20Diploma%20-%20Master.webp" alt="WCU Diploma - Master" width="250"></a>
+<a href="certificates/Wild%20Chicken%20University%20%28WCU%29/WCU%20Diploma%20-%20Master.webp"><img src="certificates/Wild%20Chicken%20University%20%28WCU%29/WCU%20Diploma%20-%20Master.webp" alt="WCU Diploma - Master" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -3648,10 +3676,10 @@ The certificates are grouped by the platforms and organizations that issued them
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Wild%20Chicken%20University/WCU%20Diploma%20-%20Master%20of%20Engineering%201.webp"><img src="certificates/Wild%20Chicken%20University/WCU%20Diploma%20-%20Master%20of%20Engineering%201.webp" alt="WCU Diploma - Master of Engineering 1" width="250"></a>
+<a href="certificates/Wild%20Chicken%20University%20%28WCU%29/WCU%20Diploma%20-%20Master%20of%20Engineering%201.webp"><img src="certificates/Wild%20Chicken%20University%20%28WCU%29/WCU%20Diploma%20-%20Master%20of%20Engineering%201.webp" alt="WCU Diploma - Master of Engineering 1" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Wild%20Chicken%20University/WCU%20Diploma%20-%20Master%20of%20Engineering%202.webp"><img src="certificates/Wild%20Chicken%20University/WCU%20Diploma%20-%20Master%20of%20Engineering%202.webp" alt="WCU Diploma - Master of Engineering 2" width="250"></a>
+<a href="certificates/Wild%20Chicken%20University%20%28WCU%29/WCU%20Diploma%20-%20Master%20of%20Engineering%202.webp"><img src="certificates/Wild%20Chicken%20University%20%28WCU%29/WCU%20Diploma%20-%20Master%20of%20Engineering%202.webp" alt="WCU Diploma - Master of Engineering 2" width="250"></a>
 </td>
 </tr>
 </tbody>
