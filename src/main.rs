@@ -14,21 +14,21 @@ use walkdir::WalkDir;
 // НАСТРОЙКИ
 // ============================================================
 
-/// Максимальное количество сертификатов в одной строке таблицы.
+/// Максимальное количество документов в одной строке таблицы.
 const MAX_COLUMNS: usize = 3;
 
 /// Фиксированная ширина одной колонки сертификата.
 const CERTIFICATE_COLUMN_WIDTH: usize = 250;
 
-/// Папка с сертификатами.
-const CERTIFICATES_DIRECTORY: &str = "certificates";
+/// Папка с документами.
+const CERTIFICATES_DIRECTORY: &str = "docs";
 
 /// Генерируемые README-файлы.
 const README_EN_PATH: &str = "README.md";
 const README_RU_PATH: &str = "README_RU.md";
 
 /// Ссылка на репозиторий.
-const REPOSITORY_URL: &str = "https://github.com/TheAndreyZakharov/Certificates";
+const REPOSITORY_URL: &str = "https://github.com/TheAndreyZakharov/Certificates-and-Diplomas";
 
 /// Поддерживаемые форматы изображений.
 const SUPPORTED_EXTENSIONS: &[&str] = &["webp", "png", "jpg", "jpeg", "avif"];
@@ -64,72 +64,153 @@ enum Language {
 impl Language {
     fn top_anchor(self) -> &'static str {
         match self {
-            Language::English => "#certificates",
-            Language::Russian => "#сертификаты",
+            Language::English => "#certificates-and-diplomas",
+            Language::Russian => "#сертификаты-и-дипломы",
         }
     }
 
     fn page_title(self) -> &'static str {
         match self {
-            Language::English => "Certificates",
-            Language::Russian => "Сертификаты",
+            Language::English => "Certificates and Diplomas",
+            Language::Russian => "Сертификаты и дипломы",
         }
     }
 
     fn introduction(self) -> &'static str {
         match self {
             Language::English => {
-                "This repository contains my certificates earned through \
-                 courses, educational programs, professional training, \
-                 and independent study."
+                "This repository contains a collection of my certificates and diplomas \
+                obtained through various educational programs, academic studies, professional \
+                retraining programs, professional development activities, learning platforms, \
+                and specialized courses. The documents represent different stages of my \
+                continuous education and professional development, reflecting my interest \
+                in expanding knowledge, mastering new technologies, and developing practical \
+                skills across multiple fields."
             }
             Language::Russian => {
-                "В этом репозитории собраны мои сертификаты, полученные \
-                 за прохождение курсов, образовательных программ, \
-                 профессионального обучения и самостоятельного изучения."
+                "В этом репозитории собрана коллекция моих сертификатов и дипломов, \
+                полученных в рамках различных образовательных программ, академического \
+                обучения, программ профессиональной переподготовки, повышения квалификации, \
+                учебных платформ и специализированных курсов. Эти документы отражают \
+                разные этапы моего непрерывного обучения и профессионального развития, \
+                показывая стремление к освоению новых технологий, расширению знаний \
+                и развитию практических навыков в различных направлениях."
             }
         }
     }
 
+    fn covered_topics(self) -> &'static str {
+        match self {
+            Language::English => {
+                "The majority of the documents presented here are related to information \
+                technology and cover a wide range of IT-related fields. The collection includes \
+                certificates focused on programming languages, software development, artificial \
+                intelligence and machine learning, their practical applications, data analysis, \
+                data science, user interface and user experience design, and many other areas \
+                related to modern technologies. The repository also contains documents related \
+                to the connection between technology and business, management, leadership, and \
+                human resources. It also includes certificates demonstrating English language \
+                proficiency for professional and business communication, as well as technical \
+                foundations such as mathematics, statistics, and other supporting disciplines. \
+                Additionally, the collection includes practical documents focused on applying \
+                specific technologies and approaches in real-world scenarios, along with \
+                documents covering broader topics outside of the IT field."
+            }
+            Language::Russian => {
+                "Большая часть представленных здесь документов связана с информационными \
+                технологиями и охватывает множество различных направлений в сфере IT. В \
+                коллекции представлены сертификаты по языкам программирования, разработке \
+                программного обеспечения, искусственному интеллекту и машинному обучению, \
+                их практическому применению, анализу данных, Data Science, дизайну \
+                пользовательских интерфейсов и пользовательского опыта, а также многим \
+                другим направлениям, связанным с современными технологиями. Отдельное место \
+                занимают документы, связанные с взаимодействием технологий и бизнеса, \
+                менеджментом, управлением, лидерством и HR-направлениями. Также представлены \
+                сертификаты, отражающие уровень владения английским языком для профессионального \
+                и делового применения, а также технические основы — математику, статистику \
+                и другие смежные дисциплины. Кроме того, коллекция включает практические \
+                документы по применению конкретных технологий и подходов в реальных задачах, \
+                а также документы на более общие темы, выходящие за рамки IT."
+            }
+        }
+    }
+
+
     fn explanation(self) -> &'static str {
         match self {
             Language::English => {
-                "The certificates are grouped by the platforms and organizations \
-                 that issued them. Click an image to open the original file."
+                "All documents are grouped by the organizations and platforms that issued them. \
+                The table of contents below contains all available organizations and platforms \
+                with their full names and abbreviations, along with the number of documents \
+                obtained from each source. Each document name is intentionally duplicated as \
+                the section title, and all available pages of multi-page documents are displayed \
+                completely."
             }
             Language::Russian => {
-                "Сертификаты сгруппированы по платформам и организациям, \
-                 которые их выдали. Нажмите на изображение, чтобы открыть \
-                 оригинальный файл."
+                "Все документы сгруппированы по организациям и платформам, которые их выдали. \
+                В оглавлении ниже представлены все организации и платформы с их полными \
+                названиями и аббревиатурами, а также количество документов, полученных от \
+                каждого источника. Название каждого документа специально дублируется в качестве \
+                заголовка, а все доступные страницы многостраничных документов представлены \
+                полностью."
+            }
+        }
+    }
+
+    fn technical_details(self) -> &'static str {
+        match self {
+            Language::English => {
+                "The README files are automatically generated by \
+                `src/main.rs`. All document files are organized inside the \
+                `docs` directory and separated into folders according to their \
+                issuing organization or platform. Document files are named according \
+                to their certificate titles, and all certificate images are stored \
+                in WebP format. For multi-page documents, all pages keep the same \
+                certificate name, while additional pages are marked with suffixes \
+                such as `_2`, `_3`, and so on. The generator scans these folders, \
+                detects available documents and their pages, and builds structured \
+                README files in both English and Russian."
+            }
+            Language::Russian => {
+                "Файлы README автоматически генерируются с помощью файла \
+                `src/main.rs`. Все документы хранятся в папке `docs` и разделены \
+                по отдельным папкам согласно организациям и платформам, которые их \
+                выдали. Файлы документов названы в соответствии с названиями \
+                сертификатов, а все изображения сертификатов хранятся в формате WebP. \
+                Если документ состоит из нескольких страниц, все страницы сохраняют \
+                одинаковое название сертификата, а дополнительные страницы обозначаются \
+                суффиксами `_2`, `_3` и так далее. Генератор сканирует эти папки, \
+                определяет доступные документы и их страницы, после чего создаёт \
+                структурированные README-файлы на русском и английском языках."
             }
         }
     }
 
     fn total_certificates_label(self) -> &'static str {
         match self {
-            Language::English => "Total certificates",
-            Language::Russian => "Всего сертификатов",
+            Language::English => "Total documents",
+            Language::Russian => "Всего документов",
         }
     }
 
     fn total_platforms_label(self) -> &'static str {
         match self {
-            Language::English => "Total platforms",
-            Language::Russian => "Всего платформ",
+            Language::English => "Total organizations & platforms",
+            Language::Russian => "Всего организаций и платформ",
         }
     }
 
     fn contents_label(self) -> &'static str {
         match self {
-            Language::English => "Platforms and organizations",
-            Language::Russian => "Платформы и организации",
+            Language::English => "Organizations and Platforms",
+            Language::Russian => "Организации и платформы",
         }
     }
 
     fn platform_certificates_label(self) -> &'static str {
         match self {
-            Language::English => "Certificates",
-            Language::Russian => "Сертификатов",
+            Language::English => "Documents",
+            Language::Russian => "Документов",
         }
     }
 
@@ -166,7 +247,7 @@ fn main() -> Result<()> {
 
     if !certificates_root.exists() {
         bail!(
-            "Папка с сертификатами не найдена: {}",
+            "Папка с документами не найдена: {}",
             certificates_root.display()
         );
     }
@@ -224,7 +305,7 @@ fn main() -> Result<()> {
 }
 
 // ============================================================
-// СКАНИРОВАНИЕ СЕРТИФИКАТОВ
+// СКАНИРОВАНИЕ ДОКУМЕНТОВ
 // ============================================================
 
 fn scan_certificates(root: &Path) -> Result<Vec<Platform>> {
@@ -497,7 +578,11 @@ fn generate_introduction(
     format!(
         r#"{introduction}
 
+{covered_topics}
+
 {explanation}
+
+{technical_details}
 
 <div align="center">
 
@@ -511,7 +596,9 @@ fn generate_introduction(
 
 "#,
         introduction = language.introduction(),
+        covered_topics = language.covered_topics(),
         explanation = language.explanation(),
+        technical_details = language.technical_details(),
         total_label = language.total_certificates_label(),
         platforms_label = language.total_platforms_label(),
     )
@@ -546,6 +633,11 @@ fn generate_contents(platforms: &[Platform], language: Language) -> String {
 
 fn generate_platform_section(platform: &Platform, language: Language) -> String {
     let mut output = String::new();
+
+    output.push_str(&format!(
+        "<a id=\"{}\"></a>\n\n",
+        github_heading_anchor(&platform.name),
+    ));
 
     output.push_str(&format!(
         "## {}\n\n",

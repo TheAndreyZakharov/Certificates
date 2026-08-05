@@ -1,27 +1,31 @@
 <div align="center">
 
-# Сертификаты
+# Сертификаты и дипломы
 
-[![Русский](https://img.shields.io/badge/README_Language-Русский-brightgreen)](https://github.com/TheAndreyZakharov/Certificates/blob/main/README_RU.md)
-[![English](https://img.shields.io/badge/README_Language-English-blue)](https://github.com/TheAndreyZakharov/Certificates/blob/main/README.md)
+[![Русский](https://img.shields.io/badge/README_Language-Русский-brightgreen)](https://github.com/TheAndreyZakharov/Certificates-and-Diplomas/blob/main/README_RU.md)
+[![English](https://img.shields.io/badge/README_Language-English-blue)](https://github.com/TheAndreyZakharov/Certificates-and-Diplomas/blob/main/README.md)
 
 </div>
 
-В этом репозитории собраны мои сертификаты, полученные за прохождение курсов, образовательных программ, профессионального обучения и самостоятельного изучения.
+В этом репозитории собрана коллекция моих сертификатов и дипломов, полученных в рамках различных образовательных программ, академического обучения, программ профессиональной переподготовки, повышения квалификации, учебных платформ и специализированных курсов. Эти документы отражают разные этапы моего непрерывного обучения и профессионального развития, показывая стремление к освоению новых технологий, расширению знаний и развитию практических навыков в различных направлениях.
 
-Сертификаты сгруппированы по платформам и организациям, которые их выдали. Нажмите на изображение, чтобы открыть оригинальный файл.
+Большая часть представленных здесь документов связана с информационными технологиями и охватывает множество различных направлений в сфере IT. В коллекции представлены сертификаты по языкам программирования, разработке программного обеспечения, искусственному интеллекту и машинному обучению, их практическому применению, анализу данных, Data Science, дизайну пользовательских интерфейсов и пользовательского опыта, а также многим другим направлениям, связанным с современными технологиями. Отдельное место занимают документы, связанные с взаимодействием технологий и бизнеса, менеджментом, управлением, лидерством и HR-направлениями. Также представлены сертификаты, отражающие уровень владения английским языком для профессионального и делового применения, а также технические основы — математику, статистику и другие смежные дисциплины. Кроме того, коллекция включает практические документы по применению конкретных технологий и подходов в реальных задачах, а также документы на более общие темы, выходящие за рамки IT.
+
+Все документы сгруппированы по организациям и платформам, которые их выдали. В оглавлении ниже представлены все организации и платформы с их полными названиями и аббревиатурами, а также количество документов, полученных от каждого источника. Название каждого документа специально дублируется в качестве заголовка, а все доступные страницы многостраничных документов представлены полностью.
+
+Файлы README автоматически генерируются с помощью файла `src/main.rs`. Все документы хранятся в папке `docs` и разделены по отдельным папкам согласно организациям и платформам, которые их выдали. Файлы документов названы в соответствии с названиями сертификатов, а все изображения сертификатов хранятся в формате WebP. Если документ состоит из нескольких страниц, все страницы сохраняют одинаковое название сертификата, а дополнительные страницы обозначаются суффиксами `_2`, `_3` и так далее. Генератор сканирует эти папки, определяет доступные документы и их страницы, после чего создаёт структурированные README-файлы на русском и английском языках.
 
 <div align="center">
 
-# Всего сертификатов - 258
+# Всего документов - 258
 
-# Всего платформ - 66
+# Всего организаций и платформ - 66
 
 </div>
 
 ---
 
-## Платформы и организации
+## Организации и платформы
 
 - [Academy Europe Open University](#academy-europe-open-university) — 3
 - [Acumen Academy](#acumen-academy) — 1
@@ -92,11 +96,13 @@
 
 ---
 
+<a id="academy-europe-open-university"></a>
+
 ## Academy Europe Open University
 
 <div align="center">
 
-**Сертификатов: 3**
+**Документов: 3**
 
 </div>
 
@@ -115,27 +121,29 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Academy%20Europe%20Open%20University/Logo%20Programming.webp"><img src="certificates/Academy%20Europe%20Open%20University/Logo%20Programming.webp" alt="Logo Programming" width="250"></a>
+<a href="docs/Academy%20Europe%20Open%20University/Logo%20Programming.webp"><img src="docs/Academy%20Europe%20Open%20University/Logo%20Programming.webp" alt="Logo Programming" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Academy%20Europe%20Open%20University/Modelling%20and%20Simulation.webp"><img src="certificates/Academy%20Europe%20Open%20University/Modelling%20and%20Simulation.webp" alt="Modelling and Simulation" width="250"></a>
+<a href="docs/Academy%20Europe%20Open%20University/Modelling%20and%20Simulation.webp"><img src="docs/Academy%20Europe%20Open%20University/Modelling%20and%20Simulation.webp" alt="Modelling and Simulation" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Academy%20Europe%20Open%20University/Power%20Electronics%20Devices%2C%20Converters%2C%20and%20Control%20Methods.webp"><img src="certificates/Academy%20Europe%20Open%20University/Power%20Electronics%20Devices%2C%20Converters%2C%20and%20Control%20Methods.webp" alt="Power Electronics Devices, Converters, and Control Methods" width="250"></a>
+<a href="docs/Academy%20Europe%20Open%20University/Power%20Electronics%20Devices%2C%20Converters%2C%20and%20Control%20Methods.webp"><img src="docs/Academy%20Europe%20Open%20University/Power%20Electronics%20Devices%2C%20Converters%2C%20and%20Control%20Methods.webp" alt="Power Electronics Devices, Converters, and Control Methods" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="acumen-academy"></a>
 
 ## Acumen Academy
 
 <div align="center">
 
-**Сертификатов: 1**
+**Документов: 1**
 
 </div>
 
@@ -148,21 +156,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Acumen%20Academy/Adaptive%20Leadership.webp"><img src="certificates/Acumen%20Academy/Adaptive%20Leadership.webp" alt="Adaptive Leadership" width="250"></a>
+<a href="docs/Acumen%20Academy/Adaptive%20Leadership.webp"><img src="docs/Acumen%20Academy/Adaptive%20Leadership.webp" alt="Adaptive Leadership" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="atlassian-university"></a>
 
 ## Atlassian University
 
 <div align="center">
 
-**Сертификатов: 5**
+**Документов: 5**
 
 </div>
 
@@ -181,13 +191,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Atlassian%20University/Basic%20Reporting%20in%20Jira.webp"><img src="certificates/Atlassian%20University/Basic%20Reporting%20in%20Jira.webp" alt="Basic Reporting in Jira" width="250"></a>
+<a href="docs/Atlassian%20University/Basic%20Reporting%20in%20Jira.webp"><img src="docs/Atlassian%20University/Basic%20Reporting%20in%20Jira.webp" alt="Basic Reporting in Jira" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Atlassian%20University/Confluence%20Fundamentals.webp"><img src="certificates/Atlassian%20University/Confluence%20Fundamentals.webp" alt="Confluence Fundamentals" width="250"></a>
+<a href="docs/Atlassian%20University/Confluence%20Fundamentals.webp"><img src="docs/Atlassian%20University/Confluence%20Fundamentals.webp" alt="Confluence Fundamentals" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Atlassian%20University/Jira%20Fundamentals.webp"><img src="certificates/Atlassian%20University/Jira%20Fundamentals.webp" alt="Jira Fundamentals" width="250"></a>
+<a href="docs/Atlassian%20University/Jira%20Fundamentals.webp"><img src="docs/Atlassian%20University/Jira%20Fundamentals.webp" alt="Jira Fundamentals" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -205,24 +215,26 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Atlassian%20University/Jira%20Service%20Management%20Fundamentals.webp"><img src="certificates/Atlassian%20University/Jira%20Service%20Management%20Fundamentals.webp" alt="Jira Service Management Fundamentals" width="250"></a>
+<a href="docs/Atlassian%20University/Jira%20Service%20Management%20Fundamentals.webp"><img src="docs/Atlassian%20University/Jira%20Service%20Management%20Fundamentals.webp" alt="Jira Service Management Fundamentals" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Atlassian%20University/Writing%20Complex%20JQL%20Queries%20in%20Jira%20Software.webp"><img src="certificates/Atlassian%20University/Writing%20Complex%20JQL%20Queries%20in%20Jira%20Software.webp" alt="Writing Complex JQL Queries in Jira Software" width="250"></a>
+<a href="docs/Atlassian%20University/Writing%20Complex%20JQL%20Queries%20in%20Jira%20Software.webp"><img src="docs/Atlassian%20University/Writing%20Complex%20JQL%20Queries%20in%20Jira%20Software.webp" alt="Writing Complex JQL Queries in Jira Software" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="bashkir-state-pedagogical-university-named-after-m-akmulla-bspu-institute-of-continuing-professional-education-vector-of-development"></a>
 
 ## Bashkir State Pedagogical University named after M. Akmulla (BSPU) — Institute of Continuing Professional Education "Vector of Development"
 
 <div align="center">
 
-**Сертификатов: 8**
+**Документов: 8**
 
 </div>
 
@@ -241,13 +253,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Career%20Navigator%20-%20Profession%20of%20the%20Future.webp"><img src="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Career%20Navigator%20-%20Profession%20of%20the%20Future.webp" alt="Career Navigator - Profession of the Future" width="250"></a>
+<a href="docs/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Career%20Navigator%20-%20Profession%20of%20the%20Future.webp"><img src="docs/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Career%20Navigator%20-%20Profession%20of%20the%20Future.webp" alt="Career Navigator - Profession of the Future" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Communicative%20Leader.webp"><img src="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Communicative%20Leader.webp" alt="Communicative Leader" width="250"></a>
+<a href="docs/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Communicative%20Leader.webp"><img src="docs/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Communicative%20Leader.webp" alt="Communicative Leader" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Computer%20Science%20and%20Programming%20-%20Theory%2C%20Practice%2C%20and%20Teaching%20Methodology%20in%20School%20Education%20%28Advanced%20Level%29.webp"><img src="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Computer%20Science%20and%20Programming%20-%20Theory%2C%20Practice%2C%20and%20Teaching%20Methodology%20in%20School%20Education%20%28Advanced%20Level%29.webp" alt="Computer Science and Programming - Theory, Practice, and Teaching Methodology in School Education (Advanced Level)" width="250"></a>
+<a href="docs/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Computer%20Science%20and%20Programming%20-%20Theory%2C%20Practice%2C%20and%20Teaching%20Methodology%20in%20School%20Education%20%28Advanced%20Level%29.webp"><img src="docs/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Computer%20Science%20and%20Programming%20-%20Theory%2C%20Practice%2C%20and%20Teaching%20Methodology%20in%20School%20Education%20%28Advanced%20Level%29.webp" alt="Computer Science and Programming - Theory, Practice, and Teaching Methodology in School Education (Advanced Level)" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -268,13 +280,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Designing%20a%20Comfortable%20and%20Safe%20Educational%20Environment.webp"><img src="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Designing%20a%20Comfortable%20and%20Safe%20Educational%20Environment.webp" alt="Designing a Comfortable and Safe Educational Environment" width="250"></a>
+<a href="docs/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Designing%20a%20Comfortable%20and%20Safe%20Educational%20Environment.webp"><img src="docs/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Designing%20a%20Comfortable%20and%20Safe%20Educational%20Environment.webp" alt="Designing a Comfortable and Safe Educational Environment" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Fundamentals%20of%20Graphic%20Design.webp"><img src="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Fundamentals%20of%20Graphic%20Design.webp" alt="Fundamentals of Graphic Design" width="250"></a>
+<a href="docs/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Fundamentals%20of%20Graphic%20Design.webp"><img src="docs/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Fundamentals%20of%20Graphic%20Design.webp" alt="Fundamentals of Graphic Design" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Fundamentals%20of%20Web%20Development.webp"><img src="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Fundamentals%20of%20Web%20Development.webp" alt="Fundamentals of Web Development" width="250"></a>
+<a href="docs/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Fundamentals%20of%20Web%20Development.webp"><img src="docs/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Fundamentals%20of%20Web%20Development.webp" alt="Fundamentals of Web Development" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -292,24 +304,26 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Genetics%20for%20Everyone%20-%20Making%20the%20Complex%20Simple.webp"><img src="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Genetics%20for%20Everyone%20-%20Making%20the%20Complex%20Simple.webp" alt="Genetics for Everyone - Making the Complex Simple" width="250"></a>
+<a href="docs/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Genetics%20for%20Everyone%20-%20Making%20the%20Complex%20Simple.webp"><img src="docs/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Genetics%20for%20Everyone%20-%20Making%20the%20Complex%20Simple.webp" alt="Genetics for Everyone - Making the Complex Simple" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Teaching%20Methodology%20of%20Pedagogical%20Disciplines%20in%20Higher%20Education.webp"><img src="certificates/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Teaching%20Methodology%20of%20Pedagogical%20Disciplines%20in%20Higher%20Education.webp" alt="Teaching Methodology of Pedagogical Disciplines in Higher Education" width="250"></a>
+<a href="docs/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Teaching%20Methodology%20of%20Pedagogical%20Disciplines%20in%20Higher%20Education.webp"><img src="docs/Bashkir%20State%20Pedagogical%20University%20named%20after%20M.%20Akmulla%20%28BSPU%29%20%E2%80%94%20Institute%20of%20Continuing%20Professional%20Education%20%22Vector%20of%20Development%22/Teaching%20Methodology%20of%20Pedagogical%20Disciplines%20in%20Higher%20Education.webp" alt="Teaching Methodology of Pedagogical Disciplines in Higher Education" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="cisco-networking-academy"></a>
 
 ## Cisco Networking Academy
 
 <div align="center">
 
-**Сертификатов: 3**
+**Документов: 3**
 
 </div>
 
@@ -328,27 +342,29 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Cisco%20Networking%20Academy/Introduction%20to%20Cybersecurity.webp"><img src="certificates/Cisco%20Networking%20Academy/Introduction%20to%20Cybersecurity.webp" alt="Introduction to Cybersecurity" width="250"></a>
+<a href="docs/Cisco%20Networking%20Academy/Introduction%20to%20Cybersecurity.webp"><img src="docs/Cisco%20Networking%20Academy/Introduction%20to%20Cybersecurity.webp" alt="Introduction to Cybersecurity" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Cisco%20Networking%20Academy/Network%20Addressing%20and%20Basic%20Troubleshooting.webp"><img src="certificates/Cisco%20Networking%20Academy/Network%20Addressing%20and%20Basic%20Troubleshooting.webp" alt="Network Addressing and Basic Troubleshooting" width="250"></a>
+<a href="docs/Cisco%20Networking%20Academy/Network%20Addressing%20and%20Basic%20Troubleshooting.webp"><img src="docs/Cisco%20Networking%20Academy/Network%20Addressing%20and%20Basic%20Troubleshooting.webp" alt="Network Addressing and Basic Troubleshooting" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Cisco%20Networking%20Academy/Networking%20Basics.webp"><img src="certificates/Cisco%20Networking%20Academy/Networking%20Basics.webp" alt="Networking Basics" width="250"></a>
+<a href="docs/Cisco%20Networking%20Academy/Networking%20Basics.webp"><img src="docs/Cisco%20Networking%20Academy/Networking%20Basics.webp" alt="Networking Basics" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="complexity-explorer-santa-fe-institute"></a>
 
 ## Complexity Explorer — Santa Fe Institute
 
 <div align="center">
 
-**Сертификатов: 4**
+**Документов: 4**
 
 </div>
 
@@ -367,13 +383,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Complexity%20Explorer%20%E2%80%94%20Santa%20Fe%20Institute/Fractals%20and%20Scaling.webp"><img src="certificates/Complexity%20Explorer%20%E2%80%94%20Santa%20Fe%20Institute/Fractals%20and%20Scaling.webp" alt="Fractals and Scaling" width="250"></a>
+<a href="docs/Complexity%20Explorer%20%E2%80%94%20Santa%20Fe%20Institute/Fractals%20and%20Scaling.webp"><img src="docs/Complexity%20Explorer%20%E2%80%94%20Santa%20Fe%20Institute/Fractals%20and%20Scaling.webp" alt="Fractals and Scaling" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Complexity%20Explorer%20%E2%80%94%20Santa%20Fe%20Institute/Introduction%20to%20Complexity.webp"><img src="certificates/Complexity%20Explorer%20%E2%80%94%20Santa%20Fe%20Institute/Introduction%20to%20Complexity.webp" alt="Introduction to Complexity" width="250"></a>
+<a href="docs/Complexity%20Explorer%20%E2%80%94%20Santa%20Fe%20Institute/Introduction%20to%20Complexity.webp"><img src="docs/Complexity%20Explorer%20%E2%80%94%20Santa%20Fe%20Institute/Introduction%20to%20Complexity.webp" alt="Introduction to Complexity" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Complexity%20Explorer%20%E2%80%94%20Santa%20Fe%20Institute/Introduction%20to%20Dynamical%20Systems%20and%20Chaos.webp"><img src="certificates/Complexity%20Explorer%20%E2%80%94%20Santa%20Fe%20Institute/Introduction%20to%20Dynamical%20Systems%20and%20Chaos.webp" alt="Introduction to Dynamical Systems and Chaos" width="250"></a>
+<a href="docs/Complexity%20Explorer%20%E2%80%94%20Santa%20Fe%20Institute/Introduction%20to%20Dynamical%20Systems%20and%20Chaos.webp"><img src="docs/Complexity%20Explorer%20%E2%80%94%20Santa%20Fe%20Institute/Introduction%20to%20Dynamical%20Systems%20and%20Chaos.webp" alt="Introduction to Dynamical Systems and Chaos" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -388,21 +404,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Complexity%20Explorer%20%E2%80%94%20Santa%20Fe%20Institute/Nonlinear%20Dynamics%20-%20Mathematical%20and%20Computational%20Approaches.webp"><img src="certificates/Complexity%20Explorer%20%E2%80%94%20Santa%20Fe%20Institute/Nonlinear%20Dynamics%20-%20Mathematical%20and%20Computational%20Approaches.webp" alt="Nonlinear Dynamics - Mathematical and Computational Approaches" width="250"></a>
+<a href="docs/Complexity%20Explorer%20%E2%80%94%20Santa%20Fe%20Institute/Nonlinear%20Dynamics%20-%20Mathematical%20and%20Computational%20Approaches.webp"><img src="docs/Complexity%20Explorer%20%E2%80%94%20Santa%20Fe%20Institute/Nonlinear%20Dynamics%20-%20Mathematical%20and%20Computational%20Approaches.webp" alt="Nonlinear Dynamics - Mathematical and Computational Approaches" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="cpanel-university"></a>
 
 ## cPanel University
 
 <div align="center">
 
-**Сертификатов: 3**
+**Документов: 3**
 
 </div>
 
@@ -421,27 +439,29 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/cPanel%20University/cPanel%20%26%20WHM%20System%20Administrator%20II%20Certification%20Exame.webp"><img src="certificates/cPanel%20University/cPanel%20%26%20WHM%20System%20Administrator%20II%20Certification%20Exame.webp" alt="cPanel &amp; WHM System Administrator II Certification Exame" width="250"></a>
+<a href="docs/cPanel%20University/cPanel%20%26%20WHM%20System%20Administrator%20II%20Certification%20Exame.webp"><img src="docs/cPanel%20University/cPanel%20%26%20WHM%20System%20Administrator%20II%20Certification%20Exame.webp" alt="cPanel &amp; WHM System Administrator II Certification Exame" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/cPanel%20University/cPanel%20Professional%20Certification%20Exame.webp"><img src="certificates/cPanel%20University/cPanel%20Professional%20Certification%20Exame.webp" alt="cPanel Professional Certification Exame" width="250"></a>
+<a href="docs/cPanel%20University/cPanel%20Professional%20Certification%20Exame.webp"><img src="docs/cPanel%20University/cPanel%20Professional%20Certification%20Exame.webp" alt="cPanel Professional Certification Exame" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/cPanel%20University/LiteSpeed%20Certification%20Exame.webp"><img src="certificates/cPanel%20University/LiteSpeed%20Certification%20Exame.webp" alt="LiteSpeed Certification Exame" width="250"></a>
+<a href="docs/cPanel%20University/LiteSpeed%20Certification%20Exame.webp"><img src="docs/cPanel%20University/LiteSpeed%20Certification%20Exame.webp" alt="LiteSpeed Certification Exame" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="databricks-academy"></a>
 
 ## Databricks Academy
 
 <div align="center">
 
-**Сертификатов: 4**
+**Документов: 4**
 
 </div>
 
@@ -460,13 +480,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Databricks%20Academy/Databricks%20Accredited%20AI%20Agent%20Fundamentals.webp"><img src="certificates/Databricks%20Academy/Databricks%20Accredited%20AI%20Agent%20Fundamentals.webp" alt="Databricks Accredited AI Agent Fundamentals" width="250"></a>
+<a href="docs/Databricks%20Academy/Databricks%20Accredited%20AI%20Agent%20Fundamentals.webp"><img src="docs/Databricks%20Academy/Databricks%20Accredited%20AI%20Agent%20Fundamentals.webp" alt="Databricks Accredited AI Agent Fundamentals" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Databricks%20Academy/Databricks%20Accredited%20Databricks%20Fundamentals.webp"><img src="certificates/Databricks%20Academy/Databricks%20Accredited%20Databricks%20Fundamentals.webp" alt="Databricks Accredited Databricks Fundamentals" width="250"></a>
+<a href="docs/Databricks%20Academy/Databricks%20Accredited%20Databricks%20Fundamentals.webp"><img src="docs/Databricks%20Academy/Databricks%20Accredited%20Databricks%20Fundamentals.webp" alt="Databricks Accredited Databricks Fundamentals" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Databricks%20Academy/Databricks%20Accredited%20Generative%20AI%20Fundamentals.webp"><img src="certificates/Databricks%20Academy/Databricks%20Accredited%20Generative%20AI%20Fundamentals.webp" alt="Databricks Accredited Generative AI Fundamentals" width="250"></a>
+<a href="docs/Databricks%20Academy/Databricks%20Accredited%20Generative%20AI%20Fundamentals.webp"><img src="docs/Databricks%20Academy/Databricks%20Accredited%20Generative%20AI%20Fundamentals.webp" alt="Databricks Accredited Generative AI Fundamentals" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -481,21 +501,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Databricks%20Academy/Databricks%20Fundamentals%20Accreditation.webp"><img src="certificates/Databricks%20Academy/Databricks%20Fundamentals%20Accreditation.webp" alt="Databricks Fundamentals Accreditation" width="250"></a>
+<a href="docs/Databricks%20Academy/Databricks%20Fundamentals%20Accreditation.webp"><img src="docs/Databricks%20Academy/Databricks%20Fundamentals%20Accreditation.webp" alt="Databricks Fundamentals Accreditation" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="dobro-university"></a>
 
 ## Dobro University
 
 <div align="center">
 
-**Сертификатов: 1**
+**Документов: 1**
 
 </div>
 
@@ -508,21 +530,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Dobro%20University/Interaction%20with%20Business.webp"><img src="certificates/Dobro%20University/Interaction%20with%20Business.webp" alt="Interaction with Business" width="250"></a>
+<a href="docs/Dobro%20University/Interaction%20with%20Business.webp"><img src="docs/Dobro%20University/Interaction%20with%20Business.webp" alt="Interaction with Business" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="ef-standard-english-test-ef-set-education"></a>
 
 ## EF Standard English Test (EF SET) Education
 
 <div align="center">
 
-**Сертификатов: 1**
+**Документов: 1**
 
 </div>
 
@@ -535,21 +559,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/EF%20Standard%20English%20Test%20%28EF%20SET%29%20Education/English%20Certificate.webp"><img src="certificates/EF%20Standard%20English%20Test%20%28EF%20SET%29%20Education/English%20Certificate.webp" alt="English Certificate" width="250"></a>
+<a href="docs/EF%20Standard%20English%20Test%20%28EF%20SET%29%20Education/English%20Certificate.webp"><img src="docs/EF%20Standard%20English%20Test%20%28EF%20SET%29%20Education/English%20Certificate.webp" alt="English Certificate" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="forage"></a>
 
 ## Forage
 
 <div align="center">
 
-**Сертификатов: 1**
+**Документов: 1**
 
 </div>
 
@@ -562,21 +588,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Forage/Software%20Engineering%20Job%20Simulation%20-%20JPMorgan%20Chase%20%26%20Co.webp"><img src="certificates/Forage/Software%20Engineering%20Job%20Simulation%20-%20JPMorgan%20Chase%20%26%20Co.webp" alt="Software Engineering Job Simulation - JPMorgan Chase &amp; Co" width="250"></a>
+<a href="docs/Forage/Software%20Engineering%20Job%20Simulation%20-%20JPMorgan%20Chase%20%26%20Co.webp"><img src="docs/Forage/Software%20Engineering%20Job%20Simulation%20-%20JPMorgan%20Chase%20%26%20Co.webp" alt="Software Engineering Job Simulation - JPMorgan Chase &amp; Co" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="futurelearn"></a>
 
 ## FutureLearn
 
 <div align="center">
 
-**Сертификатов: 1**
+**Документов: 1**
 
 </div>
 
@@ -590,25 +618,27 @@
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/FutureLearn/Digital%20Skills%20Artificial%20Intelligence_1.webp"><img src="certificates/FutureLearn/Digital%20Skills%20Artificial%20Intelligence_1.webp" alt="Digital Skills Artificial Intelligence — Страница 1" width="250"></a>
+<a href="docs/FutureLearn/Digital%20Skills%20Artificial%20Intelligence_1.webp"><img src="docs/FutureLearn/Digital%20Skills%20Artificial%20Intelligence_1.webp" alt="Digital Skills Artificial Intelligence — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/FutureLearn/Digital%20Skills%20Artificial%20Intelligence_2.webp"><img src="certificates/FutureLearn/Digital%20Skills%20Artificial%20Intelligence_2.webp" alt="Digital Skills Artificial Intelligence — Страница 2" width="250"></a>
+<a href="docs/FutureLearn/Digital%20Skills%20Artificial%20Intelligence_2.webp"><img src="docs/FutureLearn/Digital%20Skills%20Artificial%20Intelligence_2.webp" alt="Digital Skills Artificial Intelligence — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="german-corporation-for-international-cooperation-giz-atingi"></a>
 
 ## German Corporation for International Cooperation (GIZ) — atingi
 
 <div align="center">
 
-**Сертификатов: 2**
+**Документов: 2**
 
 </div>
 
@@ -624,24 +654,26 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/German%20Corporation%20for%20International%20Cooperation%20%28GIZ%29%20%E2%80%94%20atingi/FAIR%20Forward%20-%20Artificial%20Intelligence%20for%20All%20AI%20Policymakers%20Training.webp"><img src="certificates/German%20Corporation%20for%20International%20Cooperation%20%28GIZ%29%20%E2%80%94%20atingi/FAIR%20Forward%20-%20Artificial%20Intelligence%20for%20All%20AI%20Policymakers%20Training.webp" alt="FAIR Forward - Artificial Intelligence for All AI Policymakers Training" width="250"></a>
+<a href="docs/German%20Corporation%20for%20International%20Cooperation%20%28GIZ%29%20%E2%80%94%20atingi/FAIR%20Forward%20-%20Artificial%20Intelligence%20for%20All%20AI%20Policymakers%20Training.webp"><img src="docs/German%20Corporation%20for%20International%20Cooperation%20%28GIZ%29%20%E2%80%94%20atingi/FAIR%20Forward%20-%20Artificial%20Intelligence%20for%20All%20AI%20Policymakers%20Training.webp" alt="FAIR Forward - Artificial Intelligence for All AI Policymakers Training" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/German%20Corporation%20for%20International%20Cooperation%20%28GIZ%29%20%E2%80%94%20atingi/Machine%20Learning%20on%20Earth%20Observation%20-%20ML4EO%20Bootcamp%20training%20on%20the%20atingi%20eLearning%20platform.webp"><img src="certificates/German%20Corporation%20for%20International%20Cooperation%20%28GIZ%29%20%E2%80%94%20atingi/Machine%20Learning%20on%20Earth%20Observation%20-%20ML4EO%20Bootcamp%20training%20on%20the%20atingi%20eLearning%20platform.webp" alt="Machine Learning on Earth Observation - ML4EO Bootcamp training on the atingi eLearning platform" width="250"></a>
+<a href="docs/German%20Corporation%20for%20International%20Cooperation%20%28GIZ%29%20%E2%80%94%20atingi/Machine%20Learning%20on%20Earth%20Observation%20-%20ML4EO%20Bootcamp%20training%20on%20the%20atingi%20eLearning%20platform.webp"><img src="docs/German%20Corporation%20for%20International%20Cooperation%20%28GIZ%29%20%E2%80%94%20atingi/Machine%20Learning%20on%20Earth%20Observation%20-%20ML4EO%20Bootcamp%20training%20on%20the%20atingi%20eLearning%20platform.webp" alt="Machine Learning on Earth Observation - ML4EO Bootcamp training on the atingi eLearning platform" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="global-health-learning-center"></a>
 
 ## Global Health Learning Center
 
 <div align="center">
 
-**Сертификатов: 6**
+**Документов: 6**
 
 </div>
 
@@ -660,13 +692,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Global%20Health%20Learning%20Center/Data%20Quality.webp"><img src="certificates/Global%20Health%20Learning%20Center/Data%20Quality.webp" alt="Data Quality" width="250"></a>
+<a href="docs/Global%20Health%20Learning%20Center/Data%20Quality.webp"><img src="docs/Global%20Health%20Learning%20Center/Data%20Quality.webp" alt="Data Quality" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Global%20Health%20Learning%20Center/Data%20Use%20for%20Program%20Managers.webp"><img src="certificates/Global%20Health%20Learning%20Center/Data%20Use%20for%20Program%20Managers.webp" alt="Data Use for Program Managers" width="250"></a>
+<a href="docs/Global%20Health%20Learning%20Center/Data%20Use%20for%20Program%20Managers.webp"><img src="docs/Global%20Health%20Learning%20Center/Data%20Use%20for%20Program%20Managers.webp" alt="Data Use for Program Managers" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Global%20Health%20Learning%20Center/Data%20Visualization%20-%20An%20Introduction.webp"><img src="certificates/Global%20Health%20Learning%20Center/Data%20Visualization%20-%20An%20Introduction.webp" alt="Data Visualization - An Introduction" width="250"></a>
+<a href="docs/Global%20Health%20Learning%20Center/Data%20Visualization%20-%20An%20Introduction.webp"><img src="docs/Global%20Health%20Learning%20Center/Data%20Visualization%20-%20An%20Introduction.webp" alt="Data Visualization - An Introduction" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -687,27 +719,29 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Global%20Health%20Learning%20Center/Health%20Communication%20for%20Managers.webp"><img src="certificates/Global%20Health%20Learning%20Center/Health%20Communication%20for%20Managers.webp" alt="Health Communication for Managers" width="250"></a>
+<a href="docs/Global%20Health%20Learning%20Center/Health%20Communication%20for%20Managers.webp"><img src="docs/Global%20Health%20Learning%20Center/Health%20Communication%20for%20Managers.webp" alt="Health Communication for Managers" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Global%20Health%20Learning%20Center/Healthy%20Businesses.webp"><img src="certificates/Global%20Health%20Learning%20Center/Healthy%20Businesses.webp" alt="Healthy Businesses" width="250"></a>
+<a href="docs/Global%20Health%20Learning%20Center/Healthy%20Businesses.webp"><img src="docs/Global%20Health%20Learning%20Center/Healthy%20Businesses.webp" alt="Healthy Businesses" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Global%20Health%20Learning%20Center/Preparing%20Data%20for%20Impact%20Analysis.webp"><img src="certificates/Global%20Health%20Learning%20Center/Preparing%20Data%20for%20Impact%20Analysis.webp" alt="Preparing Data for Impact Analysis" width="250"></a>
+<a href="docs/Global%20Health%20Learning%20Center/Preparing%20Data%20for%20Impact%20Analysis.webp"><img src="docs/Global%20Health%20Learning%20Center/Preparing%20Data%20for%20Impact%20Analysis.webp" alt="Preparing Data for Impact Analysis" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="goodwill-community-foundation-gcf-global"></a>
 
 ## Goodwill Community Foundation (GCF) Global
 
 <div align="center">
 
-**Сертификатов: 10**
+**Документов: 10**
 
 </div>
 
@@ -726,13 +760,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Beginning%20Graphic%20Design%20Tutorial.webp"><img src="certificates/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Beginning%20Graphic%20Design%20Tutorial.webp" alt="Beginning Graphic Design Tutorial" width="250"></a>
+<a href="docs/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Beginning%20Graphic%20Design%20Tutorial.webp"><img src="docs/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Beginning%20Graphic%20Design%20Tutorial.webp" alt="Beginning Graphic Design Tutorial" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Business%20Communication.webp"><img src="certificates/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Business%20Communication.webp" alt="Business Communication" width="250"></a>
+<a href="docs/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Business%20Communication.webp"><img src="docs/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Business%20Communication.webp" alt="Business Communication" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Career%20Experiences%20Tutorial.webp"><img src="certificates/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Career%20Experiences%20Tutorial.webp" alt="Career Experiences Tutorial" width="250"></a>
+<a href="docs/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Career%20Experiences%20Tutorial.webp"><img src="docs/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Career%20Experiences%20Tutorial.webp" alt="Career Experiences Tutorial" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -753,13 +787,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Career%20Planning%20and%20Salary.webp"><img src="certificates/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Career%20Planning%20and%20Salary.webp" alt="Career Planning and Salary" width="250"></a>
+<a href="docs/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Career%20Planning%20and%20Salary.webp"><img src="docs/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Career%20Planning%20and%20Salary.webp" alt="Career Planning and Salary" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Critical%20Thinking%20and%20Decision-Making%20Tutorial.webp"><img src="certificates/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Critical%20Thinking%20and%20Decision-Making%20Tutorial.webp" alt="Critical Thinking and Decision-Making Tutorial" width="250"></a>
+<a href="docs/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Critical%20Thinking%20and%20Decision-Making%20Tutorial.webp"><img src="docs/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Critical%20Thinking%20and%20Decision-Making%20Tutorial.webp" alt="Critical Thinking and Decision-Making Tutorial" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Entrepreneurship%20101.webp"><img src="certificates/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Entrepreneurship%20101.webp" alt="Entrepreneurship 101" width="250"></a>
+<a href="docs/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Entrepreneurship%20101.webp"><img src="docs/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Entrepreneurship%20101.webp" alt="Entrepreneurship 101" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -780,13 +814,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Grammar.webp"><img src="certificates/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Grammar.webp" alt="Grammar" width="250"></a>
+<a href="docs/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Grammar.webp"><img src="docs/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Grammar.webp" alt="Grammar" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Job%20Search%20and%20Networking.webp"><img src="certificates/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Job%20Search%20and%20Networking.webp" alt="Job Search and Networking" width="250"></a>
+<a href="docs/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Job%20Search%20and%20Networking.webp"><img src="docs/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Job%20Search%20and%20Networking.webp" alt="Job Search and Networking" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Learning%20Tips%20Tutorial.webp"><img src="certificates/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Learning%20Tips%20Tutorial.webp" alt="Learning Tips Tutorial" width="250"></a>
+<a href="docs/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Learning%20Tips%20Tutorial.webp"><img src="docs/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Learning%20Tips%20Tutorial.webp" alt="Learning Tips Tutorial" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -801,21 +835,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Online%20Education%20Tutorial.webp"><img src="certificates/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Online%20Education%20Tutorial.webp" alt="Online Education Tutorial" width="250"></a>
+<a href="docs/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Online%20Education%20Tutorial.webp"><img src="docs/Goodwill%20Community%20Foundation%20%28GCF%29%20Global/Online%20Education%20Tutorial.webp" alt="Online Education Tutorial" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="google-digital-garage"></a>
 
 ## Google Digital Garage
 
 <div align="center">
 
-**Сертификатов: 1**
+**Документов: 1**
 
 </div>
 
@@ -828,21 +864,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Google%20Digital%20Garage/Fundamentals%20of%20digital%20marketing.webp"><img src="certificates/Google%20Digital%20Garage/Fundamentals%20of%20digital%20marketing.webp" alt="Fundamentals of digital marketing" width="250"></a>
+<a href="docs/Google%20Digital%20Garage/Fundamentals%20of%20digital%20marketing.webp"><img src="docs/Google%20Digital%20Garage/Fundamentals%20of%20digital%20marketing.webp" alt="Fundamentals of digital marketing" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="google-skillshop"></a>
 
 ## Google SkillShop
 
 <div align="center">
 
-**Сертификатов: 8**
+**Документов: 8**
 
 </div>
 
@@ -861,13 +899,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Google%20SkillShop/AI-Powered%20Performance%20Ads%20Certification.webp"><img src="certificates/Google%20SkillShop/AI-Powered%20Performance%20Ads%20Certification.webp" alt="AI-Powered Performance Ads Certification" width="250"></a>
+<a href="docs/Google%20SkillShop/AI-Powered%20Performance%20Ads%20Certification.webp"><img src="docs/Google%20SkillShop/AI-Powered%20Performance%20Ads%20Certification.webp" alt="AI-Powered Performance Ads Certification" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Google%20SkillShop/Campaign%20Manager%20360%20Certification%20Exam.webp"><img src="certificates/Google%20SkillShop/Campaign%20Manager%20360%20Certification%20Exam.webp" alt="Campaign Manager 360 Certification Exam" width="250"></a>
+<a href="docs/Google%20SkillShop/Campaign%20Manager%20360%20Certification%20Exam.webp"><img src="docs/Google%20SkillShop/Campaign%20Manager%20360%20Certification%20Exam.webp" alt="Campaign Manager 360 Certification Exam" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Google%20SkillShop/Conversion%20Optimization%20Certification%20Exam.webp"><img src="certificates/Google%20SkillShop/Conversion%20Optimization%20Certification%20Exam.webp" alt="Conversion Optimization Certification Exam" width="250"></a>
+<a href="docs/Google%20SkillShop/Conversion%20Optimization%20Certification%20Exam.webp"><img src="docs/Google%20SkillShop/Conversion%20Optimization%20Certification%20Exam.webp" alt="Conversion Optimization Certification Exam" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -888,13 +926,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Google%20SkillShop/Display%20%26%20Video%20360%20Certification%20Exam.webp"><img src="certificates/Google%20SkillShop/Display%20%26%20Video%20360%20Certification%20Exam.webp" alt="Display &amp; Video 360 Certification Exam" width="250"></a>
+<a href="docs/Google%20SkillShop/Display%20%26%20Video%20360%20Certification%20Exam.webp"><img src="docs/Google%20SkillShop/Display%20%26%20Video%20360%20Certification%20Exam.webp" alt="Display &amp; Video 360 Certification Exam" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Google%20SkillShop/Google%20Ads%20Measurement%20Certification.webp"><img src="certificates/Google%20SkillShop/Google%20Ads%20Measurement%20Certification.webp" alt="Google Ads Measurement Certification" width="250"></a>
+<a href="docs/Google%20SkillShop/Google%20Ads%20Measurement%20Certification.webp"><img src="docs/Google%20SkillShop/Google%20Ads%20Measurement%20Certification.webp" alt="Google Ads Measurement Certification" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Google%20SkillShop/Google%20Ads%20Search%20Certification.webp"><img src="certificates/Google%20SkillShop/Google%20Ads%20Search%20Certification.webp" alt="Google Ads Search Certification" width="250"></a>
+<a href="docs/Google%20SkillShop/Google%20Ads%20Search%20Certification.webp"><img src="docs/Google%20SkillShop/Google%20Ads%20Search%20Certification.webp" alt="Google Ads Search Certification" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -912,24 +950,26 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Google%20SkillShop/Google%20Analytics%20Certification.webp"><img src="certificates/Google%20SkillShop/Google%20Analytics%20Certification.webp" alt="Google Analytics Certification" width="250"></a>
+<a href="docs/Google%20SkillShop/Google%20Analytics%20Certification.webp"><img src="docs/Google%20SkillShop/Google%20Analytics%20Certification.webp" alt="Google Analytics Certification" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Google%20SkillShop/Search%20Ads%20360.webp"><img src="certificates/Google%20SkillShop/Search%20Ads%20360.webp" alt="Search Ads 360" width="250"></a>
+<a href="docs/Google%20SkillShop/Search%20Ads%20360.webp"><img src="docs/Google%20SkillShop/Search%20Ads%20360.webp" alt="Search Ads 360" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="hackerrank"></a>
 
 ## HackerRank
 
 <div align="center">
 
-**Сертификатов: 4**
+**Документов: 4**
 
 </div>
 
@@ -948,13 +988,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/HackerRank/Java%20%28Basic%29.webp"><img src="certificates/HackerRank/Java%20%28Basic%29.webp" alt="Java (Basic)" width="250"></a>
+<a href="docs/HackerRank/Java%20%28Basic%29.webp"><img src="docs/HackerRank/Java%20%28Basic%29.webp" alt="Java (Basic)" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/HackerRank/JavaScript%20%28Intermediate%29.webp"><img src="certificates/HackerRank/JavaScript%20%28Intermediate%29.webp" alt="JavaScript (Intermediate)" width="250"></a>
+<a href="docs/HackerRank/JavaScript%20%28Intermediate%29.webp"><img src="docs/HackerRank/JavaScript%20%28Intermediate%29.webp" alt="JavaScript (Intermediate)" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/HackerRank/Software%20Engineer.webp"><img src="certificates/HackerRank/Software%20Engineer.webp" alt="Software Engineer" width="250"></a>
+<a href="docs/HackerRank/Software%20Engineer.webp"><img src="docs/HackerRank/Software%20Engineer.webp" alt="Software Engineer" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -969,21 +1009,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/HackerRank/SQL%20%28Advanced%29.webp"><img src="certificates/HackerRank/SQL%20%28Advanced%29.webp" alt="SQL (Advanced)" width="250"></a>
+<a href="docs/HackerRank/SQL%20%28Advanced%29.webp"><img src="docs/HackerRank/SQL%20%28Advanced%29.webp" alt="SQL (Advanced)" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="harvard-university"></a>
 
 ## Harvard University
 
 <div align="center">
 
-**Сертификатов: 1**
+**Документов: 1**
 
 </div>
 
@@ -996,21 +1038,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Harvard%20University/CS50%20Certificate%20-%20CS50x%20Introduction%20to%20Computer%20Science.webp"><img src="certificates/Harvard%20University/CS50%20Certificate%20-%20CS50x%20Introduction%20to%20Computer%20Science.webp" alt="CS50 Certificate - CS50x Introduction to Computer Science" width="250"></a>
+<a href="docs/Harvard%20University/CS50%20Certificate%20-%20CS50x%20Introduction%20to%20Computer%20Science.webp"><img src="docs/Harvard%20University/CS50%20Certificate%20-%20CS50x%20Introduction%20to%20Computer%20Science.webp" alt="CS50 Certificate - CS50x Introduction to Computer Science" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="hasso-plattner-institute-for-digital-engineering-hpi-openhpi"></a>
 
 ## Hasso Plattner Institute for Digital Engineering (HPI) — openHPI
 
 <div align="center">
 
-**Сертификатов: 6**
+**Документов: 6**
 
 </div>
 
@@ -1029,13 +1073,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Hasso%20Plattner%20Institute%20for%20Digital%20Engineering%20%28HPI%29%20%E2%80%94%20openHPI/clean-IT%20%E2%80%94%20Towards%20Sustainable%20Digital%20Technologies.webp"><img src="certificates/Hasso%20Plattner%20Institute%20for%20Digital%20Engineering%20%28HPI%29%20%E2%80%94%20openHPI/clean-IT%20%E2%80%94%20Towards%20Sustainable%20Digital%20Technologies.webp" alt="clean-IT — Towards Sustainable Digital Technologies" width="250"></a>
+<a href="docs/Hasso%20Plattner%20Institute%20for%20Digital%20Engineering%20%28HPI%29%20%E2%80%94%20openHPI/clean-IT%20%E2%80%94%20Towards%20Sustainable%20Digital%20Technologies.webp"><img src="docs/Hasso%20Plattner%20Institute%20for%20Digital%20Engineering%20%28HPI%29%20%E2%80%94%20openHPI/clean-IT%20%E2%80%94%20Towards%20Sustainable%20Digital%20Technologies.webp" alt="clean-IT — Towards Sustainable Digital Technologies" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Hasso%20Plattner%20Institute%20for%20Digital%20Engineering%20%28HPI%29%20%E2%80%94%20openHPI/Data%20Science%20Bootcamp.webp"><img src="certificates/Hasso%20Plattner%20Institute%20for%20Digital%20Engineering%20%28HPI%29%20%E2%80%94%20openHPI/Data%20Science%20Bootcamp.webp" alt="Data Science Bootcamp" width="250"></a>
+<a href="docs/Hasso%20Plattner%20Institute%20for%20Digital%20Engineering%20%28HPI%29%20%E2%80%94%20openHPI/Data%20Science%20Bootcamp.webp"><img src="docs/Hasso%20Plattner%20Institute%20for%20Digital%20Engineering%20%28HPI%29%20%E2%80%94%20openHPI/Data%20Science%20Bootcamp.webp" alt="Data Science Bootcamp" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Hasso%20Plattner%20Institute%20for%20Digital%20Engineering%20%28HPI%29%20%E2%80%94%20openHPI/Introduction%20to%20Bayesian%20Data%20Analysis.webp"><img src="certificates/Hasso%20Plattner%20Institute%20for%20Digital%20Engineering%20%28HPI%29%20%E2%80%94%20openHPI/Introduction%20to%20Bayesian%20Data%20Analysis.webp" alt="Introduction to Bayesian Data Analysis" width="250"></a>
+<a href="docs/Hasso%20Plattner%20Institute%20for%20Digital%20Engineering%20%28HPI%29%20%E2%80%94%20openHPI/Introduction%20to%20Bayesian%20Data%20Analysis.webp"><img src="docs/Hasso%20Plattner%20Institute%20for%20Digital%20Engineering%20%28HPI%29%20%E2%80%94%20openHPI/Introduction%20to%20Bayesian%20Data%20Analysis.webp" alt="Introduction to Bayesian Data Analysis" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -1056,27 +1100,29 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Hasso%20Plattner%20Institute%20for%20Digital%20Engineering%20%28HPI%29%20%E2%80%94%20openHPI/Introduction%20to%20Quantum%20Computing%20with%20Qiskit.webp"><img src="certificates/Hasso%20Plattner%20Institute%20for%20Digital%20Engineering%20%28HPI%29%20%E2%80%94%20openHPI/Introduction%20to%20Quantum%20Computing%20with%20Qiskit.webp" alt="Introduction to Quantum Computing with Qiskit" width="250"></a>
+<a href="docs/Hasso%20Plattner%20Institute%20for%20Digital%20Engineering%20%28HPI%29%20%E2%80%94%20openHPI/Introduction%20to%20Quantum%20Computing%20with%20Qiskit.webp"><img src="docs/Hasso%20Plattner%20Institute%20for%20Digital%20Engineering%20%28HPI%29%20%E2%80%94%20openHPI/Introduction%20to%20Quantum%20Computing%20with%20Qiskit.webp" alt="Introduction to Quantum Computing with Qiskit" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Hasso%20Plattner%20Institute%20for%20Digital%20Engineering%20%28HPI%29%20%E2%80%94%20openHPI/Quantum%20Machine%20Learning.webp"><img src="certificates/Hasso%20Plattner%20Institute%20for%20Digital%20Engineering%20%28HPI%29%20%E2%80%94%20openHPI/Quantum%20Machine%20Learning.webp" alt="Quantum Machine Learning" width="250"></a>
+<a href="docs/Hasso%20Plattner%20Institute%20for%20Digital%20Engineering%20%28HPI%29%20%E2%80%94%20openHPI/Quantum%20Machine%20Learning.webp"><img src="docs/Hasso%20Plattner%20Institute%20for%20Digital%20Engineering%20%28HPI%29%20%E2%80%94%20openHPI/Quantum%20Machine%20Learning.webp" alt="Quantum Machine Learning" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Hasso%20Plattner%20Institute%20for%20Digital%20Engineering%20%28HPI%29%20%E2%80%94%20openHPI/Sustainability%20in%20the%20Digital%20Age%20%E2%80%94%20AI%20%26%20Sustainability%3A%20Balancing%20Innovation%20and%20Responsibility.webp"><img src="certificates/Hasso%20Plattner%20Institute%20for%20Digital%20Engineering%20%28HPI%29%20%E2%80%94%20openHPI/Sustainability%20in%20the%20Digital%20Age%20%E2%80%94%20AI%20%26%20Sustainability%3A%20Balancing%20Innovation%20and%20Responsibility.webp" alt="Sustainability in the Digital Age — AI &amp; Sustainability: Balancing Innovation and Responsibility" width="250"></a>
+<a href="docs/Hasso%20Plattner%20Institute%20for%20Digital%20Engineering%20%28HPI%29%20%E2%80%94%20openHPI/Sustainability%20in%20the%20Digital%20Age%20%E2%80%94%20AI%20%26%20Sustainability%3A%20Balancing%20Innovation%20and%20Responsibility.webp"><img src="docs/Hasso%20Plattner%20Institute%20for%20Digital%20Engineering%20%28HPI%29%20%E2%80%94%20openHPI/Sustainability%20in%20the%20Digital%20Age%20%E2%80%94%20AI%20%26%20Sustainability%3A%20Balancing%20Innovation%20and%20Responsibility.webp" alt="Sustainability in the Digital Age — AI &amp; Sustainability: Balancing Innovation and Responsibility" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="hewlett-packard-hp-life"></a>
 
 ## Hewlett-Packard (HP) LIFE
 
 <div align="center">
 
-**Сертификатов: 3**
+**Документов: 3**
 
 </div>
 
@@ -1095,27 +1141,29 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Hewlett-Packard%20%28HP%29%20LIFE/Data%20Science%20%26%20Analytics.webp"><img src="certificates/Hewlett-Packard%20%28HP%29%20LIFE/Data%20Science%20%26%20Analytics.webp" alt="Data Science &amp; Analytics" width="250"></a>
+<a href="docs/Hewlett-Packard%20%28HP%29%20LIFE/Data%20Science%20%26%20Analytics.webp"><img src="docs/Hewlett-Packard%20%28HP%29%20LIFE/Data%20Science%20%26%20Analytics.webp" alt="Data Science &amp; Analytics" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Hewlett-Packard%20%28HP%29%20LIFE/Effective%20Leadership.webp"><img src="certificates/Hewlett-Packard%20%28HP%29%20LIFE/Effective%20Leadership.webp" alt="Effective Leadership" width="250"></a>
+<a href="docs/Hewlett-Packard%20%28HP%29%20LIFE/Effective%20Leadership.webp"><img src="docs/Hewlett-Packard%20%28HP%29%20LIFE/Effective%20Leadership.webp" alt="Effective Leadership" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Hewlett-Packard%20%28HP%29%20LIFE/IT%20for%20Business%20Success.webp"><img src="certificates/Hewlett-Packard%20%28HP%29%20LIFE/IT%20for%20Business%20Success.webp" alt="IT for Business Success" width="250"></a>
+<a href="docs/Hewlett-Packard%20%28HP%29%20LIFE/IT%20for%20Business%20Success.webp"><img src="docs/Hewlett-Packard%20%28HP%29%20LIFE/IT%20for%20Business%20Success.webp" alt="IT for Business Success" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="hubspot-academy"></a>
 
 ## HubSpot Academy
 
 <div align="center">
 
-**Сертификатов: 4**
+**Документов: 4**
 
 </div>
 
@@ -1134,13 +1182,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/HubSpot%20Academy/Digital%20Marketing%20Certified.webp"><img src="certificates/HubSpot%20Academy/Digital%20Marketing%20Certified.webp" alt="Digital Marketing Certified" width="250"></a>
+<a href="docs/HubSpot%20Academy/Digital%20Marketing%20Certified.webp"><img src="docs/HubSpot%20Academy/Digital%20Marketing%20Certified.webp" alt="Digital Marketing Certified" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/HubSpot%20Academy/HubSpot%20Revenue%20Operations%20Certified.webp"><img src="certificates/HubSpot%20Academy/HubSpot%20Revenue%20Operations%20Certified.webp" alt="HubSpot Revenue Operations Certified" width="250"></a>
+<a href="docs/HubSpot%20Academy/HubSpot%20Revenue%20Operations%20Certified.webp"><img src="docs/HubSpot%20Academy/HubSpot%20Revenue%20Operations%20Certified.webp" alt="HubSpot Revenue Operations Certified" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/HubSpot%20Academy/Inbound%20Certified.webp"><img src="certificates/HubSpot%20Academy/Inbound%20Certified.webp" alt="Inbound Certified" width="250"></a>
+<a href="docs/HubSpot%20Academy/Inbound%20Certified.webp"><img src="docs/HubSpot%20Academy/Inbound%20Certified.webp" alt="Inbound Certified" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -1155,21 +1203,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/HubSpot%20Academy/Inbound%20Marketing%20Optimization%20Certified.webp"><img src="certificates/HubSpot%20Academy/Inbound%20Marketing%20Optimization%20Certified.webp" alt="Inbound Marketing Optimization Certified" width="250"></a>
+<a href="docs/HubSpot%20Academy/Inbound%20Marketing%20Optimization%20Certified.webp"><img src="docs/HubSpot%20Academy/Inbound%20Marketing%20Optimization%20Certified.webp" alt="Inbound Marketing Optimization Certified" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="information-exchange-for-multilateral-environmental-agreements-informea"></a>
 
 ## Information Exchange for Multilateral Environmental Agreements (InforMEA)
 
 <div align="center">
 
-**Сертификатов: 3**
+**Документов: 3**
 
 </div>
 
@@ -1188,27 +1238,29 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Information%20Exchange%20for%20Multilateral%20Environmental%20Agreements%20%28InforMEA%29/Environment%20and%20Trade.webp"><img src="certificates/Information%20Exchange%20for%20Multilateral%20Environmental%20Agreements%20%28InforMEA%29/Environment%20and%20Trade.webp" alt="Environment and Trade" width="250"></a>
+<a href="docs/Information%20Exchange%20for%20Multilateral%20Environmental%20Agreements%20%28InforMEA%29/Environment%20and%20Trade.webp"><img src="docs/Information%20Exchange%20for%20Multilateral%20Environmental%20Agreements%20%28InforMEA%29/Environment%20and%20Trade.webp" alt="Environment and Trade" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Information%20Exchange%20for%20Multilateral%20Environmental%20Agreements%20%28InforMEA%29/Introduction%20to%20Environmental%20Governance.webp"><img src="certificates/Information%20Exchange%20for%20Multilateral%20Environmental%20Agreements%20%28InforMEA%29/Introduction%20to%20Environmental%20Governance.webp" alt="Introduction to Environmental Governance" width="250"></a>
+<a href="docs/Information%20Exchange%20for%20Multilateral%20Environmental%20Agreements%20%28InforMEA%29/Introduction%20to%20Environmental%20Governance.webp"><img src="docs/Information%20Exchange%20for%20Multilateral%20Environmental%20Agreements%20%28InforMEA%29/Introduction%20to%20Environmental%20Governance.webp" alt="Introduction to Environmental Governance" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Information%20Exchange%20for%20Multilateral%20Environmental%20Agreements%20%28InforMEA%29/Online%20Negotiations.webp"><img src="certificates/Information%20Exchange%20for%20Multilateral%20Environmental%20Agreements%20%28InforMEA%29/Online%20Negotiations.webp" alt="Online Negotiations" width="250"></a>
+<a href="docs/Information%20Exchange%20for%20Multilateral%20Environmental%20Agreements%20%28InforMEA%29/Online%20Negotiations.webp"><img src="docs/Information%20Exchange%20for%20Multilateral%20Environmental%20Agreements%20%28InforMEA%29/Online%20Negotiations.webp" alt="Online Negotiations" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="information-technology-institute-iti-mahara-tech"></a>
 
 ## Information Technology Institute (ITI) — Mahara-Tech
 
 <div align="center">
 
-**Сертификатов: 1**
+**Документов: 1**
 
 </div>
 
@@ -1221,21 +1273,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Information%20Technology%20Institute%20%28ITI%29%20%E2%80%94%20Mahara-Tech/Generative%20AI%20for%20HR%20Tasks%20%E2%80%94%20Job%20Descriptions%2C%20Interviews%20%26%20Feedback.webp"><img src="certificates/Information%20Technology%20Institute%20%28ITI%29%20%E2%80%94%20Mahara-Tech/Generative%20AI%20for%20HR%20Tasks%20%E2%80%94%20Job%20Descriptions%2C%20Interviews%20%26%20Feedback.webp" alt="Generative AI for HR Tasks — Job Descriptions, Interviews &amp; Feedback" width="250"></a>
+<a href="docs/Information%20Technology%20Institute%20%28ITI%29%20%E2%80%94%20Mahara-Tech/Generative%20AI%20for%20HR%20Tasks%20%E2%80%94%20Job%20Descriptions%2C%20Interviews%20%26%20Feedback.webp"><img src="docs/Information%20Technology%20Institute%20%28ITI%29%20%E2%80%94%20Mahara-Tech/Generative%20AI%20for%20HR%20Tasks%20%E2%80%94%20Job%20Descriptions%2C%20Interviews%20%26%20Feedback.webp" alt="Generative AI for HR Tasks — Job Descriptions, Interviews &amp; Feedback" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="innopolis-university"></a>
 
 ## Innopolis University
 
 <div align="center">
 
-**Сертификатов: 1**
+**Документов: 1**
 
 </div>
 
@@ -1249,25 +1303,27 @@
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Innopolis%20University/2023%20Fundamentals%20of%20Frontend%20Development.webp"><img src="certificates/Innopolis%20University/2023%20Fundamentals%20of%20Frontend%20Development.webp" alt="2023 Fundamentals of Frontend Development — Страница 1" width="250"></a>
+<a href="docs/Innopolis%20University/2023%20Fundamentals%20of%20Frontend%20Development.webp"><img src="docs/Innopolis%20University/2023%20Fundamentals%20of%20Frontend%20Development.webp" alt="2023 Fundamentals of Frontend Development — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Innopolis%20University/2023%20Fundamentals%20of%20Frontend%20Development_2.webp"><img src="certificates/Innopolis%20University/2023%20Fundamentals%20of%20Frontend%20Development_2.webp" alt="2023 Fundamentals of Frontend Development — Страница 2" width="250"></a>
+<a href="docs/Innopolis%20University/2023%20Fundamentals%20of%20Frontend%20Development_2.webp"><img src="docs/Innopolis%20University/2023%20Fundamentals%20of%20Frontend%20Development_2.webp" alt="2023 Fundamentals of Frontend Development — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="international-atomic-energy-agency-iaea"></a>
 
 ## International Atomic Energy Agency (IAEA)
 
 <div align="center">
 
-**Сертификатов: 2**
+**Документов: 2**
 
 </div>
 
@@ -1284,33 +1340,35 @@
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/International%20Atomic%20Energy%20Agency%20%28IAEA%29/Introduction%20to%20Radioactive%20Sources%20and%20Their%20Applications.webp"><img src="certificates/International%20Atomic%20Energy%20Agency%20%28IAEA%29/Introduction%20to%20Radioactive%20Sources%20and%20Their%20Applications.webp" alt="Introduction to Radioactive Sources and Their Applications — Страница 1" width="250"></a>
+<a href="docs/International%20Atomic%20Energy%20Agency%20%28IAEA%29/Introduction%20to%20Radioactive%20Sources%20and%20Their%20Applications.webp"><img src="docs/International%20Atomic%20Energy%20Agency%20%28IAEA%29/Introduction%20to%20Radioactive%20Sources%20and%20Their%20Applications.webp" alt="Introduction to Radioactive Sources and Their Applications — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/International%20Atomic%20Energy%20Agency%20%28IAEA%29/Introduction%20to%20Radioactive%20Sources%20and%20Their%20Applications_2.webp"><img src="certificates/International%20Atomic%20Energy%20Agency%20%28IAEA%29/Introduction%20to%20Radioactive%20Sources%20and%20Their%20Applications_2.webp" alt="Introduction to Radioactive Sources and Their Applications — Страница 2" width="250"></a>
+<a href="docs/International%20Atomic%20Energy%20Agency%20%28IAEA%29/Introduction%20to%20Radioactive%20Sources%20and%20Their%20Applications_2.webp"><img src="docs/International%20Atomic%20Energy%20Agency%20%28IAEA%29/Introduction%20to%20Radioactive%20Sources%20and%20Their%20Applications_2.webp" alt="Introduction to Radioactive Sources and Their Applications — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/International%20Atomic%20Energy%20Agency%20%28IAEA%29/Radiation%20Basics%20and%20Consequences%20of%20Exposure%20to%20Radiation.webp"><img src="certificates/International%20Atomic%20Energy%20Agency%20%28IAEA%29/Radiation%20Basics%20and%20Consequences%20of%20Exposure%20to%20Radiation.webp" alt="Radiation Basics and Consequences of Exposure to Radiation — Страница 1" width="250"></a>
+<a href="docs/International%20Atomic%20Energy%20Agency%20%28IAEA%29/Radiation%20Basics%20and%20Consequences%20of%20Exposure%20to%20Radiation.webp"><img src="docs/International%20Atomic%20Energy%20Agency%20%28IAEA%29/Radiation%20Basics%20and%20Consequences%20of%20Exposure%20to%20Radiation.webp" alt="Radiation Basics and Consequences of Exposure to Radiation — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/International%20Atomic%20Energy%20Agency%20%28IAEA%29/Radiation%20Basics%20and%20Consequences%20of%20Exposure%20to%20Radiation_2.webp"><img src="certificates/International%20Atomic%20Energy%20Agency%20%28IAEA%29/Radiation%20Basics%20and%20Consequences%20of%20Exposure%20to%20Radiation_2.webp" alt="Radiation Basics and Consequences of Exposure to Radiation — Страница 2" width="250"></a>
+<a href="docs/International%20Atomic%20Energy%20Agency%20%28IAEA%29/Radiation%20Basics%20and%20Consequences%20of%20Exposure%20to%20Radiation_2.webp"><img src="docs/International%20Atomic%20Energy%20Agency%20%28IAEA%29/Radiation%20Basics%20and%20Consequences%20of%20Exposure%20to%20Radiation_2.webp" alt="Radiation Basics and Consequences of Exposure to Radiation — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="international-business-machines-ibm-cognitive-class"></a>
 
 ## International Business Machines (IBM) Cognitive Class
 
 <div align="center">
 
-**Сертификатов: 6**
+**Документов: 6**
 
 </div>
 
@@ -1329,13 +1387,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/International%20Business%20Machines%20%28IBM%29%20Cognitive%20Class/Big%20Data%20101.webp"><img src="certificates/International%20Business%20Machines%20%28IBM%29%20Cognitive%20Class/Big%20Data%20101.webp" alt="Big Data 101" width="250"></a>
+<a href="docs/International%20Business%20Machines%20%28IBM%29%20Cognitive%20Class/Big%20Data%20101.webp"><img src="docs/International%20Business%20Machines%20%28IBM%29%20Cognitive%20Class/Big%20Data%20101.webp" alt="Big Data 101" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/International%20Business%20Machines%20%28IBM%29%20Cognitive%20Class/Data%20Science%20Methodology.webp"><img src="certificates/International%20Business%20Machines%20%28IBM%29%20Cognitive%20Class/Data%20Science%20Methodology.webp" alt="Data Science Methodology" width="250"></a>
+<a href="docs/International%20Business%20Machines%20%28IBM%29%20Cognitive%20Class/Data%20Science%20Methodology.webp"><img src="docs/International%20Business%20Machines%20%28IBM%29%20Cognitive%20Class/Data%20Science%20Methodology.webp" alt="Data Science Methodology" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/International%20Business%20Machines%20%28IBM%29%20Cognitive%20Class/Docker%20Essentials%20-%20A%20Developer%20Introduction.webp"><img src="certificates/International%20Business%20Machines%20%28IBM%29%20Cognitive%20Class/Docker%20Essentials%20-%20A%20Developer%20Introduction.webp" alt="Docker Essentials - A Developer Introduction" width="250"></a>
+<a href="docs/International%20Business%20Machines%20%28IBM%29%20Cognitive%20Class/Docker%20Essentials%20-%20A%20Developer%20Introduction.webp"><img src="docs/International%20Business%20Machines%20%28IBM%29%20Cognitive%20Class/Docker%20Essentials%20-%20A%20Developer%20Introduction.webp" alt="Docker Essentials - A Developer Introduction" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -1356,27 +1414,29 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/International%20Business%20Machines%20%28IBM%29%20Cognitive%20Class/Mathematical%20Optimization%20for%20Business%20Problems.webp"><img src="certificates/International%20Business%20Machines%20%28IBM%29%20Cognitive%20Class/Mathematical%20Optimization%20for%20Business%20Problems.webp" alt="Mathematical Optimization for Business Problems" width="250"></a>
+<a href="docs/International%20Business%20Machines%20%28IBM%29%20Cognitive%20Class/Mathematical%20Optimization%20for%20Business%20Problems.webp"><img src="docs/International%20Business%20Machines%20%28IBM%29%20Cognitive%20Class/Mathematical%20Optimization%20for%20Business%20Problems.webp" alt="Mathematical Optimization for Business Problems" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/International%20Business%20Machines%20%28IBM%29%20Cognitive%20Class/Python%20101%20for%20Data%20Science.webp"><img src="certificates/International%20Business%20Machines%20%28IBM%29%20Cognitive%20Class/Python%20101%20for%20Data%20Science.webp" alt="Python 101 for Data Science" width="250"></a>
+<a href="docs/International%20Business%20Machines%20%28IBM%29%20Cognitive%20Class/Python%20101%20for%20Data%20Science.webp"><img src="docs/International%20Business%20Machines%20%28IBM%29%20Cognitive%20Class/Python%20101%20for%20Data%20Science.webp" alt="Python 101 for Data Science" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/International%20Business%20Machines%20%28IBM%29%20Cognitive%20Class/SQL%20and%20Relational%20Databases%20101.webp"><img src="certificates/International%20Business%20Machines%20%28IBM%29%20Cognitive%20Class/SQL%20and%20Relational%20Databases%20101.webp" alt="SQL and Relational Databases 101" width="250"></a>
+<a href="docs/International%20Business%20Machines%20%28IBM%29%20Cognitive%20Class/SQL%20and%20Relational%20Databases%20101.webp"><img src="docs/International%20Business%20Machines%20%28IBM%29%20Cognitive%20Class/SQL%20and%20Relational%20Databases%20101.webp" alt="SQL and Relational Databases 101" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="international-business-machines-ibm-skillsbuild"></a>
 
 ## International Business Machines (IBM) SkillsBuild
 
 <div align="center">
 
-**Сертификатов: 1**
+**Документов: 1**
 
 </div>
 
@@ -1389,21 +1449,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/International%20Business%20Machines%20%28IBM%29%20SkillsBuild/Web%20Development%20Fundamentals.webp"><img src="certificates/International%20Business%20Machines%20%28IBM%29%20SkillsBuild/Web%20Development%20Fundamentals.webp" alt="Web Development Fundamentals" width="250"></a>
+<a href="docs/International%20Business%20Machines%20%28IBM%29%20SkillsBuild/Web%20Development%20Fundamentals.webp"><img src="docs/International%20Business%20Machines%20%28IBM%29%20SkillsBuild/Web%20Development%20Fundamentals.webp" alt="Web Development Fundamentals" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="international-council-of-e-commerce-consultants-ec-council-learning"></a>
 
 ## International Council of E-Commerce Consultants (EC-Council) Learning
 
 <div align="center">
 
-**Сертификатов: 2**
+**Документов: 2**
 
 </div>
 
@@ -1419,24 +1481,26 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/International%20Council%20of%20E-Commerce%20Consultants%20%28EC-Council%29%20Learning/Cybersecurity%20for%20Businesses%20-%20The%20Fundamental%20Edition.webp"><img src="certificates/International%20Council%20of%20E-Commerce%20Consultants%20%28EC-Council%29%20Learning/Cybersecurity%20for%20Businesses%20-%20The%20Fundamental%20Edition.webp" alt="Cybersecurity for Businesses - The Fundamental Edition" width="250"></a>
+<a href="docs/International%20Council%20of%20E-Commerce%20Consultants%20%28EC-Council%29%20Learning/Cybersecurity%20for%20Businesses%20-%20The%20Fundamental%20Edition.webp"><img src="docs/International%20Council%20of%20E-Commerce%20Consultants%20%28EC-Council%29%20Learning/Cybersecurity%20for%20Businesses%20-%20The%20Fundamental%20Edition.webp" alt="Cybersecurity for Businesses - The Fundamental Edition" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/International%20Council%20of%20E-Commerce%20Consultants%20%28EC-Council%29%20Learning/SQL%20Injection%20Attacks.webp"><img src="certificates/International%20Council%20of%20E-Commerce%20Consultants%20%28EC-Council%29%20Learning/SQL%20Injection%20Attacks.webp" alt="SQL Injection Attacks" width="250"></a>
+<a href="docs/International%20Council%20of%20E-Commerce%20Consultants%20%28EC-Council%29%20Learning/SQL%20Injection%20Attacks.webp"><img src="docs/International%20Council%20of%20E-Commerce%20Consultants%20%28EC-Council%29%20Learning/SQL%20Injection%20Attacks.webp" alt="SQL Injection Attacks" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="international-federation-of-consulting-engineers-fidic-academy"></a>
 
 ## International Federation of Consulting Engineers (FIDIC) Academy
 
 <div align="center">
 
-**Сертификатов: 2**
+**Документов: 2**
 
 </div>
 
@@ -1452,24 +1516,26 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/International%20Federation%20of%20Consulting%20Engineers%20%28FIDIC%29%20Academy/Cyber%20Security%20Awareness%20Course.webp"><img src="certificates/International%20Federation%20of%20Consulting%20Engineers%20%28FIDIC%29%20Academy/Cyber%20Security%20Awareness%20Course.webp" alt="Cyber Security Awareness Course" width="250"></a>
+<a href="docs/International%20Federation%20of%20Consulting%20Engineers%20%28FIDIC%29%20Academy/Cyber%20Security%20Awareness%20Course.webp"><img src="docs/International%20Federation%20of%20Consulting%20Engineers%20%28FIDIC%29%20Academy/Cyber%20Security%20Awareness%20Course.webp" alt="Cyber Security Awareness Course" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/International%20Federation%20of%20Consulting%20Engineers%20%28FIDIC%29%20Academy/Risk%20Management%20Under%20FIDIC%20Contracts.webp"><img src="certificates/International%20Federation%20of%20Consulting%20Engineers%20%28FIDIC%29%20Academy/Risk%20Management%20Under%20FIDIC%20Contracts.webp" alt="Risk Management Under FIDIC Contracts" width="250"></a>
+<a href="docs/International%20Federation%20of%20Consulting%20Engineers%20%28FIDIC%29%20Academy/Risk%20Management%20Under%20FIDIC%20Contracts.webp"><img src="docs/International%20Federation%20of%20Consulting%20Engineers%20%28FIDIC%29%20Academy/Risk%20Management%20Under%20FIDIC%20Contracts.webp" alt="Risk Management Under FIDIC Contracts" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="international-trade-centre-itc-sme-trade-academy"></a>
 
 ## International Trade Centre (ITC) SME Trade Academy
 
 <div align="center">
 
-**Сертификатов: 1**
+**Документов: 1**
 
 </div>
 
@@ -1482,21 +1548,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/International%20Trade%20Centre%20%28ITC%29%20SME%20Trade%20Academy/Building%20a%20Trade%20Information%20Service.webp"><img src="certificates/International%20Trade%20Centre%20%28ITC%29%20SME%20Trade%20Academy/Building%20a%20Trade%20Information%20Service.webp" alt="Building a Trade Information Service" width="250"></a>
+<a href="docs/International%20Trade%20Centre%20%28ITC%29%20SME%20Trade%20Academy/Building%20a%20Trade%20Information%20Service.webp"><img src="docs/International%20Trade%20Centre%20%28ITC%29%20SME%20Trade%20Academy/Building%20a%20Trade%20Information%20Service.webp" alt="Building a Trade Information Service" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="kaggle-learn"></a>
 
 ## Kaggle Learn
 
 <div align="center">
 
-**Сертификатов: 8**
+**Документов: 8**
 
 </div>
 
@@ -1515,13 +1583,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Kaggle%20Learn/Advanced%20SQL.webp"><img src="certificates/Kaggle%20Learn/Advanced%20SQL.webp" alt="Advanced SQL" width="250"></a>
+<a href="docs/Kaggle%20Learn/Advanced%20SQL.webp"><img src="docs/Kaggle%20Learn/Advanced%20SQL.webp" alt="Advanced SQL" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Kaggle%20Learn/Computer%20Vision.webp"><img src="certificates/Kaggle%20Learn/Computer%20Vision.webp" alt="Computer Vision" width="250"></a>
+<a href="docs/Kaggle%20Learn/Computer%20Vision.webp"><img src="docs/Kaggle%20Learn/Computer%20Vision.webp" alt="Computer Vision" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Kaggle%20Learn/Data%20Cleaning.webp"><img src="certificates/Kaggle%20Learn/Data%20Cleaning.webp" alt="Data Cleaning" width="250"></a>
+<a href="docs/Kaggle%20Learn/Data%20Cleaning.webp"><img src="docs/Kaggle%20Learn/Data%20Cleaning.webp" alt="Data Cleaning" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -1542,13 +1610,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Kaggle%20Learn/Data%20Visualization.webp"><img src="certificates/Kaggle%20Learn/Data%20Visualization.webp" alt="Data Visualization" width="250"></a>
+<a href="docs/Kaggle%20Learn/Data%20Visualization.webp"><img src="docs/Kaggle%20Learn/Data%20Visualization.webp" alt="Data Visualization" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Kaggle%20Learn/Feature%20Engineering.webp"><img src="certificates/Kaggle%20Learn/Feature%20Engineering.webp" alt="Feature Engineering" width="250"></a>
+<a href="docs/Kaggle%20Learn/Feature%20Engineering.webp"><img src="docs/Kaggle%20Learn/Feature%20Engineering.webp" alt="Feature Engineering" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Kaggle%20Learn/Geospatial%20Analysis.webp"><img src="certificates/Kaggle%20Learn/Geospatial%20Analysis.webp" alt="Geospatial Analysis" width="250"></a>
+<a href="docs/Kaggle%20Learn/Geospatial%20Analysis.webp"><img src="docs/Kaggle%20Learn/Geospatial%20Analysis.webp" alt="Geospatial Analysis" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -1566,24 +1634,26 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Kaggle%20Learn/Intermediate%20Machine%20Learning.webp"><img src="certificates/Kaggle%20Learn/Intermediate%20Machine%20Learning.webp" alt="Intermediate Machine Learning" width="250"></a>
+<a href="docs/Kaggle%20Learn/Intermediate%20Machine%20Learning.webp"><img src="docs/Kaggle%20Learn/Intermediate%20Machine%20Learning.webp" alt="Intermediate Machine Learning" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Kaggle%20Learn/Machine%20Learning%20Explainability.webp"><img src="certificates/Kaggle%20Learn/Machine%20Learning%20Explainability.webp" alt="Machine Learning Explainability" width="250"></a>
+<a href="docs/Kaggle%20Learn/Machine%20Learning%20Explainability.webp"><img src="docs/Kaggle%20Learn/Machine%20Learning%20Explainability.webp" alt="Machine Learning Explainability" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="knowledge-academy"></a>
 
 ## Knowledge Academy
 
 <div align="center">
 
-**Сертификатов: 1**
+**Документов: 1**
 
 </div>
 
@@ -1596,21 +1666,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Knowledge%20Academy/Effective%20Negotiation%20and%20the%20Art%20of%20Argumentation.webp"><img src="certificates/Knowledge%20Academy/Effective%20Negotiation%20and%20the%20Art%20of%20Argumentation.webp" alt="Effective Negotiation and the Art of Argumentation" width="250"></a>
+<a href="docs/Knowledge%20Academy/Effective%20Negotiation%20and%20the%20Art%20of%20Argumentation.webp"><img src="docs/Knowledge%20Academy/Effective%20Negotiation%20and%20the%20Art%20of%20Argumentation.webp" alt="Effective Negotiation and the Art of Argumentation" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="lectorium"></a>
 
 ## Lectorium
 
 <div align="center">
 
-**Сертификатов: 1**
+**Документов: 1**
 
 </div>
 
@@ -1623,21 +1695,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Lectorium/Fundamentals%20of%20Programming%20in%20C.webp"><img src="certificates/Lectorium/Fundamentals%20of%20Programming%20in%20C.webp" alt="Fundamentals of Programming in C" width="250"></a>
+<a href="docs/Lectorium/Fundamentals%20of%20Programming%20in%20C.webp"><img src="docs/Lectorium/Fundamentals%20of%20Programming%20in%20C.webp" alt="Fundamentals of Programming in C" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="ministry-of-construction-university-scientific-research-institute-of-building-physics-niisf-of-the-russian-academy-of-architecture-and-construction-sciences-raasn"></a>
 
 ## Ministry of Construction University — Scientific Research Institute of Building Physics (NIISF) of the Russian Academy of Architecture and Construction Sciences (RAASN)
 
 <div align="center">
 
-**Сертификатов: 1**
+**Документов: 1**
 
 </div>
 
@@ -1650,21 +1724,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Ministry%20of%20Construction%20University%20%E2%80%94%20Scientific%20Research%20Institute%20of%20Building%20Physics%20%28NIISF%29%20of%20the%20Russian%20Academy%20of%20Architecture%20and%20Construction%20Sciences%20%28RAASN%29/Artificial%20Intelligence%20%E2%80%94%20A%20Personal%20Assistant%20in%20Construction.webp"><img src="certificates/Ministry%20of%20Construction%20University%20%E2%80%94%20Scientific%20Research%20Institute%20of%20Building%20Physics%20%28NIISF%29%20of%20the%20Russian%20Academy%20of%20Architecture%20and%20Construction%20Sciences%20%28RAASN%29/Artificial%20Intelligence%20%E2%80%94%20A%20Personal%20Assistant%20in%20Construction.webp" alt="Artificial Intelligence — A Personal Assistant in Construction" width="250"></a>
+<a href="docs/Ministry%20of%20Construction%20University%20%E2%80%94%20Scientific%20Research%20Institute%20of%20Building%20Physics%20%28NIISF%29%20of%20the%20Russian%20Academy%20of%20Architecture%20and%20Construction%20Sciences%20%28RAASN%29/Artificial%20Intelligence%20%E2%80%94%20A%20Personal%20Assistant%20in%20Construction.webp"><img src="docs/Ministry%20of%20Construction%20University%20%E2%80%94%20Scientific%20Research%20Institute%20of%20Building%20Physics%20%28NIISF%29%20of%20the%20Russian%20Academy%20of%20Architecture%20and%20Construction%20Sciences%20%28RAASN%29/Artificial%20Intelligence%20%E2%80%94%20A%20Personal%20Assistant%20in%20Construction.webp" alt="Artificial Intelligence — A Personal Assistant in Construction" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="mongodb-university"></a>
 
 ## MongoDB University
 
 <div align="center">
 
-**Сертификатов: 1**
+**Документов: 1**
 
 </div>
 
@@ -1677,21 +1753,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/MongoDB%20University/MongoDB%20Indexing%20Design%20Fundamentals.webp"><img src="certificates/MongoDB%20University/MongoDB%20Indexing%20Design%20Fundamentals.webp" alt="MongoDB Indexing Design Fundamentals" width="250"></a>
+<a href="docs/MongoDB%20University/MongoDB%20Indexing%20Design%20Fundamentals.webp"><img src="docs/MongoDB%20University/MongoDB%20Indexing%20Design%20Fundamentals.webp" alt="MongoDB Indexing Design Fundamentals" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="national-aeronautics-and-space-administration-nasa-applied-remote-sensing-training-arset"></a>
 
 ## National Aeronautics and Space Administration (NASA) — Applied Remote Sensing Training (ARSET)
 
 <div align="center">
 
-**Сертификатов: 1**
+**Документов: 1**
 
 </div>
 
@@ -1704,21 +1782,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/National%20Aeronautics%20and%20Space%20Administration%20%28NASA%29%20%E2%80%94%20Applied%20Remote%20Sensing%20Training%20%28ARSET%29/Fundamentals%20of%20Remote%20Sensing.webp"><img src="certificates/National%20Aeronautics%20and%20Space%20Administration%20%28NASA%29%20%E2%80%94%20Applied%20Remote%20Sensing%20Training%20%28ARSET%29/Fundamentals%20of%20Remote%20Sensing.webp" alt="Fundamentals of Remote Sensing" width="250"></a>
+<a href="docs/National%20Aeronautics%20and%20Space%20Administration%20%28NASA%29%20%E2%80%94%20Applied%20Remote%20Sensing%20Training%20%28ARSET%29/Fundamentals%20of%20Remote%20Sensing.webp"><img src="docs/National%20Aeronautics%20and%20Space%20Administration%20%28NASA%29%20%E2%80%94%20Applied%20Remote%20Sensing%20Training%20%28ARSET%29/Fundamentals%20of%20Remote%20Sensing.webp" alt="Fundamentals of Remote Sensing" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="national-open-university-intuit"></a>
 
 ## National Open University (INTUIT)
 
 <div align="center">
 
-**Сертификатов: 7**
+**Документов: 7**
 
 </div>
 
@@ -1738,26 +1818,26 @@
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/National%20Open%20University%20%28INTUIT%29/Computer%20Architecture_1.webp"><img src="certificates/National%20Open%20University%20%28INTUIT%29/Computer%20Architecture_1.webp" alt="Computer Architecture — Страница 1" width="250"></a>
+<a href="docs/National%20Open%20University%20%28INTUIT%29/Computer%20Architecture_1.webp"><img src="docs/National%20Open%20University%20%28INTUIT%29/Computer%20Architecture_1.webp" alt="Computer Architecture — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/National%20Open%20University%20%28INTUIT%29/Computer%20Architecture_2.webp"><img src="certificates/National%20Open%20University%20%28INTUIT%29/Computer%20Architecture_2.webp" alt="Computer Architecture — Страница 2" width="250"></a>
+<a href="docs/National%20Open%20University%20%28INTUIT%29/Computer%20Architecture_2.webp"><img src="docs/National%20Open%20University%20%28INTUIT%29/Computer%20Architecture_2.webp" alt="Computer Architecture — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/National%20Open%20University%20%28INTUIT%29/Information%20Systems%20and%20Technologies%20in%20Economics%20and%20Management_1.webp"><img src="certificates/National%20Open%20University%20%28INTUIT%29/Information%20Systems%20and%20Technologies%20in%20Economics%20and%20Management_1.webp" alt="Information Systems and Technologies in Economics and Management — Страница 1" width="250"></a>
+<a href="docs/National%20Open%20University%20%28INTUIT%29/Information%20Systems%20and%20Technologies%20in%20Economics%20and%20Management_1.webp"><img src="docs/National%20Open%20University%20%28INTUIT%29/Information%20Systems%20and%20Technologies%20in%20Economics%20and%20Management_1.webp" alt="Information Systems and Technologies in Economics and Management — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/National%20Open%20University%20%28INTUIT%29/Information%20Systems%20and%20Technologies%20in%20Economics%20and%20Management_2.webp"><img src="certificates/National%20Open%20University%20%28INTUIT%29/Information%20Systems%20and%20Technologies%20in%20Economics%20and%20Management_2.webp" alt="Information Systems and Technologies in Economics and Management — Страница 2" width="250"></a>
+<a href="docs/National%20Open%20University%20%28INTUIT%29/Information%20Systems%20and%20Technologies%20in%20Economics%20and%20Management_2.webp"><img src="docs/National%20Open%20University%20%28INTUIT%29/Information%20Systems%20and%20Technologies%20in%20Economics%20and%20Management_2.webp" alt="Information Systems and Technologies in Economics and Management — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/National%20Open%20University%20%28INTUIT%29/IT%20Project%20Management%20-%20Theory%2C%20Tasks%20and%20Solutions_1.webp"><img src="certificates/National%20Open%20University%20%28INTUIT%29/IT%20Project%20Management%20-%20Theory%2C%20Tasks%20and%20Solutions_1.webp" alt="IT Project Management - Theory, Tasks and Solutions — Страница 1" width="250"></a>
+<a href="docs/National%20Open%20University%20%28INTUIT%29/IT%20Project%20Management%20-%20Theory%2C%20Tasks%20and%20Solutions_1.webp"><img src="docs/National%20Open%20University%20%28INTUIT%29/IT%20Project%20Management%20-%20Theory%2C%20Tasks%20and%20Solutions_1.webp" alt="IT Project Management - Theory, Tasks and Solutions — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/National%20Open%20University%20%28INTUIT%29/IT%20Project%20Management%20-%20Theory%2C%20Tasks%20and%20Solutions_2.webp"><img src="certificates/National%20Open%20University%20%28INTUIT%29/IT%20Project%20Management%20-%20Theory%2C%20Tasks%20and%20Solutions_2.webp" alt="IT Project Management - Theory, Tasks and Solutions — Страница 2" width="250"></a>
+<a href="docs/National%20Open%20University%20%28INTUIT%29/IT%20Project%20Management%20-%20Theory%2C%20Tasks%20and%20Solutions_2.webp"><img src="docs/National%20Open%20University%20%28INTUIT%29/IT%20Project%20Management%20-%20Theory%2C%20Tasks%20and%20Solutions_2.webp" alt="IT Project Management - Theory, Tasks and Solutions — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 </tr>
@@ -1780,26 +1860,26 @@
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/National%20Open%20University%20%28INTUIT%29/Models%20and%20Software%20for%20Multiprocessor%20Systems%20%28High-Performance%20Computing%20University%29_1.webp"><img src="certificates/National%20Open%20University%20%28INTUIT%29/Models%20and%20Software%20for%20Multiprocessor%20Systems%20%28High-Performance%20Computing%20University%29_1.webp" alt="Models and Software for Multiprocessor Systems (High-Performance Computing University) — Страница 1" width="250"></a>
+<a href="docs/National%20Open%20University%20%28INTUIT%29/Models%20and%20Software%20for%20Multiprocessor%20Systems%20%28High-Performance%20Computing%20University%29_1.webp"><img src="docs/National%20Open%20University%20%28INTUIT%29/Models%20and%20Software%20for%20Multiprocessor%20Systems%20%28High-Performance%20Computing%20University%29_1.webp" alt="Models and Software for Multiprocessor Systems (High-Performance Computing University) — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/National%20Open%20University%20%28INTUIT%29/Models%20and%20Software%20for%20Multiprocessor%20Systems%20%28High-Performance%20Computing%20University%29_2.webp"><img src="certificates/National%20Open%20University%20%28INTUIT%29/Models%20and%20Software%20for%20Multiprocessor%20Systems%20%28High-Performance%20Computing%20University%29_2.webp" alt="Models and Software for Multiprocessor Systems (High-Performance Computing University) — Страница 2" width="250"></a>
+<a href="docs/National%20Open%20University%20%28INTUIT%29/Models%20and%20Software%20for%20Multiprocessor%20Systems%20%28High-Performance%20Computing%20University%29_2.webp"><img src="docs/National%20Open%20University%20%28INTUIT%29/Models%20and%20Software%20for%20Multiprocessor%20Systems%20%28High-Performance%20Computing%20University%29_2.webp" alt="Models and Software for Multiprocessor Systems (High-Performance Computing University) — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/National%20Open%20University%20%28INTUIT%29/Multi-Core%20Processors_1.webp"><img src="certificates/National%20Open%20University%20%28INTUIT%29/Multi-Core%20Processors_1.webp" alt="Multi-Core Processors — Страница 1" width="250"></a>
+<a href="docs/National%20Open%20University%20%28INTUIT%29/Multi-Core%20Processors_1.webp"><img src="docs/National%20Open%20University%20%28INTUIT%29/Multi-Core%20Processors_1.webp" alt="Multi-Core Processors — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/National%20Open%20University%20%28INTUIT%29/Multi-Core%20Processors_2.webp"><img src="certificates/National%20Open%20University%20%28INTUIT%29/Multi-Core%20Processors_2.webp" alt="Multi-Core Processors — Страница 2" width="250"></a>
+<a href="docs/National%20Open%20University%20%28INTUIT%29/Multi-Core%20Processors_2.webp"><img src="docs/National%20Open%20University%20%28INTUIT%29/Multi-Core%20Processors_2.webp" alt="Multi-Core Processors — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/National%20Open%20University%20%28INTUIT%29/Parallel%20Programming%20for%20Multicore%20Processors_1.webp"><img src="certificates/National%20Open%20University%20%28INTUIT%29/Parallel%20Programming%20for%20Multicore%20Processors_1.webp" alt="Parallel Programming for Multicore Processors — Страница 1" width="250"></a>
+<a href="docs/National%20Open%20University%20%28INTUIT%29/Parallel%20Programming%20for%20Multicore%20Processors_1.webp"><img src="docs/National%20Open%20University%20%28INTUIT%29/Parallel%20Programming%20for%20Multicore%20Processors_1.webp" alt="Parallel Programming for Multicore Processors — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/National%20Open%20University%20%28INTUIT%29/Parallel%20Programming%20for%20Multicore%20Processors_2.webp"><img src="certificates/National%20Open%20University%20%28INTUIT%29/Parallel%20Programming%20for%20Multicore%20Processors_2.webp" alt="Parallel Programming for Multicore Processors — Страница 2" width="250"></a>
+<a href="docs/National%20Open%20University%20%28INTUIT%29/Parallel%20Programming%20for%20Multicore%20Processors_2.webp"><img src="docs/National%20Open%20University%20%28INTUIT%29/Parallel%20Programming%20for%20Multicore%20Processors_2.webp" alt="Parallel Programming for Multicore Processors — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 </tr>
@@ -1816,25 +1896,27 @@
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/National%20Open%20University%20%28INTUIT%29/Workshop%20on%20Process%20Management%20Using%20Cloud%20Software_1.webp"><img src="certificates/National%20Open%20University%20%28INTUIT%29/Workshop%20on%20Process%20Management%20Using%20Cloud%20Software_1.webp" alt="Workshop on Process Management Using Cloud Software — Страница 1" width="250"></a>
+<a href="docs/National%20Open%20University%20%28INTUIT%29/Workshop%20on%20Process%20Management%20Using%20Cloud%20Software_1.webp"><img src="docs/National%20Open%20University%20%28INTUIT%29/Workshop%20on%20Process%20Management%20Using%20Cloud%20Software_1.webp" alt="Workshop on Process Management Using Cloud Software — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/National%20Open%20University%20%28INTUIT%29/Workshop%20on%20Process%20Management%20Using%20Cloud%20Software_2.webp"><img src="certificates/National%20Open%20University%20%28INTUIT%29/Workshop%20on%20Process%20Management%20Using%20Cloud%20Software_2.webp" alt="Workshop on Process Management Using Cloud Software — Страница 2" width="250"></a>
+<a href="docs/National%20Open%20University%20%28INTUIT%29/Workshop%20on%20Process%20Management%20Using%20Cloud%20Software_2.webp"><img src="docs/National%20Open%20University%20%28INTUIT%29/Workshop%20on%20Process%20Management%20Using%20Cloud%20Software_2.webp" alt="Workshop on Process Management Using Cloud Software — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="national-research-university-higher-school-of-economics-hse-university-osnova-educational-project"></a>
 
 ## National Research University Higher School of Economics (HSE University) — Osnova Educational Project
 
 <div align="center">
 
-**Сертификатов: 3**
+**Документов: 3**
 
 </div>
 
@@ -1853,27 +1935,29 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29%20%E2%80%94%20Osnova%20Educational%20Project/Socially%20Responsible%20Leadership.webp"><img src="certificates/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29%20%E2%80%94%20Osnova%20Educational%20Project/Socially%20Responsible%20Leadership.webp" alt="Socially Responsible Leadership" width="250"></a>
+<a href="docs/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29%20%E2%80%94%20Osnova%20Educational%20Project/Socially%20Responsible%20Leadership.webp"><img src="docs/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29%20%E2%80%94%20Osnova%20Educational%20Project/Socially%20Responsible%20Leadership.webp" alt="Socially Responsible Leadership" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29%20%E2%80%94%20Osnova%20Educational%20Project/Studying%20Without%20Stress%20-%20How%20to%20Maintain%20Motivation%20and%20Energy%20Throughout%20the%20Academic%20Year.webp"><img src="certificates/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29%20%E2%80%94%20Osnova%20Educational%20Project/Studying%20Without%20Stress%20-%20How%20to%20Maintain%20Motivation%20and%20Energy%20Throughout%20the%20Academic%20Year.webp" alt="Studying Without Stress - How to Maintain Motivation and Energy Throughout the Academic Year" width="250"></a>
+<a href="docs/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29%20%E2%80%94%20Osnova%20Educational%20Project/Studying%20Without%20Stress%20-%20How%20to%20Maintain%20Motivation%20and%20Energy%20Throughout%20the%20Academic%20Year.webp"><img src="docs/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29%20%E2%80%94%20Osnova%20Educational%20Project/Studying%20Without%20Stress%20-%20How%20to%20Maintain%20Motivation%20and%20Energy%20Throughout%20the%20Academic%20Year.webp" alt="Studying Without Stress - How to Maintain Motivation and Energy Throughout the Academic Year" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29%20%E2%80%94%20Osnova%20Educational%20Project/The%20Art%20of%20Caring%20-%20How%20to%20Support%20Someone%20in%20a%20Difficult%20Situation.webp"><img src="certificates/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29%20%E2%80%94%20Osnova%20Educational%20Project/The%20Art%20of%20Caring%20-%20How%20to%20Support%20Someone%20in%20a%20Difficult%20Situation.webp" alt="The Art of Caring - How to Support Someone in a Difficult Situation" width="250"></a>
+<a href="docs/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29%20%E2%80%94%20Osnova%20Educational%20Project/The%20Art%20of%20Caring%20-%20How%20to%20Support%20Someone%20in%20a%20Difficult%20Situation.webp"><img src="docs/National%20Research%20University%20Higher%20School%20of%20Economics%20%28HSE%20University%29%20%E2%80%94%20Osnova%20Educational%20Project/The%20Art%20of%20Caring%20-%20How%20to%20Support%20Someone%20in%20a%20Difficult%20Situation.webp" alt="The Art of Caring - How to Support Someone in a Difficult Situation" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="neo4j-graphacademy"></a>
 
 ## Neo4j GraphAcademy
 
 <div align="center">
 
-**Сертификатов: 2**
+**Документов: 2**
 
 </div>
 
@@ -1889,24 +1973,26 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Neo4j%20GraphAcademy/Neo4j%20Certified%20Professional.webp"><img src="certificates/Neo4j%20GraphAcademy/Neo4j%20Certified%20Professional.webp" alt="Neo4j Certified Professional" width="250"></a>
+<a href="docs/Neo4j%20GraphAcademy/Neo4j%20Certified%20Professional.webp"><img src="docs/Neo4j%20GraphAcademy/Neo4j%20Certified%20Professional.webp" alt="Neo4j Certified Professional" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Neo4j%20GraphAcademy/Neo4j%20Graph%20Data%20Science%20Certification.webp"><img src="certificates/Neo4j%20GraphAcademy/Neo4j%20Graph%20Data%20Science%20Certification.webp" alt="Neo4j Graph Data Science Certification" width="250"></a>
+<a href="docs/Neo4j%20GraphAcademy/Neo4j%20Graph%20Data%20Science%20Certification.webp"><img src="docs/Neo4j%20GraphAcademy/Neo4j%20Graph%20Data%20Science%20Certification.webp" alt="Neo4j Graph Data Science Certification" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="netology"></a>
 
 ## Netology
 
 <div align="center">
 
-**Сертификатов: 4**
+**Документов: 4**
 
 </div>
 
@@ -1925,13 +2011,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Netology/How%20to%20Become%20a%20Business%20Process%20Manager%20and%20Improve%20Company%20Efficiency.webp"><img src="certificates/Netology/How%20to%20Become%20a%20Business%20Process%20Manager%20and%20Improve%20Company%20Efficiency.webp" alt="How to Become a Business Process Manager and Improve Company Efficiency" width="250"></a>
+<a href="docs/Netology/How%20to%20Become%20a%20Business%20Process%20Manager%20and%20Improve%20Company%20Efficiency.webp"><img src="docs/Netology/How%20to%20Become%20a%20Business%20Process%20Manager%20and%20Improve%20Company%20Efficiency.webp" alt="How to Become a Business Process Manager and Improve Company Efficiency" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Netology/How%20to%20Become%20a%20Product%20or%20Project%20Manager.webp"><img src="certificates/Netology/How%20to%20Become%20a%20Product%20or%20Project%20Manager.webp" alt="How to Become a Product or Project Manager" width="250"></a>
+<a href="docs/Netology/How%20to%20Become%20a%20Product%20or%20Project%20Manager.webp"><img src="docs/Netology/How%20to%20Become%20a%20Product%20or%20Project%20Manager.webp" alt="How to Become a Product or Project Manager" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Netology/Product%20Manager%20First%20Skills%20in%20the%20Profession.webp"><img src="certificates/Netology/Product%20Manager%20First%20Skills%20in%20the%20Profession.webp" alt="Product Manager First Skills in the Profession" width="250"></a>
+<a href="docs/Netology/Product%20Manager%20First%20Skills%20in%20the%20Profession.webp"><img src="docs/Netology/Product%20Manager%20First%20Skills%20in%20the%20Profession.webp" alt="Product Manager First Skills in the Profession" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -1946,21 +2032,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Netology/Project%20Manager%20Starting%20a%20Career.webp"><img src="certificates/Netology/Project%20Manager%20Starting%20a%20Career.webp" alt="Project Manager Starting a Career" width="250"></a>
+<a href="docs/Netology/Project%20Manager%20Starting%20a%20Career.webp"><img src="docs/Netology/Project%20Manager%20Starting%20a%20Career.webp" alt="Project Manager Starting a Career" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="organization-for-security-and-co-operation-in-europe-osce-e-learning"></a>
 
 ## Organization for Security and Co-operation in Europe (OSCE) E-Learning
 
 <div align="center">
 
-**Сертификатов: 1**
+**Документов: 1**
 
 </div>
 
@@ -1973,21 +2061,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Organization%20for%20Security%20and%20Co-operation%20in%20Europe%20%28OSCE%29%20E-Learning/Protection%20of%20Critical%20Energy%20Infrastructure%20%E2%80%94%20From%20Risk%20Analysis%20to%20Risk%20Management.webp"><img src="certificates/Organization%20for%20Security%20and%20Co-operation%20in%20Europe%20%28OSCE%29%20E-Learning/Protection%20of%20Critical%20Energy%20Infrastructure%20%E2%80%94%20From%20Risk%20Analysis%20to%20Risk%20Management.webp" alt="Protection of Critical Energy Infrastructure — From Risk Analysis to Risk Management" width="250"></a>
+<a href="docs/Organization%20for%20Security%20and%20Co-operation%20in%20Europe%20%28OSCE%29%20E-Learning/Protection%20of%20Critical%20Energy%20Infrastructure%20%E2%80%94%20From%20Risk%20Analysis%20to%20Risk%20Management.webp"><img src="docs/Organization%20for%20Security%20and%20Co-operation%20in%20Europe%20%28OSCE%29%20E-Learning/Protection%20of%20Critical%20Energy%20Infrastructure%20%E2%80%94%20From%20Risk%20Analysis%20to%20Risk%20Management.webp" alt="Protection of Critical Energy Infrastructure — From Risk Analysis to Risk Management" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="peoples-friendship-university-of-russia-named-after-patrice-lumumba-rudn-university-further-education"></a>
 
 ## Peoples' Friendship University of Russia named after Patrice Lumumba (RUDN University) — Further Education
 
 <div align="center">
 
-**Сертификатов: 18**
+**Документов: 18**
 
 </div>
 
@@ -2006,13 +2096,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Business%20Communication.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Business%20Communication.webp" alt="Business Communication" width="250"></a>
+<a href="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Business%20Communication.webp"><img src="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Business%20Communication.webp" alt="Business Communication" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Digital%20Pedagogy.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Digital%20Pedagogy.webp" alt="Digital Pedagogy" width="250"></a>
+<a href="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Digital%20Pedagogy.webp"><img src="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Digital%20Pedagogy.webp" alt="Digital Pedagogy" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Effective%20Engagement%20with%20the%20Blogosphere%20and%20Opinion%20Leaders.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Effective%20Engagement%20with%20the%20Blogosphere%20and%20Opinion%20Leaders.webp" alt="Effective Engagement with the Blogosphere and Opinion Leaders" width="250"></a>
+<a href="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Effective%20Engagement%20with%20the%20Blogosphere%20and%20Opinion%20Leaders.webp"><img src="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Effective%20Engagement%20with%20the%20Blogosphere%20and%20Opinion%20Leaders.webp" alt="Effective Engagement with the Blogosphere and Opinion Leaders" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -2033,13 +2123,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Financial%20Literacy.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Financial%20Literacy.webp" alt="Financial Literacy" width="250"></a>
+<a href="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Financial%20Literacy.webp"><img src="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Financial%20Literacy.webp" alt="Financial Literacy" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Fundamentals%20of%20Computer%20Science%20-%20Complex%20Concepts%20Made%20Simple.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Fundamentals%20of%20Computer%20Science%20-%20Complex%20Concepts%20Made%20Simple.webp" alt="Fundamentals of Computer Science - Complex Concepts Made Simple" width="250"></a>
+<a href="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Fundamentals%20of%20Computer%20Science%20-%20Complex%20Concepts%20Made%20Simple.webp"><img src="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Fundamentals%20of%20Computer%20Science%20-%20Complex%20Concepts%20Made%20Simple.webp" alt="Fundamentals of Computer Science - Complex Concepts Made Simple" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Fundamentals%20of%20Electricity%20and%20Magnetism.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Fundamentals%20of%20Electricity%20and%20Magnetism.webp" alt="Fundamentals of Electricity and Magnetism" width="250"></a>
+<a href="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Fundamentals%20of%20Electricity%20and%20Magnetism.webp"><img src="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Fundamentals%20of%20Electricity%20and%20Magnetism.webp" alt="Fundamentals of Electricity and Magnetism" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -2060,13 +2150,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/History%20of%20Russia%27s%20International%20Relations.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/History%20of%20Russia%27s%20International%20Relations.webp" alt="History of Russia's International Relations" width="250"></a>
+<a href="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/History%20of%20Russia%27s%20International%20Relations.webp"><img src="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/History%20of%20Russia%27s%20International%20Relations.webp" alt="History of Russia's International Relations" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/How%20Medicines%20Are%20Made%20-%20Strategies%20for%20Chemical%20Synthesis.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/How%20Medicines%20Are%20Made%20-%20Strategies%20for%20Chemical%20Synthesis.webp" alt="How Medicines Are Made - Strategies for Chemical Synthesis" width="250"></a>
+<a href="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/How%20Medicines%20Are%20Made%20-%20Strategies%20for%20Chemical%20Synthesis.webp"><img src="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/How%20Medicines%20Are%20Made%20-%20Strategies%20for%20Chemical%20Synthesis.webp" alt="How Medicines Are Made - Strategies for Chemical Synthesis" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Instrumental%20Methods%20of%20Pharmacopoeial%20Analysis.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Instrumental%20Methods%20of%20Pharmacopoeial%20Analysis.webp" alt="Instrumental Methods of Pharmacopoeial Analysis" width="250"></a>
+<a href="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Instrumental%20Methods%20of%20Pharmacopoeial%20Analysis.webp"><img src="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Instrumental%20Methods%20of%20Pharmacopoeial%20Analysis.webp" alt="Instrumental Methods of Pharmacopoeial Analysis" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -2087,13 +2177,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Online%20Promotion.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Online%20Promotion.webp" alt="Online Promotion" width="250"></a>
+<a href="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Online%20Promotion.webp"><img src="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Online%20Promotion.webp" alt="Online Promotion" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Public%20Speaking%20Techniques.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Public%20Speaking%20Techniques.webp" alt="Public Speaking Techniques" width="250"></a>
+<a href="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Public%20Speaking%20Techniques.webp"><img src="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Public%20Speaking%20Techniques.webp" alt="Public Speaking Techniques" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Russia%20in%20Global%20Politics.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Russia%20in%20Global%20Politics.webp" alt="Russia in Global Politics" width="250"></a>
+<a href="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Russia%20in%20Global%20Politics.webp"><img src="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Russia%20in%20Global%20Politics.webp" alt="Russia in Global Politics" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -2114,13 +2204,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Russia%20on%20the%20World%20Map.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Russia%20on%20the%20World%20Map.webp" alt="Russia on the World Map" width="250"></a>
+<a href="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Russia%20on%20the%20World%20Map.webp"><img src="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Russia%20on%20the%20World%20Map.webp" alt="Russia on the World Map" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Russian%20History%20through%20the%20Lives%20of%20Outstanding%20Russians.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Russian%20History%20through%20the%20Lives%20of%20Outstanding%20Russians.webp" alt="Russian History through the Lives of Outstanding Russians" width="250"></a>
+<a href="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Russian%20History%20through%20the%20Lives%20of%20Outstanding%20Russians.webp"><img src="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Russian%20History%20through%20the%20Lives%20of%20Outstanding%20Russians.webp" alt="Russian History through the Lives of Outstanding Russians" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/School%20of%20Stress%20Management.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/School%20of%20Stress%20Management.webp" alt="School of Stress Management" width="250"></a>
+<a href="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/School%20of%20Stress%20Management.webp"><img src="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/School%20of%20Stress%20Management.webp" alt="School of Stress Management" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -2141,27 +2231,29 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Solving%20Trigonometry%20Problems%20of%20Varying%20Difficulty.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Solving%20Trigonometry%20Problems%20of%20Varying%20Difficulty.webp" alt="Solving Trigonometry Problems of Varying Difficulty" width="250"></a>
+<a href="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Solving%20Trigonometry%20Problems%20of%20Varying%20Difficulty.webp"><img src="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Solving%20Trigonometry%20Problems%20of%20Varying%20Difficulty.webp" alt="Solving Trigonometry Problems of Varying Difficulty" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Translation%20Theory.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Translation%20Theory.webp" alt="Translation Theory" width="250"></a>
+<a href="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Translation%20Theory.webp"><img src="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Translation%20Theory.webp" alt="Translation Theory" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Treasures%20of%20Russian%20Culture%20in%20a%20Multilingual%20World.webp"><img src="certificates/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Treasures%20of%20Russian%20Culture%20in%20a%20Multilingual%20World.webp" alt="Treasures of Russian Culture in a Multilingual World" width="250"></a>
+<a href="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Treasures%20of%20Russian%20Culture%20in%20a%20Multilingual%20World.webp"><img src="docs/Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20%28RUDN%20University%29%20%E2%80%94%20Further%20Education/Treasures%20of%20Russian%20Culture%20in%20a%20Multilingual%20World.webp" alt="Treasures of Russian Culture in a Multilingual World" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="project-management-institute-pmi"></a>
 
 ## Project Management Institute (PMI)
 
 <div align="center">
 
-**Сертификатов: 7**
+**Документов: 7**
 
 </div>
 
@@ -2180,13 +2272,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Project%20Management%20Institute%20%28PMI%29/Business%20Continuity.webp"><img src="certificates/Project%20Management%20Institute%20%28PMI%29/Business%20Continuity.webp" alt="Business Continuity" width="250"></a>
+<a href="docs/Project%20Management%20Institute%20%28PMI%29/Business%20Continuity.webp"><img src="docs/Project%20Management%20Institute%20%28PMI%29/Business%20Continuity.webp" alt="Business Continuity" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Project%20Management%20Institute%20%28PMI%29/Free%20Introduction%20to%20Cognitive%20Project%20Management%20in%20AI%20%28CPMAI%29.webp"><img src="certificates/Project%20Management%20Institute%20%28PMI%29/Free%20Introduction%20to%20Cognitive%20Project%20Management%20in%20AI%20%28CPMAI%29.webp" alt="Free Introduction to Cognitive Project Management in AI (CPMAI)" width="250"></a>
+<a href="docs/Project%20Management%20Institute%20%28PMI%29/Free%20Introduction%20to%20Cognitive%20Project%20Management%20in%20AI%20%28CPMAI%29.webp"><img src="docs/Project%20Management%20Institute%20%28PMI%29/Free%20Introduction%20to%20Cognitive%20Project%20Management%20in%20AI%20%28CPMAI%29.webp" alt="Free Introduction to Cognitive Project Management in AI (CPMAI)" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Project%20Management%20Institute%20%28PMI%29/Free%20Introduction%20%E2%80%94%20PMI%20Authorized%20On-Demand%20PMP%20Exam%20Prep.webp"><img src="certificates/Project%20Management%20Institute%20%28PMI%29/Free%20Introduction%20%E2%80%94%20PMI%20Authorized%20On-Demand%20PMP%20Exam%20Prep.webp" alt="Free Introduction — PMI Authorized On-Demand PMP Exam Prep" width="250"></a>
+<a href="docs/Project%20Management%20Institute%20%28PMI%29/Free%20Introduction%20%E2%80%94%20PMI%20Authorized%20On-Demand%20PMP%20Exam%20Prep.webp"><img src="docs/Project%20Management%20Institute%20%28PMI%29/Free%20Introduction%20%E2%80%94%20PMI%20Authorized%20On-Demand%20PMP%20Exam%20Prep.webp" alt="Free Introduction — PMI Authorized On-Demand PMP Exam Prep" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -2207,13 +2299,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Project%20Management%20Institute%20%28PMI%29/Generative%20AI%20Overview%20for%20Project%20Managers.webp"><img src="certificates/Project%20Management%20Institute%20%28PMI%29/Generative%20AI%20Overview%20for%20Project%20Managers.webp" alt="Generative AI Overview for Project Managers" width="250"></a>
+<a href="docs/Project%20Management%20Institute%20%28PMI%29/Generative%20AI%20Overview%20for%20Project%20Managers.webp"><img src="docs/Project%20Management%20Institute%20%28PMI%29/Generative%20AI%20Overview%20for%20Project%20Managers.webp" alt="Generative AI Overview for Project Managers" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Project%20Management%20Institute%20%28PMI%29/PMI%20Citizen%20Developer%20Business%20Architect%20%28CDBA%29%20Introduction.webp"><img src="certificates/Project%20Management%20Institute%20%28PMI%29/PMI%20Citizen%20Developer%20Business%20Architect%20%28CDBA%29%20Introduction.webp" alt="PMI Citizen Developer Business Architect (CDBA) Introduction" width="250"></a>
+<a href="docs/Project%20Management%20Institute%20%28PMI%29/PMI%20Citizen%20Developer%20Business%20Architect%20%28CDBA%29%20Introduction.webp"><img src="docs/Project%20Management%20Institute%20%28PMI%29/PMI%20Citizen%20Developer%20Business%20Architect%20%28CDBA%29%20Introduction.webp" alt="PMI Citizen Developer Business Architect (CDBA) Introduction" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Project%20Management%20Institute%20%28PMI%29/Practical%20Application%20of%20Generative%20AI%20for%20Project%20Managers.webp"><img src="certificates/Project%20Management%20Institute%20%28PMI%29/Practical%20Application%20of%20Generative%20AI%20for%20Project%20Managers.webp" alt="Practical Application of Generative AI for Project Managers" width="250"></a>
+<a href="docs/Project%20Management%20Institute%20%28PMI%29/Practical%20Application%20of%20Generative%20AI%20for%20Project%20Managers.webp"><img src="docs/Project%20Management%20Institute%20%28PMI%29/Practical%20Application%20of%20Generative%20AI%20for%20Project%20Managers.webp" alt="Practical Application of Generative AI for Project Managers" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -2228,21 +2320,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Project%20Management%20Institute%20%28PMI%29/Talking%20to%20AI%20%E2%80%94%20Prompt%20Engineering%20for%20Project%20Managers.webp"><img src="certificates/Project%20Management%20Institute%20%28PMI%29/Talking%20to%20AI%20%E2%80%94%20Prompt%20Engineering%20for%20Project%20Managers.webp" alt="Talking to AI — Prompt Engineering for Project Managers" width="250"></a>
+<a href="docs/Project%20Management%20Institute%20%28PMI%29/Talking%20to%20AI%20%E2%80%94%20Prompt%20Engineering%20for%20Project%20Managers.webp"><img src="docs/Project%20Management%20Institute%20%28PMI%29/Talking%20to%20AI%20%E2%80%94%20Prompt%20Engineering%20for%20Project%20Managers.webp" alt="Talking to AI — Prompt Engineering for Project Managers" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="purdue-university"></a>
 
 ## Purdue University
 
 <div align="center">
 
-**Сертификатов: 1**
+**Документов: 1**
 
 </div>
 
@@ -2255,21 +2349,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Purdue%20University/Rat%20Tickling%20Certification%20Course.webp"><img src="certificates/Purdue%20University/Rat%20Tickling%20Certification%20Course.webp" alt="Rat Tickling Certification Course" width="250"></a>
+<a href="docs/Purdue%20University/Rat%20Tickling%20Certification%20Course.webp"><img src="docs/Purdue%20University/Rat%20Tickling%20Certification%20Course.webp" alt="Rat Tickling Certification Course" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="qt-academy"></a>
 
 ## Qt Academy
 
 <div align="center">
 
-**Сертификатов: 1**
+**Документов: 1**
 
 </div>
 
@@ -2282,21 +2378,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Qt%20Academy/Qt%20Framework%20Overview.webp"><img src="certificates/Qt%20Academy/Qt%20Framework%20Overview.webp" alt="Qt Framework Overview" width="250"></a>
+<a href="docs/Qt%20Academy/Qt%20Framework%20Overview.webp"><img src="docs/Qt%20Academy/Qt%20Framework%20Overview.webp" alt="Qt Framework Overview" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="russia-land-of-opportunity"></a>
 
 ## Russia — Land of Opportunity
 
 <div align="center">
 
-**Сертификатов: 2**
+**Документов: 2**
 
 </div>
 
@@ -2312,24 +2410,26 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Russia%20%E2%80%94%20Land%20of%20Opportunity/Universal%20Competencies%20Passport%20%E2%80%94%20Additional%20Competencies.webp"><img src="certificates/Russia%20%E2%80%94%20Land%20of%20Opportunity/Universal%20Competencies%20Passport%20%E2%80%94%20Additional%20Competencies.webp" alt="Universal Competencies Passport — Additional Competencies" width="250"></a>
+<a href="docs/Russia%20%E2%80%94%20Land%20of%20Opportunity/Universal%20Competencies%20Passport%20%E2%80%94%20Additional%20Competencies.webp"><img src="docs/Russia%20%E2%80%94%20Land%20of%20Opportunity/Universal%20Competencies%20Passport%20%E2%80%94%20Additional%20Competencies.webp" alt="Universal Competencies Passport — Additional Competencies" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Russia%20%E2%80%94%20Land%20of%20Opportunity/Universal%20Competencies%20Passport%20%E2%80%94%20Basic%20Competencies.webp"><img src="certificates/Russia%20%E2%80%94%20Land%20of%20Opportunity/Universal%20Competencies%20Passport%20%E2%80%94%20Basic%20Competencies.webp" alt="Universal Competencies Passport — Basic Competencies" width="250"></a>
+<a href="docs/Russia%20%E2%80%94%20Land%20of%20Opportunity/Universal%20Competencies%20Passport%20%E2%80%94%20Basic%20Competencies.webp"><img src="docs/Russia%20%E2%80%94%20Land%20of%20Opportunity/Universal%20Competencies%20Passport%20%E2%80%94%20Basic%20Competencies.webp" alt="Universal Competencies Passport — Basic Competencies" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="saint-petersburg-state-university-of-aerospace-instrumentation-suai"></a>
 
 ## Saint Petersburg State University of Aerospace Instrumentation (SUAI)
 
 <div align="center">
 
-**Сертификатов: 7**
+**Документов: 7**
 
 </div>
 
@@ -2348,13 +2448,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/Bachelor%27s%20Degree%20Diploma%20in%20%22Software%20Engineering%22%20%28Program%20Code%2009.03.04%29%2C%20with%20Profile%20%22Software%20Systems%20Design%22%20%28Profile%20Code%2002%29%2C%202025.webp"><img src="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/Bachelor%27s%20Degree%20Diploma%20in%20%22Software%20Engineering%22%20%28Program%20Code%2009.03.04%29%2C%20with%20Profile%20%22Software%20Systems%20Design%22%20%28Profile%20Code%2002%29%2C%202025.webp" alt="Bachelor's Degree Diploma in "Software Engineering" (Program Code 09.03.04), with Profile "Software Systems Design" (Profile Code 02), 2025" width="250"></a>
+<a href="docs/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/Bachelor%27s%20Degree%20Diploma%20in%20%22Software%20Engineering%22%20%28Program%20Code%2009.03.04%29%2C%20with%20Profile%20%22Software%20Systems%20Design%22%20%28Profile%20Code%2002%29%2C%202025.webp"><img src="docs/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/Bachelor%27s%20Degree%20Diploma%20in%20%22Software%20Engineering%22%20%28Program%20Code%2009.03.04%29%2C%20with%20Profile%20%22Software%20Systems%20Design%22%20%28Profile%20Code%2002%29%2C%202025.webp" alt="Bachelor's Degree Diploma in "Software Engineering" (Program Code 09.03.04), with Profile "Software Systems Design" (Profile Code 02), 2025" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/Professional%20Retraining%20Diploma%20in%20%22Fundamentals%20of%20Frontend%20Development%22%20with%20Qualification%20of%20%22Web%20and%20Multimedia%20Applications%20Developer%22%2C%202024.webp"><img src="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/Professional%20Retraining%20Diploma%20in%20%22Fundamentals%20of%20Frontend%20Development%22%20with%20Qualification%20of%20%22Web%20and%20Multimedia%20Applications%20Developer%22%2C%202024.webp" alt="Professional Retraining Diploma in "Fundamentals of Frontend Development" with Qualification of "Web and Multimedia Applications Developer", 2024" width="250"></a>
+<a href="docs/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/Professional%20Retraining%20Diploma%20in%20%22Fundamentals%20of%20Frontend%20Development%22%20with%20Qualification%20of%20%22Web%20and%20Multimedia%20Applications%20Developer%22%2C%202024.webp"><img src="docs/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/Professional%20Retraining%20Diploma%20in%20%22Fundamentals%20of%20Frontend%20Development%22%20with%20Qualification%20of%20%22Web%20and%20Multimedia%20Applications%20Developer%22%2C%202024.webp" alt="Professional Retraining Diploma in "Fundamentals of Frontend Development" with Qualification of "Web and Multimedia Applications Developer", 2024" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Economic%20Olympiad%202025%20%E2%80%94%20First%20Degree%20Diploma.webp"><img src="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Economic%20Olympiad%202025%20%E2%80%94%20First%20Degree%20Diploma.webp" alt="SUAI Economic Olympiad 2025 — First Degree Diploma" width="250"></a>
+<a href="docs/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Economic%20Olympiad%202025%20%E2%80%94%20First%20Degree%20Diploma.webp"><img src="docs/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Economic%20Olympiad%202025%20%E2%80%94%20First%20Degree%20Diploma.webp" alt="SUAI Economic Olympiad 2025 — First Degree Diploma" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -2375,13 +2475,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Humanities%20Olympiad%202025%20%E2%80%94%20Third%20Degree%20Diploma.webp"><img src="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Humanities%20Olympiad%202025%20%E2%80%94%20Third%20Degree%20Diploma.webp" alt="SUAI Humanities Olympiad 2025 — Third Degree Diploma" width="250"></a>
+<a href="docs/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Humanities%20Olympiad%202025%20%E2%80%94%20Third%20Degree%20Diploma.webp"><img src="docs/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Humanities%20Olympiad%202025%20%E2%80%94%20Third%20Degree%20Diploma.webp" alt="SUAI Humanities Olympiad 2025 — Third Degree Diploma" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Law%20Olympiad%202025%20%E2%80%94%20First%20Degree%20Diploma.webp"><img src="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Law%20Olympiad%202025%20%E2%80%94%20First%20Degree%20Diploma.webp" alt="SUAI Law Olympiad 2025 — First Degree Diploma" width="250"></a>
+<a href="docs/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Law%20Olympiad%202025%20%E2%80%94%20First%20Degree%20Diploma.webp"><img src="docs/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Law%20Olympiad%202025%20%E2%80%94%20First%20Degree%20Diploma.webp" alt="SUAI Law Olympiad 2025 — First Degree Diploma" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Technical%20Olympiad%202025%20%E2%80%94%20First%20Degree%20Diploma.webp"><img src="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Technical%20Olympiad%202025%20%E2%80%94%20First%20Degree%20Diploma.webp" alt="SUAI Technical Olympiad 2025 — First Degree Diploma" width="250"></a>
+<a href="docs/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Technical%20Olympiad%202025%20%E2%80%94%20First%20Degree%20Diploma.webp"><img src="docs/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Technical%20Olympiad%202025%20%E2%80%94%20First%20Degree%20Diploma.webp" alt="SUAI Technical Olympiad 2025 — First Degree Diploma" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -2396,21 +2496,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Technical%20Olympiad%20%E2%80%94%20Second%20Degree%20Diploma.webp"><img src="certificates/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Technical%20Olympiad%20%E2%80%94%20Second%20Degree%20Diploma.webp" alt="SUAI Technical Olympiad — Second Degree Diploma" width="250"></a>
+<a href="docs/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Technical%20Olympiad%20%E2%80%94%20Second%20Degree%20Diploma.webp"><img src="docs/Saint%20Petersburg%20State%20University%20of%20Aerospace%20Instrumentation%20%28SUAI%29/SUAI%20Technical%20Olympiad%20%E2%80%94%20Second%20Degree%20Diploma.webp" alt="SUAI Technical Olympiad — Second Degree Diploma" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="saylor-academy"></a>
 
 ## Saylor Academy
 
 <div align="center">
 
-**Сертификатов: 29**
+**Документов: 29**
 
 </div>
 
@@ -2430,26 +2532,26 @@
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/COMM001%20Principles%20of%20Human%20Communication_1.webp"><img src="certificates/Saylor%20Academy/COMM001%20Principles%20of%20Human%20Communication_1.webp" alt="COMM001 Principles of Human Communication — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/COMM001%20Principles%20of%20Human%20Communication_1.webp"><img src="docs/Saylor%20Academy/COMM001%20Principles%20of%20Human%20Communication_1.webp" alt="COMM001 Principles of Human Communication — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/COMM001%20Principles%20of%20Human%20Communication_2.webp"><img src="certificates/Saylor%20Academy/COMM001%20Principles%20of%20Human%20Communication_2.webp" alt="COMM001 Principles of Human Communication — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/COMM001%20Principles%20of%20Human%20Communication_2.webp"><img src="docs/Saylor%20Academy/COMM001%20Principles%20of%20Human%20Communication_2.webp" alt="COMM001 Principles of Human Communication — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/CS207%20Fundamentals%20of%20Machine%20Learning_1.webp"><img src="certificates/Saylor%20Academy/CS207%20Fundamentals%20of%20Machine%20Learning_1.webp" alt="CS207 Fundamentals of Machine Learning — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/CS207%20Fundamentals%20of%20Machine%20Learning_1.webp"><img src="docs/Saylor%20Academy/CS207%20Fundamentals%20of%20Machine%20Learning_1.webp" alt="CS207 Fundamentals of Machine Learning — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/CS207%20Fundamentals%20of%20Machine%20Learning_2.webp"><img src="certificates/Saylor%20Academy/CS207%20Fundamentals%20of%20Machine%20Learning_2.webp" alt="CS207 Fundamentals of Machine Learning — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/CS207%20Fundamentals%20of%20Machine%20Learning_2.webp"><img src="docs/Saylor%20Academy/CS207%20Fundamentals%20of%20Machine%20Learning_2.webp" alt="CS207 Fundamentals of Machine Learning — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/CS250%20Python%20for%20Data%20Science_1.webp"><img src="certificates/Saylor%20Academy/CS250%20Python%20for%20Data%20Science_1.webp" alt="CS250 Python for Data Science — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/CS250%20Python%20for%20Data%20Science_1.webp"><img src="docs/Saylor%20Academy/CS250%20Python%20for%20Data%20Science_1.webp" alt="CS250 Python for Data Science — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/CS250%20Python%20for%20Data%20Science_2.webp"><img src="certificates/Saylor%20Academy/CS250%20Python%20for%20Data%20Science_2.webp" alt="CS250 Python for Data Science — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/CS250%20Python%20for%20Data%20Science_2.webp"><img src="docs/Saylor%20Academy/CS250%20Python%20for%20Data%20Science_2.webp" alt="CS250 Python for Data Science — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 </tr>
@@ -2472,26 +2574,26 @@
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/CS302%20Software%20Engineering_1.webp"><img src="certificates/Saylor%20Academy/CS302%20Software%20Engineering_1.webp" alt="CS302 Software Engineering — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/CS302%20Software%20Engineering_1.webp"><img src="docs/Saylor%20Academy/CS302%20Software%20Engineering_1.webp" alt="CS302 Software Engineering — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/CS302%20Software%20Engineering_2.webp"><img src="certificates/Saylor%20Academy/CS302%20Software%20Engineering_2.webp" alt="CS302 Software Engineering — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/CS302%20Software%20Engineering_2.webp"><img src="docs/Saylor%20Academy/CS302%20Software%20Engineering_2.webp" alt="CS302 Software Engineering — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/CS402%20Computer%20Communications%20and%20Networks_1.webp"><img src="certificates/Saylor%20Academy/CS402%20Computer%20Communications%20and%20Networks_1.webp" alt="CS402 Computer Communications and Networks — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/CS402%20Computer%20Communications%20and%20Networks_1.webp"><img src="docs/Saylor%20Academy/CS402%20Computer%20Communications%20and%20Networks_1.webp" alt="CS402 Computer Communications and Networks — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/CS402%20Computer%20Communications%20and%20Networks_2.webp"><img src="certificates/Saylor%20Academy/CS402%20Computer%20Communications%20and%20Networks_2.webp" alt="CS402 Computer Communications and Networks — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/CS402%20Computer%20Communications%20and%20Networks_2.webp"><img src="docs/Saylor%20Academy/CS402%20Computer%20Communications%20and%20Networks_2.webp" alt="CS402 Computer Communications and Networks — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/CS403%20Introduction%20to%20Modern%20Database%20Systems_1.webp"><img src="certificates/Saylor%20Academy/CS403%20Introduction%20to%20Modern%20Database%20Systems_1.webp" alt="CS403 Introduction to Modern Database Systems — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/CS403%20Introduction%20to%20Modern%20Database%20Systems_1.webp"><img src="docs/Saylor%20Academy/CS403%20Introduction%20to%20Modern%20Database%20Systems_1.webp" alt="CS403 Introduction to Modern Database Systems — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/CS403%20Introduction%20to%20Modern%20Database%20Systems_2.webp"><img src="certificates/Saylor%20Academy/CS403%20Introduction%20to%20Modern%20Database%20Systems_2.webp" alt="CS403 Introduction to Modern Database Systems — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/CS403%20Introduction%20to%20Modern%20Database%20Systems_2.webp"><img src="docs/Saylor%20Academy/CS403%20Introduction%20to%20Modern%20Database%20Systems_2.webp" alt="CS403 Introduction to Modern Database Systems — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 </tr>
@@ -2514,26 +2616,26 @@
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/CS406%20Information%20Security_1.webp"><img src="certificates/Saylor%20Academy/CS406%20Information%20Security_1.webp" alt="CS406 Information Security — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/CS406%20Information%20Security_1.webp"><img src="docs/Saylor%20Academy/CS406%20Information%20Security_1.webp" alt="CS406 Information Security — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/CS406%20Information%20Security_2.webp"><img src="certificates/Saylor%20Academy/CS406%20Information%20Security_2.webp" alt="CS406 Information Security — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/CS406%20Information%20Security_2.webp"><img src="docs/Saylor%20Academy/CS406%20Information%20Security_2.webp" alt="CS406 Information Security — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/ESL001%20Elementary%20English%20as%20a%20Second%20Language_1.webp"><img src="certificates/Saylor%20Academy/ESL001%20Elementary%20English%20as%20a%20Second%20Language_1.webp" alt="ESL001 Elementary English as a Second Language — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/ESL001%20Elementary%20English%20as%20a%20Second%20Language_1.webp"><img src="docs/Saylor%20Academy/ESL001%20Elementary%20English%20as%20a%20Second%20Language_1.webp" alt="ESL001 Elementary English as a Second Language — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/ESL001%20Elementary%20English%20as%20a%20Second%20Language_2.webp"><img src="certificates/Saylor%20Academy/ESL001%20Elementary%20English%20as%20a%20Second%20Language_2.webp" alt="ESL001 Elementary English as a Second Language — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/ESL001%20Elementary%20English%20as%20a%20Second%20Language_2.webp"><img src="docs/Saylor%20Academy/ESL001%20Elementary%20English%20as%20a%20Second%20Language_2.webp" alt="ESL001 Elementary English as a Second Language — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/ESL002%20Intermediate%20English%20as%20a%20Second%20Language_1.webp"><img src="certificates/Saylor%20Academy/ESL002%20Intermediate%20English%20as%20a%20Second%20Language_1.webp" alt="ESL002 Intermediate English as a Second Language — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/ESL002%20Intermediate%20English%20as%20a%20Second%20Language_1.webp"><img src="docs/Saylor%20Academy/ESL002%20Intermediate%20English%20as%20a%20Second%20Language_1.webp" alt="ESL002 Intermediate English as a Second Language — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/ESL002%20Intermediate%20English%20as%20a%20Second%20Language_2.webp"><img src="certificates/Saylor%20Academy/ESL002%20Intermediate%20English%20as%20a%20Second%20Language_2.webp" alt="ESL002 Intermediate English as a Second Language — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/ESL002%20Intermediate%20English%20as%20a%20Second%20Language_2.webp"><img src="docs/Saylor%20Academy/ESL002%20Intermediate%20English%20as%20a%20Second%20Language_2.webp" alt="ESL002 Intermediate English as a Second Language — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 </tr>
@@ -2556,26 +2658,26 @@
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/ESL003%20Upper-Intermediate%20English%20as%20a%20Second%20Language_1.webp"><img src="certificates/Saylor%20Academy/ESL003%20Upper-Intermediate%20English%20as%20a%20Second%20Language_1.webp" alt="ESL003 Upper-Intermediate English as a Second Language — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/ESL003%20Upper-Intermediate%20English%20as%20a%20Second%20Language_1.webp"><img src="docs/Saylor%20Academy/ESL003%20Upper-Intermediate%20English%20as%20a%20Second%20Language_1.webp" alt="ESL003 Upper-Intermediate English as a Second Language — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/ESL003%20Upper-Intermediate%20English%20as%20a%20Second%20Language_2.webp"><img src="certificates/Saylor%20Academy/ESL003%20Upper-Intermediate%20English%20as%20a%20Second%20Language_2.webp" alt="ESL003 Upper-Intermediate English as a Second Language — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/ESL003%20Upper-Intermediate%20English%20as%20a%20Second%20Language_2.webp"><img src="docs/Saylor%20Academy/ESL003%20Upper-Intermediate%20English%20as%20a%20Second%20Language_2.webp" alt="ESL003 Upper-Intermediate English as a Second Language — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/ESL004%20Advanced%20English%20as%20a%20Second%20Language_1.webp"><img src="certificates/Saylor%20Academy/ESL004%20Advanced%20English%20as%20a%20Second%20Language_1.webp" alt="ESL004 Advanced English as a Second Language — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/ESL004%20Advanced%20English%20as%20a%20Second%20Language_1.webp"><img src="docs/Saylor%20Academy/ESL004%20Advanced%20English%20as%20a%20Second%20Language_1.webp" alt="ESL004 Advanced English as a Second Language — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/ESL004%20Advanced%20English%20as%20a%20Second%20Language_2.webp"><img src="certificates/Saylor%20Academy/ESL004%20Advanced%20English%20as%20a%20Second%20Language_2.webp" alt="ESL004 Advanced English as a Second Language — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/ESL004%20Advanced%20English%20as%20a%20Second%20Language_2.webp"><img src="docs/Saylor%20Academy/ESL004%20Advanced%20English%20as%20a%20Second%20Language_2.webp" alt="ESL004 Advanced English as a Second Language — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/ESL005%20Business-Proficient%20English%20as%20a%20Second%20Language_1.webp"><img src="certificates/Saylor%20Academy/ESL005%20Business-Proficient%20English%20as%20a%20Second%20Language_1.webp" alt="ESL005 Business-Proficient English as a Second Language — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/ESL005%20Business-Proficient%20English%20as%20a%20Second%20Language_1.webp"><img src="docs/Saylor%20Academy/ESL005%20Business-Proficient%20English%20as%20a%20Second%20Language_1.webp" alt="ESL005 Business-Proficient English as a Second Language — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/ESL005%20Business-Proficient%20English%20as%20a%20Second%20Language_2.webp"><img src="certificates/Saylor%20Academy/ESL005%20Business-Proficient%20English%20as%20a%20Second%20Language_2.webp" alt="ESL005 Business-Proficient English as a Second Language — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/ESL005%20Business-Proficient%20English%20as%20a%20Second%20Language_2.webp"><img src="docs/Saylor%20Academy/ESL005%20Business-Proficient%20English%20as%20a%20Second%20Language_2.webp" alt="ESL005 Business-Proficient English as a Second Language — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 </tr>
@@ -2598,26 +2700,26 @@
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/MA121%20Introduction%20to%20Statistics_1.webp"><img src="certificates/Saylor%20Academy/MA121%20Introduction%20to%20Statistics_1.webp" alt="MA121 Introduction to Statistics — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/MA121%20Introduction%20to%20Statistics_1.webp"><img src="docs/Saylor%20Academy/MA121%20Introduction%20to%20Statistics_1.webp" alt="MA121 Introduction to Statistics — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/MA121%20Introduction%20to%20Statistics_2.webp"><img src="certificates/Saylor%20Academy/MA121%20Introduction%20to%20Statistics_2.webp" alt="MA121 Introduction to Statistics — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/MA121%20Introduction%20to%20Statistics_2.webp"><img src="docs/Saylor%20Academy/MA121%20Introduction%20to%20Statistics_2.webp" alt="MA121 Introduction to Statistics — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV005%20Time%20and%20Stress%20Management_1.webp"><img src="certificates/Saylor%20Academy/PRDV005%20Time%20and%20Stress%20Management_1.webp" alt="PRDV005 Time and Stress Management — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV005%20Time%20and%20Stress%20Management_1.webp"><img src="docs/Saylor%20Academy/PRDV005%20Time%20and%20Stress%20Management_1.webp" alt="PRDV005 Time and Stress Management — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV005%20Time%20and%20Stress%20Management_2.webp"><img src="certificates/Saylor%20Academy/PRDV005%20Time%20and%20Stress%20Management_2.webp" alt="PRDV005 Time and Stress Management — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV005%20Time%20and%20Stress%20Management_2.webp"><img src="docs/Saylor%20Academy/PRDV005%20Time%20and%20Stress%20Management_2.webp" alt="PRDV005 Time and Stress Management — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV104%20Professional%20Etiquette_1.webp"><img src="certificates/Saylor%20Academy/PRDV104%20Professional%20Etiquette_1.webp" alt="PRDV104 Professional Etiquette — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV104%20Professional%20Etiquette_1.webp"><img src="docs/Saylor%20Academy/PRDV104%20Professional%20Etiquette_1.webp" alt="PRDV104 Professional Etiquette — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV104%20Professional%20Etiquette_2.webp"><img src="certificates/Saylor%20Academy/PRDV104%20Professional%20Etiquette_2.webp" alt="PRDV104 Professional Etiquette — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV104%20Professional%20Etiquette_2.webp"><img src="docs/Saylor%20Academy/PRDV104%20Professional%20Etiquette_2.webp" alt="PRDV104 Professional Etiquette — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 </tr>
@@ -2640,26 +2742,26 @@
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV200%20Communicating%20with%20Data_1.webp"><img src="certificates/Saylor%20Academy/PRDV200%20Communicating%20with%20Data_1.webp" alt="PRDV200 Communicating with Data — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV200%20Communicating%20with%20Data_1.webp"><img src="docs/Saylor%20Academy/PRDV200%20Communicating%20with%20Data_1.webp" alt="PRDV200 Communicating with Data — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV200%20Communicating%20with%20Data_2.webp"><img src="certificates/Saylor%20Academy/PRDV200%20Communicating%20with%20Data_2.webp" alt="PRDV200 Communicating with Data — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV200%20Communicating%20with%20Data_2.webp"><img src="docs/Saylor%20Academy/PRDV200%20Communicating%20with%20Data_2.webp" alt="PRDV200 Communicating with Data — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV214%20Organizational%20Communication_1.webp"><img src="certificates/Saylor%20Academy/PRDV214%20Organizational%20Communication_1.webp" alt="PRDV214 Organizational Communication — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV214%20Organizational%20Communication_1.webp"><img src="docs/Saylor%20Academy/PRDV214%20Organizational%20Communication_1.webp" alt="PRDV214 Organizational Communication — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV214%20Organizational%20Communication_2.webp"><img src="certificates/Saylor%20Academy/PRDV214%20Organizational%20Communication_2.webp" alt="PRDV214 Organizational Communication — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV214%20Organizational%20Communication_2.webp"><img src="docs/Saylor%20Academy/PRDV214%20Organizational%20Communication_2.webp" alt="PRDV214 Organizational Communication — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV224%20Leadership%20and%20Teams_1.webp"><img src="certificates/Saylor%20Academy/PRDV224%20Leadership%20and%20Teams_1.webp" alt="PRDV224 Leadership and Teams — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV224%20Leadership%20and%20Teams_1.webp"><img src="docs/Saylor%20Academy/PRDV224%20Leadership%20and%20Teams_1.webp" alt="PRDV224 Leadership and Teams — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV224%20Leadership%20and%20Teams_2.webp"><img src="certificates/Saylor%20Academy/PRDV224%20Leadership%20and%20Teams_2.webp" alt="PRDV224 Leadership and Teams — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV224%20Leadership%20and%20Teams_2.webp"><img src="docs/Saylor%20Academy/PRDV224%20Leadership%20and%20Teams_2.webp" alt="PRDV224 Leadership and Teams — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 </tr>
@@ -2682,26 +2784,26 @@
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV225%20Managing%20Employees_1.webp"><img src="certificates/Saylor%20Academy/PRDV225%20Managing%20Employees_1.webp" alt="PRDV225 Managing Employees — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV225%20Managing%20Employees_1.webp"><img src="docs/Saylor%20Academy/PRDV225%20Managing%20Employees_1.webp" alt="PRDV225 Managing Employees — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV225%20Managing%20Employees_2.webp"><img src="certificates/Saylor%20Academy/PRDV225%20Managing%20Employees_2.webp" alt="PRDV225 Managing Employees — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV225%20Managing%20Employees_2.webp"><img src="docs/Saylor%20Academy/PRDV225%20Managing%20Employees_2.webp" alt="PRDV225 Managing Employees — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV226%20Introduction%20to%20Human%20Resource%20Management_1.webp"><img src="certificates/Saylor%20Academy/PRDV226%20Introduction%20to%20Human%20Resource%20Management_1.webp" alt="PRDV226 Introduction to Human Resource Management — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV226%20Introduction%20to%20Human%20Resource%20Management_1.webp"><img src="docs/Saylor%20Academy/PRDV226%20Introduction%20to%20Human%20Resource%20Management_1.webp" alt="PRDV226 Introduction to Human Resource Management — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV226%20Introduction%20to%20Human%20Resource%20Management_2.webp"><img src="certificates/Saylor%20Academy/PRDV226%20Introduction%20to%20Human%20Resource%20Management_2.webp" alt="PRDV226 Introduction to Human Resource Management — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV226%20Introduction%20to%20Human%20Resource%20Management_2.webp"><img src="docs/Saylor%20Academy/PRDV226%20Introduction%20to%20Human%20Resource%20Management_2.webp" alt="PRDV226 Introduction to Human Resource Management — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV227%20Introduction%20to%20Business%20Planning%20and%20Strategy_1.webp"><img src="certificates/Saylor%20Academy/PRDV227%20Introduction%20to%20Business%20Planning%20and%20Strategy_1.webp" alt="PRDV227 Introduction to Business Planning and Strategy — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV227%20Introduction%20to%20Business%20Planning%20and%20Strategy_1.webp"><img src="docs/Saylor%20Academy/PRDV227%20Introduction%20to%20Business%20Planning%20and%20Strategy_1.webp" alt="PRDV227 Introduction to Business Planning and Strategy — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV227%20Introduction%20to%20Business%20Planning%20and%20Strategy_2.webp"><img src="certificates/Saylor%20Academy/PRDV227%20Introduction%20to%20Business%20Planning%20and%20Strategy_2.webp" alt="PRDV227 Introduction to Business Planning and Strategy — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV227%20Introduction%20to%20Business%20Planning%20and%20Strategy_2.webp"><img src="docs/Saylor%20Academy/PRDV227%20Introduction%20to%20Business%20Planning%20and%20Strategy_2.webp" alt="PRDV227 Introduction to Business Planning and Strategy — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 </tr>
@@ -2724,26 +2826,26 @@
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV228%20Decision-Making_1.webp"><img src="certificates/Saylor%20Academy/PRDV228%20Decision-Making_1.webp" alt="PRDV228 Decision-Making — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV228%20Decision-Making_1.webp"><img src="docs/Saylor%20Academy/PRDV228%20Decision-Making_1.webp" alt="PRDV228 Decision-Making — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV228%20Decision-Making_2.webp"><img src="certificates/Saylor%20Academy/PRDV228%20Decision-Making_2.webp" alt="PRDV228 Decision-Making — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV228%20Decision-Making_2.webp"><img src="docs/Saylor%20Academy/PRDV228%20Decision-Making_2.webp" alt="PRDV228 Decision-Making — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV229%20Organization%20Structure%2C%20Change%2C%20and%20the%20Future%20of%20Management_1.webp"><img src="certificates/Saylor%20Academy/PRDV229%20Organization%20Structure%2C%20Change%2C%20and%20the%20Future%20of%20Management_1.webp" alt="PRDV229 Organization Structure, Change, and the Future of Management — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV229%20Organization%20Structure%2C%20Change%2C%20and%20the%20Future%20of%20Management_1.webp"><img src="docs/Saylor%20Academy/PRDV229%20Organization%20Structure%2C%20Change%2C%20and%20the%20Future%20of%20Management_1.webp" alt="PRDV229 Organization Structure, Change, and the Future of Management — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV229%20Organization%20Structure%2C%20Change%2C%20and%20the%20Future%20of%20Management_2.webp"><img src="certificates/Saylor%20Academy/PRDV229%20Organization%20Structure%2C%20Change%2C%20and%20the%20Future%20of%20Management_2.webp" alt="PRDV229 Organization Structure, Change, and the Future of Management — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV229%20Organization%20Structure%2C%20Change%2C%20and%20the%20Future%20of%20Management_2.webp"><img src="docs/Saylor%20Academy/PRDV229%20Organization%20Structure%2C%20Change%2C%20and%20the%20Future%20of%20Management_2.webp" alt="PRDV229 Organization Structure, Change, and the Future of Management — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV231%20Elements%20of%20Ethical%20Leadership_1.webp"><img src="certificates/Saylor%20Academy/PRDV231%20Elements%20of%20Ethical%20Leadership_1.webp" alt="PRDV231 Elements of Ethical Leadership — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV231%20Elements%20of%20Ethical%20Leadership_1.webp"><img src="docs/Saylor%20Academy/PRDV231%20Elements%20of%20Ethical%20Leadership_1.webp" alt="PRDV231 Elements of Ethical Leadership — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV231%20Elements%20of%20Ethical%20Leadership_2.webp"><img src="certificates/Saylor%20Academy/PRDV231%20Elements%20of%20Ethical%20Leadership_2.webp" alt="PRDV231 Elements of Ethical Leadership — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV231%20Elements%20of%20Ethical%20Leadership_2.webp"><img src="docs/Saylor%20Academy/PRDV231%20Elements%20of%20Ethical%20Leadership_2.webp" alt="PRDV231 Elements of Ethical Leadership — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 </tr>
@@ -2766,26 +2868,26 @@
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV401%20Introduction%20to%20JavaScript%20I_1.webp"><img src="certificates/Saylor%20Academy/PRDV401%20Introduction%20to%20JavaScript%20I_1.webp" alt="PRDV401 Introduction to JavaScript I — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV401%20Introduction%20to%20JavaScript%20I_1.webp"><img src="docs/Saylor%20Academy/PRDV401%20Introduction%20to%20JavaScript%20I_1.webp" alt="PRDV401 Introduction to JavaScript I — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV401%20Introduction%20to%20JavaScript%20I_2.webp"><img src="certificates/Saylor%20Academy/PRDV401%20Introduction%20to%20JavaScript%20I_2.webp" alt="PRDV401 Introduction to JavaScript I — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV401%20Introduction%20to%20JavaScript%20I_2.webp"><img src="docs/Saylor%20Academy/PRDV401%20Introduction%20to%20JavaScript%20I_2.webp" alt="PRDV401 Introduction to JavaScript I — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV402%20Introduction%20to%20JavaScript%20II_1.webp"><img src="certificates/Saylor%20Academy/PRDV402%20Introduction%20to%20JavaScript%20II_1.webp" alt="PRDV402 Introduction to JavaScript II — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV402%20Introduction%20to%20JavaScript%20II_1.webp"><img src="docs/Saylor%20Academy/PRDV402%20Introduction%20to%20JavaScript%20II_1.webp" alt="PRDV402 Introduction to JavaScript II — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV402%20Introduction%20to%20JavaScript%20II_2.webp"><img src="certificates/Saylor%20Academy/PRDV402%20Introduction%20to%20JavaScript%20II_2.webp" alt="PRDV402 Introduction to JavaScript II — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV402%20Introduction%20to%20JavaScript%20II_2.webp"><img src="docs/Saylor%20Academy/PRDV402%20Introduction%20to%20JavaScript%20II_2.webp" alt="PRDV402 Introduction to JavaScript II — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV410%20Introduction%20to%20Java%20and%20Object-Oriented%20Programming_1.webp"><img src="certificates/Saylor%20Academy/PRDV410%20Introduction%20to%20Java%20and%20Object-Oriented%20Programming_1.webp" alt="PRDV410 Introduction to Java and Object-Oriented Programming — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV410%20Introduction%20to%20Java%20and%20Object-Oriented%20Programming_1.webp"><img src="docs/Saylor%20Academy/PRDV410%20Introduction%20to%20Java%20and%20Object-Oriented%20Programming_1.webp" alt="PRDV410 Introduction to Java and Object-Oriented Programming — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV410%20Introduction%20to%20Java%20and%20Object-Oriented%20Programming_2.webp"><img src="certificates/Saylor%20Academy/PRDV410%20Introduction%20to%20Java%20and%20Object-Oriented%20Programming_2.webp" alt="PRDV410 Introduction to Java and Object-Oriented Programming — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV410%20Introduction%20to%20Java%20and%20Object-Oriented%20Programming_2.webp"><img src="docs/Saylor%20Academy/PRDV410%20Introduction%20to%20Java%20and%20Object-Oriented%20Programming_2.webp" alt="PRDV410 Introduction to Java and Object-Oriented Programming — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 </tr>
@@ -2805,33 +2907,35 @@
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV420%20Introduction%20to%20R%20Programming_1.webp"><img src="certificates/Saylor%20Academy/PRDV420%20Introduction%20to%20R%20Programming_1.webp" alt="PRDV420 Introduction to R Programming — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV420%20Introduction%20to%20R%20Programming_1.webp"><img src="docs/Saylor%20Academy/PRDV420%20Introduction%20to%20R%20Programming_1.webp" alt="PRDV420 Introduction to R Programming — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV420%20Introduction%20to%20R%20Programming_2.webp"><img src="certificates/Saylor%20Academy/PRDV420%20Introduction%20to%20R%20Programming_2.webp" alt="PRDV420 Introduction to R Programming — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV420%20Introduction%20to%20R%20Programming_2.webp"><img src="docs/Saylor%20Academy/PRDV420%20Introduction%20to%20R%20Programming_2.webp" alt="PRDV420 Introduction to R Programming — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/Saylor%20Academy/PRDV430%20AI%20for%20Business%20Applications_1.webp"><img src="certificates/Saylor%20Academy/PRDV430%20AI%20for%20Business%20Applications_1.webp" alt="PRDV430 AI for Business Applications — Страница 1" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV430%20AI%20for%20Business%20Applications_1.webp"><img src="docs/Saylor%20Academy/PRDV430%20AI%20for%20Business%20Applications_1.webp" alt="PRDV430 AI for Business Applications — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/Saylor%20Academy/PRDV430%20AI%20for%20Business%20Applications_2.webp"><img src="certificates/Saylor%20Academy/PRDV430%20AI%20for%20Business%20Applications_2.webp" alt="PRDV430 AI for Business Applications — Страница 2" width="250"></a>
+<a href="docs/Saylor%20Academy/PRDV430%20AI%20for%20Business%20Applications_2.webp"><img src="docs/Saylor%20Academy/PRDV430%20AI%20for%20Business%20Applications_2.webp" alt="PRDV430 AI for Business Applications — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="semrush-academy"></a>
 
 ## Semrush Academy
 
 <div align="center">
 
-**Сертификатов: 3**
+**Документов: 3**
 
 </div>
 
@@ -2850,27 +2954,29 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Semrush%20Academy/Crafting%20a%20Winning%20SEO%20Strategy%20-%20A%20Guide%20for%20In-House%20Marketers.webp"><img src="certificates/Semrush%20Academy/Crafting%20a%20Winning%20SEO%20Strategy%20-%20A%20Guide%20for%20In-House%20Marketers.webp" alt="Crafting a Winning SEO Strategy - A Guide for In-House Marketers" width="250"></a>
+<a href="docs/Semrush%20Academy/Crafting%20a%20Winning%20SEO%20Strategy%20-%20A%20Guide%20for%20In-House%20Marketers.webp"><img src="docs/Semrush%20Academy/Crafting%20a%20Winning%20SEO%20Strategy%20-%20A%20Guide%20for%20In-House%20Marketers.webp" alt="Crafting a Winning SEO Strategy - A Guide for In-House Marketers" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Semrush%20Academy/How%20to%20Get%20More%20Customers%20with%20Your%20Small%20Business%20Website%20with%20Wes%20McDowell.webp"><img src="certificates/Semrush%20Academy/How%20to%20Get%20More%20Customers%20with%20Your%20Small%20Business%20Website%20with%20Wes%20McDowell.webp" alt="How to Get More Customers with Your Small Business Website with Wes McDowell" width="250"></a>
+<a href="docs/Semrush%20Academy/How%20to%20Get%20More%20Customers%20with%20Your%20Small%20Business%20Website%20with%20Wes%20McDowell.webp"><img src="docs/Semrush%20Academy/How%20to%20Get%20More%20Customers%20with%20Your%20Small%20Business%20Website%20with%20Wes%20McDowell.webp" alt="How to Get More Customers with Your Small Business Website with Wes McDowell" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Semrush%20Academy/Maximizing%20ROI%20through%20Marketing%20Analytics%20-%20A%20Practical%20Guide%20for%20In-House%20Marketers.webp"><img src="certificates/Semrush%20Academy/Maximizing%20ROI%20through%20Marketing%20Analytics%20-%20A%20Practical%20Guide%20for%20In-House%20Marketers.webp" alt="Maximizing ROI through Marketing Analytics - A Practical Guide for In-House Marketers" width="250"></a>
+<a href="docs/Semrush%20Academy/Maximizing%20ROI%20through%20Marketing%20Analytics%20-%20A%20Practical%20Guide%20for%20In-House%20Marketers.webp"><img src="docs/Semrush%20Academy/Maximizing%20ROI%20through%20Marketing%20Analytics%20-%20A%20Practical%20Guide%20for%20In-House%20Marketers.webp" alt="Maximizing ROI through Marketing Analytics - A Practical Guide for In-House Marketers" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="simplilearn"></a>
 
 ## SimpliLearn
 
 <div align="center">
 
-**Сертификатов: 3**
+**Документов: 3**
 
 </div>
 
@@ -2889,27 +2995,29 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/SimpliLearn/Free%20Full%20Stack%20Developer%20Course.webp"><img src="certificates/SimpliLearn/Free%20Full%20Stack%20Developer%20Course.webp" alt="Free Full Stack Developer Course" width="250"></a>
+<a href="docs/SimpliLearn/Free%20Full%20Stack%20Developer%20Course.webp"><img src="docs/SimpliLearn/Free%20Full%20Stack%20Developer%20Course.webp" alt="Free Full Stack Developer Course" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/SimpliLearn/Free%20Project%20Manager%20Course.webp"><img src="certificates/SimpliLearn/Free%20Project%20Manager%20Course.webp" alt="Free Project Manager Course" width="250"></a>
+<a href="docs/SimpliLearn/Free%20Project%20Manager%20Course.webp"><img src="docs/SimpliLearn/Free%20Project%20Manager%20Course.webp" alt="Free Project Manager Course" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/SimpliLearn/Machine%20Learning%20Using%20Python.webp"><img src="certificates/SimpliLearn/Machine%20Learning%20Using%20Python.webp" alt="Machine Learning Using Python" width="250"></a>
+<a href="docs/SimpliLearn/Machine%20Learning%20Using%20Python.webp"><img src="docs/SimpliLearn/Machine%20Learning%20Using%20Python.webp" alt="Machine Learning Using Python" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="stepik"></a>
 
 ## Stepik
 
 <div align="center">
 
-**Сертификатов: 4**
+**Документов: 4**
 
 </div>
 
@@ -2928,13 +3036,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Stepik/Algorithms%3A%20Theory%20and%20Practice%20%E2%80%94%20Data%20Structures.webp"><img src="certificates/Stepik/Algorithms%3A%20Theory%20and%20Practice%20%E2%80%94%20Data%20Structures.webp" alt="Algorithms: Theory and Practice — Data Structures" width="250"></a>
+<a href="docs/Stepik/Algorithms%3A%20Theory%20and%20Practice%20%E2%80%94%20Data%20Structures.webp"><img src="docs/Stepik/Algorithms%3A%20Theory%20and%20Practice%20%E2%80%94%20Data%20Structures.webp" alt="Algorithms: Theory and Practice — Data Structures" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Stepik/Business%20English%20%28Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20-%20RUDN%20University%29.webp"><img src="certificates/Stepik/Business%20English%20%28Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20-%20RUDN%20University%29.webp" alt="Business English (Peoples' Friendship University of Russia named after Patrice Lumumba - RUDN University)" width="250"></a>
+<a href="docs/Stepik/Business%20English%20%28Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20-%20RUDN%20University%29.webp"><img src="docs/Stepik/Business%20English%20%28Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20-%20RUDN%20University%29.webp" alt="Business English (Peoples' Friendship University of Russia named after Patrice Lumumba - RUDN University)" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Stepik/Extreme%20Combinatorics%20by%20A.%20M.%20Raygorodskii%20Moscow%20Institute%20of%20Physics%20and%20Technology%20%28National%20Research%20University%3B%20MIPT%29.webp"><img src="certificates/Stepik/Extreme%20Combinatorics%20by%20A.%20M.%20Raygorodskii%20Moscow%20Institute%20of%20Physics%20and%20Technology%20%28National%20Research%20University%3B%20MIPT%29.webp" alt="Extreme Combinatorics by A. M. Raygorodskii Moscow Institute of Physics and Technology (National Research University; MIPT)" width="250"></a>
+<a href="docs/Stepik/Extreme%20Combinatorics%20by%20A.%20M.%20Raygorodskii%20Moscow%20Institute%20of%20Physics%20and%20Technology%20%28National%20Research%20University%3B%20MIPT%29.webp"><img src="docs/Stepik/Extreme%20Combinatorics%20by%20A.%20M.%20Raygorodskii%20Moscow%20Institute%20of%20Physics%20and%20Technology%20%28National%20Research%20University%3B%20MIPT%29.webp" alt="Extreme Combinatorics by A. M. Raygorodskii Moscow Institute of Physics and Technology (National Research University; MIPT)" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -2949,21 +3057,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Stepik/Mathematical%20Teletraffic%20Theory%20%28Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20-%20RUDN%20University%29.webp"><img src="certificates/Stepik/Mathematical%20Teletraffic%20Theory%20%28Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20-%20RUDN%20University%29.webp" alt="Mathematical Teletraffic Theory (Peoples' Friendship University of Russia named after Patrice Lumumba - RUDN University)" width="250"></a>
+<a href="docs/Stepik/Mathematical%20Teletraffic%20Theory%20%28Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20-%20RUDN%20University%29.webp"><img src="docs/Stepik/Mathematical%20Teletraffic%20Theory%20%28Peoples%27%20Friendship%20University%20of%20Russia%20named%20after%20Patrice%20Lumumba%20-%20RUDN%20University%29.webp" alt="Mathematical Teletraffic Theory (Peoples' Friendship University of Russia named after Patrice Lumumba - RUDN University)" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="systems-applications-and-products-in-data-processing-sap-learning"></a>
 
 ## Systems, Applications, and Products in Data Processing (SAP) Learning
 
 <div align="center">
 
-**Сертификатов: 7**
+**Документов: 7**
 
 </div>
 
@@ -2982,13 +3092,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Develop%20and%20Automate%20with%20SAP%20Build.webp"><img src="certificates/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Develop%20and%20Automate%20with%20SAP%20Build.webp" alt="Develop and Automate with SAP Build" width="250"></a>
+<a href="docs/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Develop%20and%20Automate%20with%20SAP%20Build.webp"><img src="docs/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Develop%20and%20Automate%20with%20SAP%20Build.webp" alt="Develop and Automate with SAP Build" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Exploring%20SAP%20Analytics%20Cloud.webp"><img src="certificates/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Exploring%20SAP%20Analytics%20Cloud.webp" alt="Exploring SAP Analytics Cloud" width="250"></a>
+<a href="docs/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Exploring%20SAP%20Analytics%20Cloud.webp"><img src="docs/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Exploring%20SAP%20Analytics%20Cloud.webp" alt="Exploring SAP Analytics Cloud" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Exploring%20SAP%20Business%20Technology%20Platform.webp"><img src="certificates/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Exploring%20SAP%20Business%20Technology%20Platform.webp" alt="Exploring SAP Business Technology Platform" width="250"></a>
+<a href="docs/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Exploring%20SAP%20Business%20Technology%20Platform.webp"><img src="docs/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Exploring%20SAP%20Business%20Technology%20Platform.webp" alt="Exploring SAP Business Technology Platform" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -3009,13 +3119,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Getting%20Started%20with%20SAP%20Cloud%20Application%20Programming%20Model.webp"><img src="certificates/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Getting%20Started%20with%20SAP%20Cloud%20Application%20Programming%20Model.webp" alt="Getting Started with SAP Cloud Application Programming Model" width="250"></a>
+<a href="docs/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Getting%20Started%20with%20SAP%20Cloud%20Application%20Programming%20Model.webp"><img src="docs/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Getting%20Started%20with%20SAP%20Cloud%20Application%20Programming%20Model.webp" alt="Getting Started with SAP Cloud Application Programming Model" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Implementing%20with%20SAP%20Cloud%20ALM.webp"><img src="certificates/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Implementing%20with%20SAP%20Cloud%20ALM.webp" alt="Implementing with SAP Cloud ALM" width="250"></a>
+<a href="docs/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Implementing%20with%20SAP%20Cloud%20ALM.webp"><img src="docs/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Implementing%20with%20SAP%20Cloud%20ALM.webp" alt="Implementing with SAP Cloud ALM" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Introducing%20SAP%20Cloud%20ALM.webp"><img src="certificates/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Introducing%20SAP%20Cloud%20ALM.webp" alt="Introducing SAP Cloud ALM" width="250"></a>
+<a href="docs/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Introducing%20SAP%20Cloud%20ALM.webp"><img src="docs/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Introducing%20SAP%20Cloud%20ALM.webp" alt="Introducing SAP Cloud ALM" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -3030,21 +3140,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Operating%20with%20SAP%20Cloud%20ALM.webp"><img src="certificates/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Operating%20with%20SAP%20Cloud%20ALM.webp" alt="Operating with SAP Cloud ALM" width="250"></a>
+<a href="docs/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Operating%20with%20SAP%20Cloud%20ALM.webp"><img src="docs/Systems%2C%20Applications%2C%20and%20Products%20in%20Data%20Processing%20%28SAP%29%20Learning/Operating%20with%20SAP%20Cloud%20ALM.webp" alt="Operating with SAP Cloud ALM" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="technical-education-and-skills-development-authority-tesda-national-institute-for-technical-education-and-skills-development-nitesd"></a>
 
 ## Technical Education and Skills Development Authority (TESDA) — National Institute for Technical Education and Skills Development (NITESD)
 
 <div align="center">
 
-**Сертификатов: 4**
+**Документов: 4**
 
 </div>
 
@@ -3063,13 +3175,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Technical%20Education%20and%20Skills%20Development%20Authority%20%28TESDA%29%20%E2%80%94%20National%20Institute%20for%20Technical%20Education%20and%20Skills%20Development%20%28NITESD%29/Developing%20Designs%20for%20User%20Experience.webp"><img src="certificates/Technical%20Education%20and%20Skills%20Development%20Authority%20%28TESDA%29%20%E2%80%94%20National%20Institute%20for%20Technical%20Education%20and%20Skills%20Development%20%28NITESD%29/Developing%20Designs%20for%20User%20Experience.webp" alt="Developing Designs for User Experience" width="250"></a>
+<a href="docs/Technical%20Education%20and%20Skills%20Development%20Authority%20%28TESDA%29%20%E2%80%94%20National%20Institute%20for%20Technical%20Education%20and%20Skills%20Development%20%28NITESD%29/Developing%20Designs%20for%20User%20Experience.webp"><img src="docs/Technical%20Education%20and%20Skills%20Development%20Authority%20%28TESDA%29%20%E2%80%94%20National%20Institute%20for%20Technical%20Education%20and%20Skills%20Development%20%28NITESD%29/Developing%20Designs%20for%20User%20Experience.webp" alt="Developing Designs for User Experience" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Technical%20Education%20and%20Skills%20Development%20Authority%20%28TESDA%29%20%E2%80%94%20National%20Institute%20for%20Technical%20Education%20and%20Skills%20Development%20%28NITESD%29/Developing%20Designs%20for%20User%20Interface.webp"><img src="certificates/Technical%20Education%20and%20Skills%20Development%20Authority%20%28TESDA%29%20%E2%80%94%20National%20Institute%20for%20Technical%20Education%20and%20Skills%20Development%20%28NITESD%29/Developing%20Designs%20for%20User%20Interface.webp" alt="Developing Designs for User Interface" width="250"></a>
+<a href="docs/Technical%20Education%20and%20Skills%20Development%20Authority%20%28TESDA%29%20%E2%80%94%20National%20Institute%20for%20Technical%20Education%20and%20Skills%20Development%20%28NITESD%29/Developing%20Designs%20for%20User%20Interface.webp"><img src="docs/Technical%20Education%20and%20Skills%20Development%20Authority%20%28TESDA%29%20%E2%80%94%20National%20Institute%20for%20Technical%20Education%20and%20Skills%20Development%20%28NITESD%29/Developing%20Designs%20for%20User%20Interface.webp" alt="Developing Designs for User Interface" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Technical%20Education%20and%20Skills%20Development%20Authority%20%28TESDA%29%20%E2%80%94%20National%20Institute%20for%20Technical%20Education%20and%20Skills%20Development%20%28NITESD%29/English%20for%20Business%20and%20Entrepreneurship.webp"><img src="certificates/Technical%20Education%20and%20Skills%20Development%20Authority%20%28TESDA%29%20%E2%80%94%20National%20Institute%20for%20Technical%20Education%20and%20Skills%20Development%20%28NITESD%29/English%20for%20Business%20and%20Entrepreneurship.webp" alt="English for Business and Entrepreneurship" width="250"></a>
+<a href="docs/Technical%20Education%20and%20Skills%20Development%20Authority%20%28TESDA%29%20%E2%80%94%20National%20Institute%20for%20Technical%20Education%20and%20Skills%20Development%20%28NITESD%29/English%20for%20Business%20and%20Entrepreneurship.webp"><img src="docs/Technical%20Education%20and%20Skills%20Development%20Authority%20%28TESDA%29%20%E2%80%94%20National%20Institute%20for%20Technical%20Education%20and%20Skills%20Development%20%28NITESD%29/English%20for%20Business%20and%20Entrepreneurship.webp" alt="English for Business and Entrepreneurship" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -3084,21 +3196,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Technical%20Education%20and%20Skills%20Development%20Authority%20%28TESDA%29%20%E2%80%94%20National%20Institute%20for%20Technical%20Education%20and%20Skills%20Development%20%28NITESD%29/English%20for%20Science%2C%20Technology%2C%20Engineering%2C%20and%20Mathematics%20%28eSTEM%29.webp"><img src="certificates/Technical%20Education%20and%20Skills%20Development%20Authority%20%28TESDA%29%20%E2%80%94%20National%20Institute%20for%20Technical%20Education%20and%20Skills%20Development%20%28NITESD%29/English%20for%20Science%2C%20Technology%2C%20Engineering%2C%20and%20Mathematics%20%28eSTEM%29.webp" alt="English for Science, Technology, Engineering, and Mathematics (eSTEM)" width="250"></a>
+<a href="docs/Technical%20Education%20and%20Skills%20Development%20Authority%20%28TESDA%29%20%E2%80%94%20National%20Institute%20for%20Technical%20Education%20and%20Skills%20Development%20%28NITESD%29/English%20for%20Science%2C%20Technology%2C%20Engineering%2C%20and%20Mathematics%20%28eSTEM%29.webp"><img src="docs/Technical%20Education%20and%20Skills%20Development%20Authority%20%28TESDA%29%20%E2%80%94%20National%20Institute%20for%20Technical%20Education%20and%20Skills%20Development%20%28NITESD%29/English%20for%20Science%2C%20Technology%2C%20Engineering%2C%20and%20Mathematics%20%28eSTEM%29.webp" alt="English for Science, Technology, Engineering, and Mathematics (eSTEM)" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="test-automation-university"></a>
 
 ## Test Automation University
 
 <div align="center">
 
-**Сертификатов: 3**
+**Документов: 3**
 
 </div>
 
@@ -3117,27 +3231,29 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Test%20Automation%20University/Building%20Up%20Quality%20Leaders.webp"><img src="certificates/Test%20Automation%20University/Building%20Up%20Quality%20Leaders.webp" alt="Building Up Quality Leaders" width="250"></a>
+<a href="docs/Test%20Automation%20University/Building%20Up%20Quality%20Leaders.webp"><img src="docs/Test%20Automation%20University/Building%20Up%20Quality%20Leaders.webp" alt="Building Up Quality Leaders" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Test%20Automation%20University/Intro%20to%20Testing%20Machine%20Learning%20Models.webp"><img src="certificates/Test%20Automation%20University/Intro%20to%20Testing%20Machine%20Learning%20Models.webp" alt="Intro to Testing Machine Learning Models" width="250"></a>
+<a href="docs/Test%20Automation%20University/Intro%20to%20Testing%20Machine%20Learning%20Models.webp"><img src="docs/Test%20Automation%20University/Intro%20to%20Testing%20Machine%20Learning%20Models.webp" alt="Intro to Testing Machine Learning Models" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Test%20Automation%20University/Setting%20a%20Foundation%20for%20Successful%20Test%20Automation.webp"><img src="certificates/Test%20Automation%20University/Setting%20a%20Foundation%20for%20Successful%20Test%20Automation.webp" alt="Setting a Foundation for Successful Test Automation" width="250"></a>
+<a href="docs/Test%20Automation%20University/Setting%20a%20Foundation%20for%20Successful%20Test%20Automation.webp"><img src="docs/Test%20Automation%20University/Setting%20a%20Foundation%20for%20Successful%20Test%20Automation.webp" alt="Setting a Foundation for Successful Test Automation" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="the-open-university-openlearn"></a>
 
 ## The Open University (OpenLearn)
 
 <div align="center">
 
-**Сертификатов: 9**
+**Документов: 9**
 
 </div>
 
@@ -3157,26 +3273,26 @@
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/The%20Open%20University%20%28OpenLearn%29/Digital%20thinking%20tools%20for%20better%20decision%20making_1.webp"><img src="certificates/The%20Open%20University%20%28OpenLearn%29/Digital%20thinking%20tools%20for%20better%20decision%20making_1.webp" alt="Digital thinking tools for better decision making — Страница 1" width="250"></a>
+<a href="docs/The%20Open%20University%20%28OpenLearn%29/Digital%20thinking%20tools%20for%20better%20decision%20making_1.webp"><img src="docs/The%20Open%20University%20%28OpenLearn%29/Digital%20thinking%20tools%20for%20better%20decision%20making_1.webp" alt="Digital thinking tools for better decision making — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/The%20Open%20University%20%28OpenLearn%29/Digital%20thinking%20tools%20for%20better%20decision%20making_2.webp"><img src="certificates/The%20Open%20University%20%28OpenLearn%29/Digital%20thinking%20tools%20for%20better%20decision%20making_2.webp" alt="Digital thinking tools for better decision making — Страница 2" width="250"></a>
+<a href="docs/The%20Open%20University%20%28OpenLearn%29/Digital%20thinking%20tools%20for%20better%20decision%20making_2.webp"><img src="docs/The%20Open%20University%20%28OpenLearn%29/Digital%20thinking%20tools%20for%20better%20decision%20making_2.webp" alt="Digital thinking tools for better decision making — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/The%20Open%20University%20%28OpenLearn%29/Effective%20communication%20in%20the%20workplace_1.webp"><img src="certificates/The%20Open%20University%20%28OpenLearn%29/Effective%20communication%20in%20the%20workplace_1.webp" alt="Effective communication in the workplace — Страница 1" width="250"></a>
+<a href="docs/The%20Open%20University%20%28OpenLearn%29/Effective%20communication%20in%20the%20workplace_1.webp"><img src="docs/The%20Open%20University%20%28OpenLearn%29/Effective%20communication%20in%20the%20workplace_1.webp" alt="Effective communication in the workplace — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/The%20Open%20University%20%28OpenLearn%29/Effective%20communication%20in%20the%20workplace_2.webp"><img src="certificates/The%20Open%20University%20%28OpenLearn%29/Effective%20communication%20in%20the%20workplace_2.webp" alt="Effective communication in the workplace — Страница 2" width="250"></a>
+<a href="docs/The%20Open%20University%20%28OpenLearn%29/Effective%20communication%20in%20the%20workplace_2.webp"><img src="docs/The%20Open%20University%20%28OpenLearn%29/Effective%20communication%20in%20the%20workplace_2.webp" alt="Effective communication in the workplace — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/The%20Open%20University%20%28OpenLearn%29/English%20skills%20for%20learning_1.webp"><img src="certificates/The%20Open%20University%20%28OpenLearn%29/English%20skills%20for%20learning_1.webp" alt="English skills for learning — Страница 1" width="250"></a>
+<a href="docs/The%20Open%20University%20%28OpenLearn%29/English%20skills%20for%20learning_1.webp"><img src="docs/The%20Open%20University%20%28OpenLearn%29/English%20skills%20for%20learning_1.webp" alt="English skills for learning — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/The%20Open%20University%20%28OpenLearn%29/English%20skills%20for%20learning_2.webp"><img src="certificates/The%20Open%20University%20%28OpenLearn%29/English%20skills%20for%20learning_2.webp" alt="English skills for learning — Страница 2" width="250"></a>
+<a href="docs/The%20Open%20University%20%28OpenLearn%29/English%20skills%20for%20learning_2.webp"><img src="docs/The%20Open%20University%20%28OpenLearn%29/English%20skills%20for%20learning_2.webp" alt="English skills for learning — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 </tr>
@@ -3199,26 +3315,26 @@
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/The%20Open%20University%20%28OpenLearn%29/Everyday%20English%201_1.webp"><img src="certificates/The%20Open%20University%20%28OpenLearn%29/Everyday%20English%201_1.webp" alt="Everyday English 1 — Страница 1" width="250"></a>
+<a href="docs/The%20Open%20University%20%28OpenLearn%29/Everyday%20English%201_1.webp"><img src="docs/The%20Open%20University%20%28OpenLearn%29/Everyday%20English%201_1.webp" alt="Everyday English 1 — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/The%20Open%20University%20%28OpenLearn%29/Everyday%20English%201_2.webp"><img src="certificates/The%20Open%20University%20%28OpenLearn%29/Everyday%20English%201_2.webp" alt="Everyday English 1 — Страница 2" width="250"></a>
+<a href="docs/The%20Open%20University%20%28OpenLearn%29/Everyday%20English%201_2.webp"><img src="docs/The%20Open%20University%20%28OpenLearn%29/Everyday%20English%201_2.webp" alt="Everyday English 1 — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/The%20Open%20University%20%28OpenLearn%29/Everyday%20English%202_1.webp"><img src="certificates/The%20Open%20University%20%28OpenLearn%29/Everyday%20English%202_1.webp" alt="Everyday English 2 — Страница 1" width="250"></a>
+<a href="docs/The%20Open%20University%20%28OpenLearn%29/Everyday%20English%202_1.webp"><img src="docs/The%20Open%20University%20%28OpenLearn%29/Everyday%20English%202_1.webp" alt="Everyday English 2 — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/The%20Open%20University%20%28OpenLearn%29/Everyday%20English%202_2.webp"><img src="certificates/The%20Open%20University%20%28OpenLearn%29/Everyday%20English%202_2.webp" alt="Everyday English 2 — Страница 2" width="250"></a>
+<a href="docs/The%20Open%20University%20%28OpenLearn%29/Everyday%20English%202_2.webp"><img src="docs/The%20Open%20University%20%28OpenLearn%29/Everyday%20English%202_2.webp" alt="Everyday English 2 — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/The%20Open%20University%20%28OpenLearn%29/Leadership%20and%20followership_1.webp"><img src="certificates/The%20Open%20University%20%28OpenLearn%29/Leadership%20and%20followership_1.webp" alt="Leadership and followership — Страница 1" width="250"></a>
+<a href="docs/The%20Open%20University%20%28OpenLearn%29/Leadership%20and%20followership_1.webp"><img src="docs/The%20Open%20University%20%28OpenLearn%29/Leadership%20and%20followership_1.webp" alt="Leadership and followership — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/The%20Open%20University%20%28OpenLearn%29/Leadership%20and%20followership_2.webp"><img src="certificates/The%20Open%20University%20%28OpenLearn%29/Leadership%20and%20followership_2.webp" alt="Leadership and followership — Страница 2" width="250"></a>
+<a href="docs/The%20Open%20University%20%28OpenLearn%29/Leadership%20and%20followership_2.webp"><img src="docs/The%20Open%20University%20%28OpenLearn%29/Leadership%20and%20followership_2.webp" alt="Leadership and followership — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 </tr>
@@ -3241,44 +3357,46 @@
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 3</strong></sub><br><br>
-<a href="certificates/The%20Open%20University%20%28OpenLearn%29/Risk%20management_1.webp"><img src="certificates/The%20Open%20University%20%28OpenLearn%29/Risk%20management_1.webp" alt="Risk management — Страница 1" width="250"></a>
+<a href="docs/The%20Open%20University%20%28OpenLearn%29/Risk%20management_1.webp"><img src="docs/The%20Open%20University%20%28OpenLearn%29/Risk%20management_1.webp" alt="Risk management — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/The%20Open%20University%20%28OpenLearn%29/Risk%20management_2.webp"><img src="certificates/The%20Open%20University%20%28OpenLearn%29/Risk%20management_2.webp" alt="Risk management — Страница 2" width="250"></a>
+<a href="docs/The%20Open%20University%20%28OpenLearn%29/Risk%20management_2.webp"><img src="docs/The%20Open%20University%20%28OpenLearn%29/Risk%20management_2.webp" alt="Risk management — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 <br><br>
-<a href="certificates/The%20Open%20University%20%28OpenLearn%29/Risk%20management_3.webp"><img src="certificates/The%20Open%20University%20%28OpenLearn%29/Risk%20management_3.webp" alt="Risk management — Страница 3" width="250"></a>
+<a href="docs/The%20Open%20University%20%28OpenLearn%29/Risk%20management_3.webp"><img src="docs/The%20Open%20University%20%28OpenLearn%29/Risk%20management_3.webp" alt="Risk management — Страница 3" width="250"></a>
 <br><sub>Страница 3</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/The%20Open%20University%20%28OpenLearn%29/Succeed%20in%20the%20workplace_1.webp"><img src="certificates/The%20Open%20University%20%28OpenLearn%29/Succeed%20in%20the%20workplace_1.webp" alt="Succeed in the workplace — Страница 1" width="250"></a>
+<a href="docs/The%20Open%20University%20%28OpenLearn%29/Succeed%20in%20the%20workplace_1.webp"><img src="docs/The%20Open%20University%20%28OpenLearn%29/Succeed%20in%20the%20workplace_1.webp" alt="Succeed in the workplace — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/The%20Open%20University%20%28OpenLearn%29/Succeed%20in%20the%20workplace_2.webp"><img src="certificates/The%20Open%20University%20%28OpenLearn%29/Succeed%20in%20the%20workplace_2.webp" alt="Succeed in the workplace — Страница 2" width="250"></a>
+<a href="docs/The%20Open%20University%20%28OpenLearn%29/Succeed%20in%20the%20workplace_2.webp"><img src="docs/The%20Open%20University%20%28OpenLearn%29/Succeed%20in%20the%20workplace_2.webp" alt="Succeed in the workplace — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 2</strong></sub><br><br>
-<a href="certificates/The%20Open%20University%20%28OpenLearn%29/Succeed%20with%20learning_1.webp"><img src="certificates/The%20Open%20University%20%28OpenLearn%29/Succeed%20with%20learning_1.webp" alt="Succeed with learning — Страница 1" width="250"></a>
+<a href="docs/The%20Open%20University%20%28OpenLearn%29/Succeed%20with%20learning_1.webp"><img src="docs/The%20Open%20University%20%28OpenLearn%29/Succeed%20with%20learning_1.webp" alt="Succeed with learning — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/The%20Open%20University%20%28OpenLearn%29/Succeed%20with%20learning_2.webp"><img src="certificates/The%20Open%20University%20%28OpenLearn%29/Succeed%20with%20learning_2.webp" alt="Succeed with learning — Страница 2" width="250"></a>
+<a href="docs/The%20Open%20University%20%28OpenLearn%29/Succeed%20with%20learning_2.webp"><img src="docs/The%20Open%20University%20%28OpenLearn%29/Succeed%20with%20learning_2.webp" alt="Succeed with learning — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="uipath-academy"></a>
 
 ## UiPath Academy
 
 <div align="center">
 
-**Сертификатов: 2**
+**Документов: 2**
 
 </div>
 
@@ -3294,24 +3412,26 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/UiPath%20Academy/Automation%20Solution%20Architecture%20Fundamentals.webp"><img src="certificates/UiPath%20Academy/Automation%20Solution%20Architecture%20Fundamentals.webp" alt="Automation Solution Architecture Fundamentals" width="250"></a>
+<a href="docs/UiPath%20Academy/Automation%20Solution%20Architecture%20Fundamentals.webp"><img src="docs/UiPath%20Academy/Automation%20Solution%20Architecture%20Fundamentals.webp" alt="Automation Solution Architecture Fundamentals" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/UiPath%20Academy/Introduction%20to%20Automation.webp"><img src="certificates/UiPath%20Academy/Introduction%20to%20Automation.webp" alt="Introduction to Automation" width="250"></a>
+<a href="docs/UiPath%20Academy/Introduction%20to%20Automation.webp"><img src="docs/UiPath%20Academy/Introduction%20to%20Automation.webp" alt="Introduction to Automation" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="united-nations-childrens-fund-unicef-agora"></a>
 
 ## United Nations Children's Fund (UNICEF) Agora
 
 <div align="center">
 
-**Сертификатов: 1**
+**Документов: 1**
 
 </div>
 
@@ -3324,21 +3444,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/United%20Nations%20Children%27s%20Fund%20%28UNICEF%29%20Agora/Research%20and%20Evidence%20at%20UNICEF.webp"><img src="certificates/United%20Nations%20Children%27s%20Fund%20%28UNICEF%29%20Agora/Research%20and%20Evidence%20at%20UNICEF.webp" alt="Research and Evidence at UNICEF" width="250"></a>
+<a href="docs/United%20Nations%20Children%27s%20Fund%20%28UNICEF%29%20Agora/Research%20and%20Evidence%20at%20UNICEF.webp"><img src="docs/United%20Nations%20Children%27s%20Fund%20%28UNICEF%29%20Agora/Research%20and%20Evidence%20at%20UNICEF.webp" alt="Research and Evidence at UNICEF" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="united-nations-educational-scientific-and-cultural-organization-unesco-open-learning"></a>
 
 ## United Nations Educational, Scientific and Cultural Organization (UNESCO) Open Learning
 
 <div align="center">
 
-**Сертификатов: 3**
+**Документов: 3**
 
 </div>
 
@@ -3357,27 +3479,29 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/United%20Nations%20Educational%2C%20Scientific%20and%20Cultural%20Organization%20%28UNESCO%29%20Open%20Learning/Hydraulic%20Modeling%20with%20HEC-RAS.webp"><img src="certificates/United%20Nations%20Educational%2C%20Scientific%20and%20Cultural%20Organization%20%28UNESCO%29%20Open%20Learning/Hydraulic%20Modeling%20with%20HEC-RAS.webp" alt="Hydraulic Modeling with HEC-RAS" width="250"></a>
+<a href="docs/United%20Nations%20Educational%2C%20Scientific%20and%20Cultural%20Organization%20%28UNESCO%29%20Open%20Learning/Hydraulic%20Modeling%20with%20HEC-RAS.webp"><img src="docs/United%20Nations%20Educational%2C%20Scientific%20and%20Cultural%20Organization%20%28UNESCO%29%20Open%20Learning/Hydraulic%20Modeling%20with%20HEC-RAS.webp" alt="Hydraulic Modeling with HEC-RAS" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/United%20Nations%20Educational%2C%20Scientific%20and%20Cultural%20Organization%20%28UNESCO%29%20Open%20Learning/Hydrologic%20Modeling%20with%20HEC-HMS.webp"><img src="certificates/United%20Nations%20Educational%2C%20Scientific%20and%20Cultural%20Organization%20%28UNESCO%29%20Open%20Learning/Hydrologic%20Modeling%20with%20HEC-HMS.webp" alt="Hydrologic Modeling with HEC-HMS" width="250"></a>
+<a href="docs/United%20Nations%20Educational%2C%20Scientific%20and%20Cultural%20Organization%20%28UNESCO%29%20Open%20Learning/Hydrologic%20Modeling%20with%20HEC-HMS.webp"><img src="docs/United%20Nations%20Educational%2C%20Scientific%20and%20Cultural%20Organization%20%28UNESCO%29%20Open%20Learning/Hydrologic%20Modeling%20with%20HEC-HMS.webp" alt="Hydrologic Modeling with HEC-HMS" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/United%20Nations%20Educational%2C%20Scientific%20and%20Cultural%20Organization%20%28UNESCO%29%20Open%20Learning/Open%20Educational%20Resources%20%28OER%29%20Development.webp"><img src="certificates/United%20Nations%20Educational%2C%20Scientific%20and%20Cultural%20Organization%20%28UNESCO%29%20Open%20Learning/Open%20Educational%20Resources%20%28OER%29%20Development.webp" alt="Open Educational Resources (OER) Development" width="250"></a>
+<a href="docs/United%20Nations%20Educational%2C%20Scientific%20and%20Cultural%20Organization%20%28UNESCO%29%20Open%20Learning/Open%20Educational%20Resources%20%28OER%29%20Development.webp"><img src="docs/United%20Nations%20Educational%2C%20Scientific%20and%20Cultural%20Organization%20%28UNESCO%29%20Open%20Learning/Open%20Educational%20Resources%20%28OER%29%20Development.webp" alt="Open Educational Resources (OER) Development" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="united-states-department-of-state-online-professional-english-network-open-massive-open-online-courses-moocs"></a>
 
 ## United States Department of State — Online Professional English Network (OPEN) Massive Open Online Courses (MOOCs)
 
 <div align="center">
 
-**Сертификатов: 2**
+**Документов: 2**
 
 </div>
 
@@ -3394,51 +3518,53 @@
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 5</strong></sub><br><br>
-<a href="certificates/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Business%20and%20Entrepreneurship%20%28MOOC%29_1.webp"><img src="certificates/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Business%20and%20Entrepreneurship%20%28MOOC%29_1.webp" alt="English for Business and Entrepreneurship (MOOC) — Страница 1" width="250"></a>
+<a href="docs/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Business%20and%20Entrepreneurship%20%28MOOC%29_1.webp"><img src="docs/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Business%20and%20Entrepreneurship%20%28MOOC%29_1.webp" alt="English for Business and Entrepreneurship (MOOC) — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Business%20and%20Entrepreneurship%20%28MOOC%29_2.webp"><img src="certificates/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Business%20and%20Entrepreneurship%20%28MOOC%29_2.webp" alt="English for Business and Entrepreneurship (MOOC) — Страница 2" width="250"></a>
+<a href="docs/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Business%20and%20Entrepreneurship%20%28MOOC%29_2.webp"><img src="docs/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Business%20and%20Entrepreneurship%20%28MOOC%29_2.webp" alt="English for Business and Entrepreneurship (MOOC) — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 <br><br>
-<a href="certificates/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Business%20and%20Entrepreneurship%20%28MOOC%29_3.webp"><img src="certificates/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Business%20and%20Entrepreneurship%20%28MOOC%29_3.webp" alt="English for Business and Entrepreneurship (MOOC) — Страница 3" width="250"></a>
+<a href="docs/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Business%20and%20Entrepreneurship%20%28MOOC%29_3.webp"><img src="docs/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Business%20and%20Entrepreneurship%20%28MOOC%29_3.webp" alt="English for Business and Entrepreneurship (MOOC) — Страница 3" width="250"></a>
 <br><sub>Страница 3</sub>
 <br><br>
-<a href="certificates/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Business%20and%20Entrepreneurship%20%28MOOC%29_4.webp"><img src="certificates/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Business%20and%20Entrepreneurship%20%28MOOC%29_4.webp" alt="English for Business and Entrepreneurship (MOOC) — Страница 4" width="250"></a>
+<a href="docs/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Business%20and%20Entrepreneurship%20%28MOOC%29_4.webp"><img src="docs/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Business%20and%20Entrepreneurship%20%28MOOC%29_4.webp" alt="English for Business and Entrepreneurship (MOOC) — Страница 4" width="250"></a>
 <br><sub>Страница 4</sub>
 <br><br>
-<a href="certificates/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Business%20and%20Entrepreneurship%20%28MOOC%29_5.webp"><img src="certificates/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Business%20and%20Entrepreneurship%20%28MOOC%29_5.webp" alt="English for Business and Entrepreneurship (MOOC) — Страница 5" width="250"></a>
+<a href="docs/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Business%20and%20Entrepreneurship%20%28MOOC%29_5.webp"><img src="docs/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Business%20and%20Entrepreneurship%20%28MOOC%29_5.webp" alt="English for Business and Entrepreneurship (MOOC) — Страница 5" width="250"></a>
 <br><sub>Страница 5</sub>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <sub><strong>Всего страниц: 5</strong></sub><br><br>
-<a href="certificates/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Career%20Development%20%28MOOC%29_1.webp"><img src="certificates/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Career%20Development%20%28MOOC%29_1.webp" alt="English for Career Development (MOOC) — Страница 1" width="250"></a>
+<a href="docs/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Career%20Development%20%28MOOC%29_1.webp"><img src="docs/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Career%20Development%20%28MOOC%29_1.webp" alt="English for Career Development (MOOC) — Страница 1" width="250"></a>
 <br><sub>Страница 1</sub>
 <br><br>
-<a href="certificates/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Career%20Development%20%28MOOC%29_2.webp"><img src="certificates/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Career%20Development%20%28MOOC%29_2.webp" alt="English for Career Development (MOOC) — Страница 2" width="250"></a>
+<a href="docs/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Career%20Development%20%28MOOC%29_2.webp"><img src="docs/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Career%20Development%20%28MOOC%29_2.webp" alt="English for Career Development (MOOC) — Страница 2" width="250"></a>
 <br><sub>Страница 2</sub>
 <br><br>
-<a href="certificates/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Career%20Development%20%28MOOC%29_3.webp"><img src="certificates/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Career%20Development%20%28MOOC%29_3.webp" alt="English for Career Development (MOOC) — Страница 3" width="250"></a>
+<a href="docs/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Career%20Development%20%28MOOC%29_3.webp"><img src="docs/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Career%20Development%20%28MOOC%29_3.webp" alt="English for Career Development (MOOC) — Страница 3" width="250"></a>
 <br><sub>Страница 3</sub>
 <br><br>
-<a href="certificates/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Career%20Development%20%28MOOC%29_4.webp"><img src="certificates/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Career%20Development%20%28MOOC%29_4.webp" alt="English for Career Development (MOOC) — Страница 4" width="250"></a>
+<a href="docs/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Career%20Development%20%28MOOC%29_4.webp"><img src="docs/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Career%20Development%20%28MOOC%29_4.webp" alt="English for Career Development (MOOC) — Страница 4" width="250"></a>
 <br><sub>Страница 4</sub>
 <br><br>
-<a href="certificates/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Career%20Development%20%28MOOC%29_5.webp"><img src="certificates/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Career%20Development%20%28MOOC%29_5.webp" alt="English for Career Development (MOOC) — Страница 5" width="250"></a>
+<a href="docs/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Career%20Development%20%28MOOC%29_5.webp"><img src="docs/United%20States%20Department%20of%20State%20%E2%80%94%20Online%20Professional%20English%20Network%20%28OPEN%29%20Massive%20Open%20Online%20Courses%20%28MOOCs%29/English%20for%20Career%20Development%20%28MOOC%29_5.webp" alt="English for Career Development (MOOC) — Страница 5" width="250"></a>
 <br><sub>Страница 5</sub>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="university-of-helsinki-uh-houston-inc"></a>
 
 ## University of Helsinki (UH) — Houston Inc.
 
 <div align="center">
 
-**Сертификатов: 1**
+**Документов: 1**
 
 </div>
 
@@ -3451,21 +3577,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/University%20of%20Helsinki%20%28UH%29%20%E2%80%94%20Houston%20Inc./Full%20Stack%20Open.webp"><img src="certificates/University%20of%20Helsinki%20%28UH%29%20%E2%80%94%20Houston%20Inc./Full%20Stack%20Open.webp" alt="Full Stack Open" width="250"></a>
+<a href="docs/University%20of%20Helsinki%20%28UH%29%20%E2%80%94%20Houston%20Inc./Full%20Stack%20Open.webp"><img src="docs/University%20of%20Helsinki%20%28UH%29%20%E2%80%94%20Houston%20Inc./Full%20Stack%20Open.webp" alt="Full Stack Open" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="university-of-illinois-chicago-uic"></a>
 
 ## University of Illinois Chicago (UIC)
 
 <div align="center">
 
-**Сертификатов: 1**
+**Документов: 1**
 
 </div>
 
@@ -3478,21 +3606,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/University%20of%20Illinois%20Chicago%20%28UIC%29/Leadership%20%E2%80%94%20No-Blame%20Problem%20Solving%20at%20the%20University%20of%20Illinois%20Chicago%20%28UIC%29.webp"><img src="certificates/University%20of%20Illinois%20Chicago%20%28UIC%29/Leadership%20%E2%80%94%20No-Blame%20Problem%20Solving%20at%20the%20University%20of%20Illinois%20Chicago%20%28UIC%29.webp" alt="Leadership — No-Blame Problem Solving at the University of Illinois Chicago (UIC)" width="250"></a>
+<a href="docs/University%20of%20Illinois%20Chicago%20%28UIC%29/Leadership%20%E2%80%94%20No-Blame%20Problem%20Solving%20at%20the%20University%20of%20Illinois%20Chicago%20%28UIC%29.webp"><img src="docs/University%20of%20Illinois%20Chicago%20%28UIC%29/Leadership%20%E2%80%94%20No-Blame%20Problem%20Solving%20at%20the%20University%20of%20Illinois%20Chicago%20%28UIC%29.webp" alt="Leadership — No-Blame Problem Solving at the University of Illinois Chicago (UIC)" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="vmedu"></a>
 
 ## VMEdu
 
 <div align="center">
 
-**Сертификатов: 10**
+**Документов: 10**
 
 </div>
 
@@ -3511,13 +3641,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/VMEdu/Business%20Analysis%20Fundamentals%20with%20AI%20Certified%20%28BALearning%29.webp"><img src="certificates/VMEdu/Business%20Analysis%20Fundamentals%20with%20AI%20Certified%20%28BALearning%29.webp" alt="Business Analysis Fundamentals with AI Certified (BALearning)" width="250"></a>
+<a href="docs/VMEdu/Business%20Analysis%20Fundamentals%20with%20AI%20Certified%20%28BALearning%29.webp"><img src="docs/VMEdu/Business%20Analysis%20Fundamentals%20with%20AI%20Certified%20%28BALearning%29.webp" alt="Business Analysis Fundamentals with AI Certified (BALearning)" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/VMEdu/Corporate%20Sales%20Fundamentals%20%28SMstudy%29.webp"><img src="certificates/VMEdu/Corporate%20Sales%20Fundamentals%20%28SMstudy%29.webp" alt="Corporate Sales Fundamentals (SMstudy)" width="250"></a>
+<a href="docs/VMEdu/Corporate%20Sales%20Fundamentals%20%28SMstudy%29.webp"><img src="docs/VMEdu/Corporate%20Sales%20Fundamentals%20%28SMstudy%29.webp" alt="Corporate Sales Fundamentals (SMstudy)" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/VMEdu/Digital%20Marketing%20Fundamentals%20%28SMstudy%29.webp"><img src="certificates/VMEdu/Digital%20Marketing%20Fundamentals%20%28SMstudy%29.webp" alt="Digital Marketing Fundamentals (SMstudy)" width="250"></a>
+<a href="docs/VMEdu/Digital%20Marketing%20Fundamentals%20%28SMstudy%29.webp"><img src="docs/VMEdu/Digital%20Marketing%20Fundamentals%20%28SMstudy%29.webp" alt="Digital Marketing Fundamentals (SMstudy)" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -3538,13 +3668,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/VMEdu/Kanban%20Essentials%20with%20AI%20Certified%20%28Kanbanstudy%29.webp"><img src="certificates/VMEdu/Kanban%20Essentials%20with%20AI%20Certified%20%28Kanbanstudy%29.webp" alt="Kanban Essentials with AI Certified (Kanbanstudy)" width="250"></a>
+<a href="docs/VMEdu/Kanban%20Essentials%20with%20AI%20Certified%20%28Kanbanstudy%29.webp"><img src="docs/VMEdu/Kanban%20Essentials%20with%20AI%20Certified%20%28Kanbanstudy%29.webp" alt="Kanban Essentials with AI Certified (Kanbanstudy)" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/VMEdu/Marketing%20Research%20Fundamentals%20%28SMstudy%29.webp"><img src="certificates/VMEdu/Marketing%20Research%20Fundamentals%20%28SMstudy%29.webp" alt="Marketing Research Fundamentals (SMstudy)" width="250"></a>
+<a href="docs/VMEdu/Marketing%20Research%20Fundamentals%20%28SMstudy%29.webp"><img src="docs/VMEdu/Marketing%20Research%20Fundamentals%20%28SMstudy%29.webp" alt="Marketing Research Fundamentals (SMstudy)" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/VMEdu/Marketing%20Strategy%20Fundamentals%20%28SMstudy%29.webp"><img src="certificates/VMEdu/Marketing%20Strategy%20Fundamentals%20%28SMstudy%29.webp" alt="Marketing Strategy Fundamentals (SMstudy)" width="250"></a>
+<a href="docs/VMEdu/Marketing%20Strategy%20Fundamentals%20%28SMstudy%29.webp"><img src="docs/VMEdu/Marketing%20Strategy%20Fundamentals%20%28SMstudy%29.webp" alt="Marketing Strategy Fundamentals (SMstudy)" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -3565,13 +3695,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/VMEdu/Negotiation%20Associate%20%28NGstudy%29.webp"><img src="certificates/VMEdu/Negotiation%20Associate%20%28NGstudy%29.webp" alt="Negotiation Associate (NGstudy)" width="250"></a>
+<a href="docs/VMEdu/Negotiation%20Associate%20%28NGstudy%29.webp"><img src="docs/VMEdu/Negotiation%20Associate%20%28NGstudy%29.webp" alt="Negotiation Associate (NGstudy)" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/VMEdu/OKR%20Fundamentals%20with%20AI%20Certified%20%28OKRstudy%29.webp"><img src="certificates/VMEdu/OKR%20Fundamentals%20with%20AI%20Certified%20%28OKRstudy%29.webp" alt="OKR Fundamentals with AI Certified (OKRstudy)" width="250"></a>
+<a href="docs/VMEdu/OKR%20Fundamentals%20with%20AI%20Certified%20%28OKRstudy%29.webp"><img src="docs/VMEdu/OKR%20Fundamentals%20with%20AI%20Certified%20%28OKRstudy%29.webp" alt="OKR Fundamentals with AI Certified (OKRstudy)" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/VMEdu/Scrum%20Fundamentals%20Certified%20%28SCRUMstudy%29.webp"><img src="certificates/VMEdu/Scrum%20Fundamentals%20Certified%20%28SCRUMstudy%29.webp" alt="Scrum Fundamentals Certified (SCRUMstudy)" width="250"></a>
+<a href="docs/VMEdu/Scrum%20Fundamentals%20Certified%20%28SCRUMstudy%29.webp"><img src="docs/VMEdu/Scrum%20Fundamentals%20Certified%20%28SCRUMstudy%29.webp" alt="Scrum Fundamentals Certified (SCRUMstudy)" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -3586,21 +3716,23 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/VMEdu/Six%20Sigma%20Yellow%20Belt%20%286sigmastudy%29.webp"><img src="certificates/VMEdu/Six%20Sigma%20Yellow%20Belt%20%286sigmastudy%29.webp" alt="Six Sigma Yellow Belt (6sigmastudy)" width="250"></a>
+<a href="docs/VMEdu/Six%20Sigma%20Yellow%20Belt%20%286sigmastudy%29.webp"><img src="docs/VMEdu/Six%20Sigma%20Yellow%20Belt%20%286sigmastudy%29.webp" alt="Six Sigma Yellow Belt (6sigmastudy)" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="voice-of-america-voa"></a>
 
 ## Voice of America (VOA)
 
 <div align="center">
 
-**Сертификатов: 2**
+**Документов: 2**
 
 </div>
 
@@ -3616,24 +3748,26 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Voice%20of%20America%20%28VOA%29/Let%27s%20Learn%20English%20Level%201.webp"><img src="certificates/Voice%20of%20America%20%28VOA%29/Let%27s%20Learn%20English%20Level%201.webp" alt="Let's Learn English Level 1" width="250"></a>
+<a href="docs/Voice%20of%20America%20%28VOA%29/Let%27s%20Learn%20English%20Level%201.webp"><img src="docs/Voice%20of%20America%20%28VOA%29/Let%27s%20Learn%20English%20Level%201.webp" alt="Let's Learn English Level 1" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Voice%20of%20America%20%28VOA%29/Let%27s%20Learn%20English%20Level%202.webp"><img src="certificates/Voice%20of%20America%20%28VOA%29/Let%27s%20Learn%20English%20Level%202.webp" alt="Let's Learn English Level 2" width="250"></a>
+<a href="docs/Voice%20of%20America%20%28VOA%29/Let%27s%20Learn%20English%20Level%202.webp"><img src="docs/Voice%20of%20America%20%28VOA%29/Let%27s%20Learn%20English%20Level%202.webp" alt="Let's Learn English Level 2" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="wild-chicken-university-wcu"></a>
 
 ## Wild Chicken University (WCU)
 
 <div align="center">
 
-**Сертификатов: 5**
+**Документов: 5**
 
 </div>
 
@@ -3652,13 +3786,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Wild%20Chicken%20University%20%28WCU%29/WCU%20Admission%20Decision.webp"><img src="certificates/Wild%20Chicken%20University%20%28WCU%29/WCU%20Admission%20Decision.webp" alt="WCU Admission Decision" width="250"></a>
+<a href="docs/Wild%20Chicken%20University%20%28WCU%29/WCU%20Admission%20Decision.webp"><img src="docs/Wild%20Chicken%20University%20%28WCU%29/WCU%20Admission%20Decision.webp" alt="WCU Admission Decision" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Wild%20Chicken%20University%20%28WCU%29/WCU%20Diploma%20-%20Doctor%20of%20Management.webp"><img src="certificates/Wild%20Chicken%20University%20%28WCU%29/WCU%20Diploma%20-%20Doctor%20of%20Management.webp" alt="WCU Diploma - Doctor of Management" width="250"></a>
+<a href="docs/Wild%20Chicken%20University%20%28WCU%29/WCU%20Diploma%20-%20Doctor%20of%20Management.webp"><img src="docs/Wild%20Chicken%20University%20%28WCU%29/WCU%20Diploma%20-%20Doctor%20of%20Management.webp" alt="WCU Diploma - Doctor of Management" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Wild%20Chicken%20University%20%28WCU%29/WCU%20Diploma%20-%20Master.webp"><img src="certificates/Wild%20Chicken%20University%20%28WCU%29/WCU%20Diploma%20-%20Master.webp" alt="WCU Diploma - Master" width="250"></a>
+<a href="docs/Wild%20Chicken%20University%20%28WCU%29/WCU%20Diploma%20-%20Master.webp"><img src="docs/Wild%20Chicken%20University%20%28WCU%29/WCU%20Diploma%20-%20Master.webp" alt="WCU Diploma - Master" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -3676,24 +3810,26 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Wild%20Chicken%20University%20%28WCU%29/WCU%20Diploma%20-%20Master%20of%20Engineering%201.webp"><img src="certificates/Wild%20Chicken%20University%20%28WCU%29/WCU%20Diploma%20-%20Master%20of%20Engineering%201.webp" alt="WCU Diploma - Master of Engineering 1" width="250"></a>
+<a href="docs/Wild%20Chicken%20University%20%28WCU%29/WCU%20Diploma%20-%20Master%20of%20Engineering%201.webp"><img src="docs/Wild%20Chicken%20University%20%28WCU%29/WCU%20Diploma%20-%20Master%20of%20Engineering%201.webp" alt="WCU Diploma - Master of Engineering 1" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Wild%20Chicken%20University%20%28WCU%29/WCU%20Diploma%20-%20Master%20of%20Engineering%202.webp"><img src="certificates/Wild%20Chicken%20University%20%28WCU%29/WCU%20Diploma%20-%20Master%20of%20Engineering%202.webp" alt="WCU Diploma - Master of Engineering 2" width="250"></a>
+<a href="docs/Wild%20Chicken%20University%20%28WCU%29/WCU%20Diploma%20-%20Master%20of%20Engineering%202.webp"><img src="docs/Wild%20Chicken%20University%20%28WCU%29/WCU%20Diploma%20-%20Master%20of%20Engineering%202.webp" alt="WCU Diploma - Master of Engineering 2" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
+
+<a id="wolfram-u"></a>
 
 ## Wolfram U
 
 <div align="center">
 
-**Сертификатов: 4**
+**Документов: 4**
 
 </div>
 
@@ -3712,13 +3848,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Wolfram%20U/Introduction%20to%20Image%20Processing.webp"><img src="certificates/Wolfram%20U/Introduction%20to%20Image%20Processing.webp" alt="Introduction to Image Processing" width="250"></a>
+<a href="docs/Wolfram%20U/Introduction%20to%20Image%20Processing.webp"><img src="docs/Wolfram%20U/Introduction%20to%20Image%20Processing.webp" alt="Introduction to Image Processing" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Wolfram%20U/Multiparadigm%20Data%20Science.webp"><img src="certificates/Wolfram%20U/Multiparadigm%20Data%20Science.webp" alt="Multiparadigm Data Science" width="250"></a>
+<a href="docs/Wolfram%20U/Multiparadigm%20Data%20Science.webp"><img src="docs/Wolfram%20U/Multiparadigm%20Data%20Science.webp" alt="Multiparadigm Data Science" width="250"></a>
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Wolfram%20U/Visual%20Exploration%20of%20Data.webp"><img src="certificates/Wolfram%20U/Visual%20Exploration%20of%20Data.webp" alt="Visual Exploration of Data" width="250"></a>
+<a href="docs/Wolfram%20U/Visual%20Exploration%20of%20Data.webp"><img src="docs/Wolfram%20U/Visual%20Exploration%20of%20Data.webp" alt="Visual Exploration of Data" width="250"></a>
 </td>
 </tr>
 </tbody>
@@ -3733,13 +3869,13 @@
 </tr>
 <tr>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
-<a href="certificates/Wolfram%20U/Visual%20Explorations%20in%20Data%20Science.webp"><img src="certificates/Wolfram%20U/Visual%20Explorations%20in%20Data%20Science.webp" alt="Visual Explorations in Data Science" width="250"></a>
+<a href="docs/Wolfram%20U/Visual%20Explorations%20in%20Data%20Science.webp"><img src="docs/Wolfram%20U/Visual%20Explorations%20in%20Data%20Science.webp" alt="Visual Explorations in Data Science" width="250"></a>
 </td>
 </tr>
 </tbody>
 </table>
 
-<p align="right"><a href="#сертификаты">↑ Наверх</a></p>
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
 
 ---
 
